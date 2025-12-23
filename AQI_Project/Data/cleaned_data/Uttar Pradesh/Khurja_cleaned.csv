@@ -1,0 +1,367 @@
+TIMESTAMP,PM2.5,PM10,NO2,NH3,SO2,CO,O3,MONTH,SEASON,FESTIVAL_SEASON,AQI,AQI_CATEGORY,CITY,STATE,LATITUDE,LONGITUDE
+2024-01-01,49.02,78.41,23.22,6.03,29.86,0.0,22.38,January,Winter,Christmas & New Year,81.44758620689656,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-02,78.99,126.2,30.36,7.5,30.76,0.04,23.05,January,Winter,Christmas & New Year,162.41413793103447,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-03,49.16,78.64,27.17,6.77,32.9,0.0,24.67,January,Winter,Christmas & New Year,81.68413793103448,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-04,93.34,149.37,30.81,7.23,35.22,0.0,26.4,January,Winter,Christmas & New Year,208.98827586206897,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-05,55.74,89.13,26.17,6.5,35.21,0.09,26.39,January,Winter,Christmas & New Year,92.80206896551724,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-06,46.89,74.94,22.13,5.95,33.55,0.41,25.15,January,Winter,Christmas & New Year,77.84862068965518,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-07,52.12,83.42,26.24,6.49,33.35,0.89,25.0,January,Winter,Christmas & New Year,86.6855172413793,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-08,48.42,77.46,31.32,7.21,33.35,0.92,24.98,January,Winter,Christmas & New Year,80.43379310344828,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-09,56.46,90.33,26.61,6.87,31.89,0.81,23.91,January,Winter,Christmas & New Year,94.01862068965517,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-10,47.21,75.63,26.26,6.57,35.23,0.53,26.4,January,Winter,Christmas & New Year,78.38931034482759,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-11,69.74,111.48,29.26,6.96,33.56,1.01,25.13,January,Winter,Christmas & New Year,130.8365517241379,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-12,63.33,101.32,32.2,7.44,34.61,1.26,25.94,January,Winter,Christmas & New Year,108.95413793103448,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-13,67.04,106.12,27.77,6.88,34.29,1.36,25.69,January,Winter,Christmas & New Year,121.61931034482761,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-14,82.52,132.01,30.6,7.27,35.61,2.12,26.68,January,Winter,Christmas & New Year,174.46482758620687,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-15,60.77,97.15,27.95,6.85,36.57,1.56,27.41,January,Winter,Christmas & New Year,97.15,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-16,40.27,64.42,21.28,5.88,35.34,1.27,26.48,January,Winter,Christmas & New Year,66.66310344827586,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-17,42.87,68.57,23.09,6.52,36.05,0.67,27.01,January,Winter,Christmas & New Year,71.05620689655171,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-18,20.1,32.12,20.13,6.02,35.53,0.56,26.62,January,Winter,Christmas & New Year,44.4125,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-19,33.78,54.05,18.57,5.96,35.87,0.53,26.88,January,Winter,Christmas & New Year,55.69724137931035,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-20,32.35,51.78,18.86,5.81,42.36,0.53,31.75,January,Winter,Christmas & New Year,53.28103448275862,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-21,62.25,99.7,29.93,7.05,40.2,1.27,30.12,January,Winter,Christmas & New Year,105.26724137931035,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-22,62.04,99.26,21.33,5.97,42.7,0.72,32.0,January,Winter,Christmas & New Year,104.5503448275862,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-23,37.68,60.28,21.53,6.0,41.02,0.9,30.73,January,Winter,Christmas & New Year,62.28689655172414,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-24,53.95,86.34,24.08,6.59,42.67,1.32,31.97,January,Winter,Christmas & New Year,89.77758620689656,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-25,64.65,103.44,25.1,6.69,35.09,1.73,26.29,January,Winter,Christmas & New Year,113.46034482758623,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-26,50.1,80.13,22.26,6.2,35.18,1.86,26.36,January,Winter,Christmas & New Year,92.37777777777778,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-27,39.31,62.83,25.75,6.77,34.67,1.21,25.98,January,Winter,Christmas & New Year,65.04103448275862,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-28,50.92,81.47,25.24,6.58,33.87,1.13,25.39,January,Winter,Christmas & New Year,84.65793103448277,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-29,59.24,94.79,20.04,5.94,39.33,0.95,29.49,January,Winter,Christmas & New Year,98.71586206896552,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-30,85.22,136.35,34.63,8.09,35.76,1.21,26.76,January,Winter,Christmas & New Year,183.68206896551723,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-01-31,42.35,67.76,21.23,6.26,40.92,1.26,30.7,January,Winter,Christmas & New Year,70.17758620689655,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-01,8.3,13.28,15.48,5.29,32.99,0.2,24.84,February,Winter,Winter Wedding,41.237500000000004,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-02,51.31,82.1,21.02,6.18,30.9,0.51,23.15,February,Winter,Winter Wedding,85.31689655172414,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-03,22.05,35.27,18.47,5.97,31.03,0.35,23.25,February,Winter,Winter Wedding,38.7875,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-04,25.86,41.34,16.97,5.47,32.0,0.43,23.97,February,Winter,Winter Wedding,43.1,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-05,18.87,30.19,14.64,5.07,28.96,0.19,21.71,February,Winter,Winter Wedding,36.2,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-06,18.11,28.94,14.69,5.45,28.3,0.16,21.2,February,Winter,Winter Wedding,35.375,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-07,19.03,30.45,19.94,6.06,27.32,0.22,20.47,February,Winter,Winter Wedding,34.15,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-08,20.18,32.3,17.59,5.62,32.02,0.1,23.98,February,Winter,Winter Wedding,40.025000000000006,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-09,26.02,41.6,19.59,5.94,30.42,0.23,22.79,February,Winter,Winter Wedding,43.36666666666667,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-10,57.05,91.25,27.74,7.21,29.57,0.85,22.15,February,Winter,Winter Wedding,95.01551724137931,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-11,60.77,97.23,19.88,5.98,30.35,0.8,22.74,February,Winter,Winter Wedding,97.23,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-12,49.7,79.52,26.25,7.12,30.89,0.61,23.16,February,Winter,Winter Wedding,82.59655172413794,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-13,65.76,105.26,33.54,8.29,28.65,0.69,21.47,February,Winter,Winter Wedding,117.24965517241381,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-14,69.46,110.93,26.61,7.26,27.82,0.77,20.85,February,Winter,Winter Wedding,129.8806896551724,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-15,56.84,91.34,30.07,7.85,29.98,0.68,22.46,February,Winter,Winter Wedding,94.66068965517242,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-16,49.14,78.69,25.34,7.14,28.82,0.79,21.59,February,Winter,Winter Wedding,81.65034482758621,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-17,39.15,62.64,27.79,7.49,28.27,0.61,21.17,February,Winter,Winter Wedding,64.77068965517242,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-18,36.48,58.37,26.59,7.25,28.81,0.57,21.59,February,Winter,Winter Wedding,60.25931034482758,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-19,27.63,44.18,14.34,5.32,27.83,0.22,20.85,February,Winter,Winter Wedding,46.05,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-20,39.46,63.13,15.05,5.41,27.77,0.35,20.82,February,Winter,Winter Wedding,65.29448275862069,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-21,49.51,79.12,17.81,5.8,26.09,0.47,19.55,February,Winter,Winter Wedding,82.2755172413793,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-22,20.21,32.31,15.09,5.48,26.26,0.18,19.67,February,Winter,Winter Wedding,33.68333333333334,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-23,19.84,31.68,17.27,6.13,26.35,0.13,19.74,February,Winter,Winter Wedding,33.06666666666667,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-24,32.98,52.75,18.31,6.44,27.26,0.3,20.44,February,Winter,Winter Wedding,54.345517241379305,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-25,27.78,44.47,13.72,5.93,24.41,0.32,18.29,February,Winter,Winter Wedding,46.300000000000004,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-26,25.74,41.16,14.97,6.23,24.99,0.26,18.73,February,Winter,Winter Wedding,42.9,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-27,32.76,52.45,15.25,6.13,29.19,0.28,21.89,February,Winter,Winter Wedding,53.97379310344827,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-28,40.95,65.54,13.8,5.88,27.48,0.16,20.59,February,Winter,Winter Wedding,67.81206896551726,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-02-29,48.96,78.39,14.42,6.12,28.79,0.27,21.57,February,Winter,Winter Wedding,81.34620689655173,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-01,47.85,76.56,14.5,6.28,29.16,0.3,21.85,March,Summer,Holi Festival Season,79.47068965517242,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-02,21.54,34.45,9.53,5.07,29.82,0.01,22.34,March,Summer,Holi Festival Season,37.275,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-03,30.9,49.42,9.09,4.87,27.69,0.44,20.75,March,Summer,Holi Festival Season,49.42,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-04,23.99,38.4,10.37,5.17,26.68,0.75,19.98,March,Summer,Holi Festival Season,39.983333333333334,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-05,33.93,54.33,11.48,5.26,25.28,0.82,18.94,March,Summer,Holi Festival Season,55.95068965517241,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-06,39.2,62.7,11.75,5.34,25.28,0.84,18.93,March,Summer,Holi Festival Season,64.85517241379311,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-07,41.22,65.94,12.49,5.66,22.33,0.9,16.72,March,Summer,Holi Festival Season,68.26827586206896,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-08,43.06,68.89,9.32,5.34,21.58,0.83,16.17,March,Summer,Holi Festival Season,71.37724137931035,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-09,42.85,68.56,10.18,5.6,21.62,0.62,16.19,March,Summer,Holi Festival Season,71.02241379310345,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-10,54.93,87.89,14.1,6.12,23.92,0.97,17.92,March,Summer,Holi Festival Season,91.43344827586208,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-11,60.87,97.4,12.09,5.68,26.25,1.0,19.64,March,Summer,Holi Festival Season,97.4,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-12,59.59,95.38,14.25,6.29,26.21,0.99,19.65,March,Summer,Holi Festival Season,99.30724137931036,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-13,45.09,72.08,10.96,5.44,22.58,0.95,16.92,March,Summer,Holi Festival Season,74.80724137931036,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-14,48.98,78.45,10.02,5.56,23.4,0.86,17.53,March,Summer,Holi Festival Season,81.38,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-15,32.79,52.45,2.66,6.07,21.62,0.65,16.2,March,Summer,Holi Festival Season,54.024482758620685,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-16,46.64,74.62,2.67,6.25,23.76,0.87,17.8,March,Summer,Holi Festival Season,77.42620689655172,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-17,53.44,85.51,2.68,6.75,25.29,1.05,18.95,March,Summer,Holi Festival Season,88.91586206896551,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-18,48.9,78.23,2.68,6.57,27.28,0.93,20.43,March,Summer,Holi Festival Season,81.2448275862069,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-19,53.4,85.55,2.69,6.56,30.93,1.02,23.19,March,Summer,Holi Festival Season,88.84827586206896,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-20,61.05,97.61,2.69,6.69,29.08,1.23,21.8,March,Summer,Holi Festival Season,101.17068965517241,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-21,50.17,80.33,2.64,5.76,30.41,0.88,22.79,March,Summer,Holi Festival Season,83.39068965517242,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-22,44.85,71.81,2.69,5.41,31.75,0.92,23.78,March,Summer,Holi Festival Season,74.40172413793104,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-23,55.23,88.39,2.65,5.6,33.44,1.08,25.04,March,Summer,Holi Festival Season,91.9403448275862,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-24,73.56,117.62,2.68,5.85,35.01,0.98,26.23,March,Summer,Holi Festival Season,143.87724137931036,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-25,54.57,87.31,2.65,5.34,35.6,1.06,26.67,March,Summer,Holi Festival Season,90.8251724137931,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-26,42.63,68.16,2.67,5.15,36.49,0.77,27.33,March,Summer,Holi Festival Season,70.65068965517241,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-27,53.16,84.94,2.67,5.57,37.07,0.9,27.78,March,Summer,Holi Festival Season,88.44275862068966,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-28,47.56,76.21,2.67,5.46,38.0,0.86,28.48,March,Summer,Holi Festival Season,78.98068965517243,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-29,49.85,79.76,2.69,5.0,42.93,0.93,32.17,March,Summer,Holi Festival Season,82.85000000000001,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-30,43.97,70.4,2.65,4.97,45.27,0.55,33.92,March,Summer,Holi Festival Season,72.9148275862069,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-03-31,60.75,97.22,2.65,4.98,46.18,1.15,34.6,March,Summer,Holi Festival Season,97.22,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-01,37.22,59.55,2.64,5.06,44.02,0.62,32.99,April,Summer,Summer Wedding,61.509655172413794,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-02,42.71,68.28,2.66,5.49,43.76,0.7,32.78,April,Summer,Summer Wedding,70.78586206896551,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-03,46.26,74.01,2.65,5.43,44.27,0.82,33.18,April,Summer,Summer Wedding,76.78413793103448,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-04,55.6,88.99,2.66,5.66,45.18,0.91,33.86,April,Summer,Summer Wedding,92.56551724137931,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-05,50.64,81.06,2.7,5.74,47.24,0.92,35.41,April,Summer,Summer Wedding,84.1848275862069,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-06,48.07,76.87,2.62,5.73,44.74,0.81,33.53,April,Summer,Summer Wedding,79.84241379310345,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-07,52.43,83.93,2.63,5.98,42.37,0.93,31.75,April,Summer,Summer Wedding,87.20931034482759,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-08,52.09,83.38,2.62,6.08,40.66,1.0,30.45,April,Summer,Summer Wedding,86.63482758620691,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-09,47.34,75.67,2.68,6.12,38.99,1.01,29.21,April,Summer,Summer Wedding,78.60896551724139,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-10,43.75,69.97,2.68,6.12,40.65,0.91,30.45,April,Summer,Summer Wedding,72.54310344827586,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-11,37.72,60.3,2.67,6.06,41.45,0.8,31.07,April,Summer,Summer Wedding,62.35448275862069,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-12,53.37,85.42,2.66,5.92,42.1,0.98,31.53,April,Summer,Summer Wedding,88.79758620689654,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-13,45.73,73.25,2.67,5.47,43.35,0.78,32.47,April,Summer,Summer Wedding,75.88862068965517,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-14,36.72,58.74,2.69,5.09,42.66,0.71,31.95,April,Summer,Summer Wedding,60.6648275862069,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-15,55.09,88.14,2.67,5.4,39.91,1.01,29.88,April,Summer,Summer Wedding,91.70379310344828,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-16,56.26,90.0,2.62,5.33,41.95,0.91,31.44,April,Summer,Summer Wedding,93.68068965517242,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-17,46.11,73.83,2.66,5.75,47.57,0.61,35.65,April,Summer,Summer Wedding,76.53068965517241,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-18,44.07,70.55,2.72,5.64,44.89,0.64,33.62,April,Summer,Summer Wedding,73.08379310344827,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-19,45.1,72.18,2.64,5.2,44.25,0.76,33.16,April,Summer,Summer Wedding,74.82413793103449,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-20,50.06,80.15,2.68,5.21,44.93,0.68,33.66,April,Summer,Summer Wedding,83.2048275862069,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-21,39.48,63.19,2.62,5.3,42.98,0.62,32.21,April,Summer,Summer Wedding,65.32827586206896,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-22,42.23,67.55,2.65,5.79,42.83,0.71,32.1,April,Summer,Summer Wedding,69.97482758620689,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-23,38.88,62.25,2.68,5.72,43.78,0.87,32.81,April,Summer,Summer Wedding,64.3144827586207,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-24,40.06,64.04,2.67,6.0,43.75,0.69,32.77,April,Summer,Summer Wedding,66.30827586206897,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-25,58.79,94.03,2.67,6.24,44.16,0.96,33.09,April,Summer,Summer Wedding,97.95551724137931,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-26,51.18,81.95,2.68,6.2,46.31,1.01,34.69,April,Summer,Summer Wedding,85.09724137931035,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-27,34.16,54.61,2.67,5.47,43.57,0.6,32.64,April,Summer,Summer Wedding,56.33931034482758,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-28,52.94,84.72,2.64,5.74,42.2,0.79,31.62,April,Summer,Summer Wedding,88.07103448275862,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-29,43.01,68.86,2.68,5.67,44.12,1.0,33.06,April,Summer,Summer Wedding,71.29275862068965,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-04-30,42.24,67.6,2.67,5.79,47.78,0.65,35.79,April,Summer,Summer Wedding,69.99172413793104,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-01,50.22,80.37,2.71,5.88,44.91,0.73,33.66,May,Summer,Summer Wedding,83.4751724137931,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-02,58.11,92.91,2.63,6.06,44.9,0.82,33.65,May,Summer,Summer Wedding,96.80655172413793,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-03,61.98,99.13,2.69,6.31,46.62,1.15,34.93,May,Summer,Summer Wedding,104.3455172413793,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-04,80.14,128.22,2.67,6.83,49.05,1.39,36.75,May,Summer,Summer Wedding,166.34,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-05,76.93,122.99,2.67,6.37,51.0,1.16,38.2,May,Summer,Summer Wedding,155.38172413793106,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-06,62.06,99.28,2.64,6.02,50.97,1.18,38.19,May,Summer,Summer Wedding,104.61862068965517,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-07,59.47,95.22,2.68,6.03,48.8,1.15,36.58,May,Summer,Summer Wedding,99.10448275862069,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-08,44.37,71.02,2.61,5.42,47.44,0.79,35.53,May,Summer,Summer Wedding,73.59068965517241,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-09,43.8,70.12,2.64,5.14,47.17,0.74,35.33,May,Summer,Summer Wedding,72.62758620689655,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-10,45.97,73.52,2.62,5.08,48.82,0.78,36.59,May,Summer,Summer Wedding,76.29413793103448,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-11,47.99,76.85,2.63,5.08,46.93,0.64,35.17,May,Summer,Summer Wedding,79.70724137931035,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-12,47.23,75.59,2.66,5.35,48.11,0.8,36.04,May,Summer,Summer Wedding,78.42310344827585,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-13,45.4,72.67,2.65,5.41,49.97,0.79,37.43,May,Summer,Summer Wedding,75.33103448275861,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-14,56.98,91.09,2.61,5.05,50.64,0.91,37.95,May,Summer,Summer Wedding,94.89724137931034,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-15,42.61,68.16,3.18,5.94,57.68,0.73,43.31,May,Summer,Summer Wedding,71.95692307692308,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-16,46.03,73.33,2.66,6.46,50.01,0.86,37.48,May,Summer,Summer Wedding,76.39551724137931,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-17,67.78,108.46,2.61,5.87,46.23,1.17,34.62,May,Summer,Summer Wedding,124.14551724137931,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-18,52.57,84.09,2.52,6.22,53.42,0.77,40.03,May,Summer,Summer Wedding,87.44586206896551,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-19,58.29,93.26,2.6,6.2,50.51,1.2,37.85,May,Summer,Summer Wedding,97.11068965517242,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-20,48.9,78.31,2.62,5.86,46.06,0.93,34.49,May,Summer,Summer Wedding,81.2448275862069,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-21,41.8,66.85,2.63,5.24,46.62,0.82,34.95,May,Summer,Summer Wedding,69.24827586206897,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-22,44.54,71.12,2.79,4.94,53.9,0.82,40.39,May,Summer,Summer Wedding,73.87793103448276,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-23,36.61,79.09,2.6,4.74,107.77,0.67,80.78,May,Summer,Summer Wedding,109.86364548494983,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-24,45.33,137.23,2.66,5.02,137.37,0.76,104.26,May,Summer,Summer Wedding,125.07228187919463,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-25,60.08,176.92,2.65,5.31,145.53,0.95,109.67,May,Summer,Summer Wedding,151.4434899328859,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-26,69.33,204.89,2.65,5.63,144.19,1.08,109.46,May,Summer,Summer Wedding,170.02758389261743,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-27,61.41,186.08,2.66,5.5,148.89,1.0,114.34,May,Summer,Summer Wedding,157.52966442953021,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-28,63.27,203.95,8.47,5.62,151.29,1.07,116.01,May,Summer,Summer Wedding,169.4030201342282,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-29,77.54,242.45,16.9,5.56,151.01,1.01,117.49,May,Summer,Summer Wedding,194.98355704697985,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-30,49.62,226.36,15.13,5.51,143.23,0.68,107.87,May,Summer,Summer Wedding,184.29288590604028,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-05-31,48.29,216.03,14.99,5.61,136.77,0.76,110.53,May,Summer,Summer Wedding,177.4293288590604,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-01,74.19,258.58,16.99,5.88,121.81,1.04,91.28,June,Monsoon,Non-Festival Period,208.57999999999998,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-02,48.24,173.71,15.02,5.5,119.39,0.76,89.46,June,Monsoon,Non-Festival Period,149.3106711409396,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-03,45.98,177.93,14.59,5.34,138.1,0.76,103.54,June,Monsoon,Non-Festival Period,152.11456375838927,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-04,53.81,190.95,13.14,5.33,121.23,0.7,90.87,June,Monsoon,Non-Festival Period,160.76543624161073,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-05,51.22,222.77,17.05,5.85,125.98,0.82,96.48,June,Monsoon,Non-Festival Period,181.90758389261748,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-06,48.025000000000006,99.725,2.685,5.01,32.040000000000006,0.76,21.58,June,Monsoon,Non-Festival Period,99.725,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-07,48.025000000000006,99.725,2.685,5.01,32.040000000000006,0.76,21.58,June,Monsoon,Non-Festival Period,99.725,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-08,48.025000000000006,99.725,2.685,5.01,32.040000000000006,0.76,21.58,June,Monsoon,Non-Festival Period,99.725,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-09,48.025000000000006,99.725,2.685,5.01,32.040000000000006,0.76,21.58,June,Monsoon,Non-Festival Period,99.725,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-10,40.87,281.31,12.33,5.6,108.96,0.5,83.63,June,Monsoon,Non-Festival Period,231.31,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-11,53.0,243.0,14.66,5.65,101.45,0.75,75.99,June,Monsoon,Non-Festival Period,195.3489932885906,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-12,50.36,261.72,13.91,5.55,93.9,0.65,70.37,June,Monsoon,Non-Festival Period,211.72000000000003,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-13,48.06,248.95,14.9,5.38,84.68,0.51,63.45,June,Monsoon,Non-Festival Period,199.3023489932886,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-14,30.63,261.59,14.18,5.36,80.71,0.4,60.55,June,Monsoon,Non-Festival Period,211.58999999999997,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-15,41.52,250.68,15.03,5.7,71.17,0.43,53.36,June,Monsoon,Non-Festival Period,88.90589743589743,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-16,49.4,305.86,16.52,6.22,60.21,0.61,45.16,June,Monsoon,Non-Festival Period,255.86,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-17,48.96,217.03,15.96,5.92,60.54,0.64,45.35,June,Monsoon,Non-Festival Period,178.09375838926175,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-18,40.02,251.99,12.99,5.37,52.33,0.52,39.23,June,Monsoon,Non-Festival Period,201.99,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-19,33.21,229.81,9.28,4.68,34.56,0.42,25.85,June,Monsoon,Non-Festival Period,186.5851677852349,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-20,29.31,153.54,10.02,4.84,40.72,0.44,30.52,June,Monsoon,Non-Festival Period,135.9091275167785,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-21,38.67,122.52,9.54,4.84,33.88,0.5,25.4,June,Monsoon,Non-Festival Period,115.29852348993289,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-22,53.64,163.2,9.68,5.02,33.32,0.77,24.95,June,Monsoon,Non-Festival Period,142.3275167785235,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-23,50.47,158.29,8.5,4.73,32.99,0.78,24.71,June,Monsoon,Non-Festival Period,139.0651677852349,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-24,51.6,147.88,10.29,5.2,42.77,0.74,32.05,June,Monsoon,Non-Festival Period,132.14845637583892,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-25,42.53,123.21,9.87,4.8,26.98,0.52,20.2,June,Monsoon,Non-Festival Period,115.75697986577181,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-26,39.25,116.59,8.66,4.67,38.3,0.61,28.7,June,Monsoon,Non-Festival Period,111.35845637583893,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-27,29.73,84.4,9.37,4.8,36.43,0.44,27.26,June,Monsoon,Non-Festival Period,84.4,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-28,27.35,150.95,9.79,4.99,44.23,0.43,33.21,June,Monsoon,Non-Festival Period,134.18825503355703,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-29,18.82,87.27,11.13,5.2,44.33,0.44,33.2,June,Monsoon,Non-Festival Period,87.27,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-06-30,33.64,91.96,13.41,5.5,87.63,0.67,66.59,June,Monsoon,Non-Festival Period,103.19521739130434,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-01,34.53,104.36,12.58,5.3,87.42,0.56,67.33,July,Monsoon,Non-Festival Period,103.23248322147651,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-02,30.57,105.09,8.84,4.68,31.2,0.3,23.4,July,Monsoon,Non-Festival Period,103.71751677852349,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-03,24.45,93.76,8.09,4.58,27.44,0.44,20.55,July,Monsoon,Non-Festival Period,93.76,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-04,22.52,88.05,8.7,4.67,29.95,0.5,22.45,July,Monsoon,Non-Festival Period,88.05,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-05,15.3,64.76,12.83,5.12,73.82,0.54,55.3,July,Monsoon,Non-Festival Period,92.2353846153846,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-06,18.15,77.43,8.6,4.63,25.91,0.38,19.43,July,Monsoon,Non-Festival Period,77.43,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-07,22.75,78.93,7.45,4.37,18.91,0.2,14.21,July,Monsoon,Non-Festival Period,78.93,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-08,23.02,103.32,8.64,4.51,19.27,0.26,14.39,July,Monsoon,Non-Festival Period,102.54147651006711,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-09,38.05,127.77,8.39,4.72,17.62,0.34,13.21,July,Monsoon,Non-Festival Period,118.78677852348993,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-10,41.49,120.57,9.66,5.18,17.86,0.53,13.38,July,Monsoon,Non-Festival Period,114.00288590604026,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-11,36.28,125.27,9.25,4.87,22.5,0.49,16.84,July,Monsoon,Non-Festival Period,117.12570469798658,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-12,32.01,111.6,9.2,4.86,21.26,0.42,15.92,July,Monsoon,Non-Festival Period,108.04295302013422,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-13,34.01,115.64,9.56,4.93,20.2,0.56,15.15,July,Monsoon,Non-Festival Period,110.72724832214766,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-14,39.56,113.66,9.3,4.89,19.74,0.49,14.79,July,Monsoon,Non-Festival Period,109.41167785234899,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-15,41.76,121.7,9.37,4.85,19.72,0.52,14.79,July,Monsoon,Non-Festival Period,114.75369127516778,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-16,38.45,125.61,8.66,4.71,18.62,0.4,13.94,July,Monsoon,Non-Festival Period,117.35161073825503,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-17,32.84,119.6,8.85,4.76,16.98,0.35,12.71,July,Monsoon,Non-Festival Period,113.35838926174496,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-18,46.6,119.42,8.38,4.57,17.09,0.41,12.8,July,Monsoon,Non-Festival Period,113.23879194630872,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-19,52.45,133.91,9.49,5.02,16.73,0.58,12.51,July,Monsoon,Non-Festival Period,122.86637583892617,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-20,42.09,112.13,8.66,4.75,17.47,0.52,13.08,July,Monsoon,Non-Festival Period,108.39510067114094,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-21,40.79,114.9,8.69,4.73,19.49,0.46,14.64,July,Monsoon,Non-Festival Period,110.23557046979866,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-22,37.44,116.53,17.4,7.0,18.92,0.43,14.21,July,Monsoon,Non-Festival Period,111.31859060402685,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-23,35.04,111.06,23.84,8.47,16.15,0.45,12.11,July,Monsoon,Non-Festival Period,107.6841610738255,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-24,34.97,107.92,13.93,6.06,26.16,0.48,19.6,July,Monsoon,Non-Festival Period,105.59785234899329,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-25,22.72,113.99,11.59,5.64,49.26,0.45,36.92,July,Monsoon,Non-Festival Period,109.63093959731543,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-26,38.76,107.73,10.16,5.47,49.93,0.52,37.41,July,Monsoon,Non-Festival Period,105.47161073825504,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-27,27.87,119.28,9.01,5.25,46.37,0.47,34.75,July,Monsoon,Non-Festival Period,113.14577181208054,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-28,24.51,83.02,8.57,5.09,40.03,0.4,29.99,July,Monsoon,Non-Festival Period,83.02,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-29,28.02,107.36,8.34,5.04,36.05,0.43,27.02,July,Monsoon,Non-Festival Period,105.22577181208054,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-30,41.61,106.5,8.77,5.17,35.44,0.46,26.56,July,Monsoon,Non-Festival Period,104.65436241610739,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-07-31,35.67,120.89,8.58,5.19,33.5,0.49,25.1,July,Monsoon,Non-Festival Period,114.2155033557047,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-01,15.09,67.74,8.13,5.09,32.12,0.39,24.07,August,Monsoon,Ganesh Chaturthi & Navratri,67.74,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-02,19.22,63.7,8.63,5.11,65.2,0.47,48.9,August,Monsoon,Ganesh Chaturthi & Navratri,81.40512820512821,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-03,19.39,66.3,7.58,5.13,61.11,0.4,45.77,August,Monsoon,Ganesh Chaturthi & Navratri,76.26641025641025,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-04,11.52,51.55,2.86,4.35,130.08,0.45,97.51,August,Monsoon,Ganesh Chaturthi & Navratri,117.25056856187291,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-05,21.11,74.95,2.77,4.43,84.21,0.31,63.17,August,Monsoon,Ganesh Chaturthi & Navratri,102.06284280936454,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-06,15.81,76.02,2.65,3.94,58.41,0.38,43.76,August,Monsoon,Ganesh Chaturthi & Navratri,76.02,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-07,20.05,71.49,2.63,3.7,62.22,0.38,46.63,August,Monsoon,Ganesh Chaturthi & Navratri,77.66102564102565,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-08,16.54,72.54,2.73,3.63,62.9,0.27,47.11,August,Monsoon,Ganesh Chaturthi & Navratri,78.51538461538462,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-09,23.5,64.55,2.75,4.01,44.69,0.24,33.51,August,Monsoon,Ganesh Chaturthi & Navratri,64.55,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-10,20.55,82.31,2.54,4.01,25.49,0.22,19.07,August,Monsoon,Ganesh Chaturthi & Navratri,82.31,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-11,17.74,77.11,2.53,3.92,23.74,0.26,17.8,August,Monsoon,Ganesh Chaturthi & Navratri,77.11,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-12,19.14,58.51,2.61,3.95,28.91,0.28,21.66,August,Monsoon,Ganesh Chaturthi & Navratri,58.51,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-13,18.1,95.77,2.51,3.94,23.99,0.33,17.97,August,Monsoon,Ganesh Chaturthi & Navratri,95.77,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-14,29.34,106.56,2.58,3.93,26.93,0.32,20.15,August,Monsoon,Ganesh Chaturthi & Navratri,104.69422818791946,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-15,18.7,99.92,2.59,3.89,22.15,0.21,16.6,August,Monsoon,Ganesh Chaturthi & Navratri,99.92,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-16,18.77,88.67,2.54,3.88,21.09,0.35,15.81,August,Monsoon,Ganesh Chaturthi & Navratri,88.67,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-17,26.42,84.55,2.53,4.02,20.38,0.44,15.27,August,Monsoon,Ganesh Chaturthi & Navratri,84.55,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-18,43.35,120.1,2.51,4.29,20.29,0.49,15.19,August,Monsoon,Ganesh Chaturthi & Navratri,113.69060402684563,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-19,34.17,116.81,2.58,3.89,20.71,0.47,15.53,August,Monsoon,Ganesh Chaturthi & Navratri,111.50463087248322,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-20,30.6,89.41,2.6,4.22,24.99,0.36,18.76,August,Monsoon,Ganesh Chaturthi & Navratri,89.41,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-21,30.99,94.31,2.55,3.56,32.06,0.42,24.01,August,Monsoon,Ganesh Chaturthi & Navratri,94.31,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-22,31.47,94.71,2.54,3.63,26.82,0.49,20.09,August,Monsoon,Ganesh Chaturthi & Navratri,94.71,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-23,31.03,101.6,2.51,4.08,23.36,0.46,17.5,August,Monsoon,Ganesh Chaturthi & Navratri,101.3986577181208,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-24,38.52,116.31,2.47,3.24,23.67,0.58,17.72,August,Monsoon,Ganesh Chaturthi & Navratri,111.17241610738256,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-25,22.83,101.31,2.46,3.62,23.18,0.41,17.36,August,Monsoon,Ganesh Chaturthi & Navratri,101.20597315436241,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-26,27.2,87.54,2.49,3.42,22.75,0.4,17.05,August,Monsoon,Ganesh Chaturthi & Navratri,87.54,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-27,27.08,82.56,2.51,3.86,22.69,0.36,17.01,August,Monsoon,Ganesh Chaturthi & Navratri,82.56,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-28,18.33,73.0,2.56,3.73,23.37,0.35,17.51,August,Monsoon,Ganesh Chaturthi & Navratri,73.0,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-29,29.08,98.87,2.65,3.89,21.39,0.32,16.01,August,Monsoon,Ganesh Chaturthi & Navratri,98.87,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-30,37.07,101.2,2.57,4.04,18.51,0.4,13.87,August,Monsoon,Ganesh Chaturthi & Navratri,101.13288590604027,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-08-31,47.16,123.97,2.54,4.55,18.45,0.59,13.84,August,Monsoon,Ganesh Chaturthi & Navratri,116.26194630872483,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-01,36.04,132.72,2.51,4.33,19.78,0.51,14.84,September,Monsoon,Ganesh Chaturthi & Navratri,122.07570469798658,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-02,27.13,91.59,2.51,3.93,19.96,0.38,14.95,September,Monsoon,Ganesh Chaturthi & Navratri,91.59,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-03,35.7,89.81,2.56,3.92,19.01,0.34,14.23,September,Monsoon,Ganesh Chaturthi & Navratri,89.81,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-04,24.78,90.4,2.58,3.9,19.03,0.37,14.25,September,Monsoon,Ganesh Chaturthi & Navratri,90.4,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-05,34.11,84.97,2.46,4.15,19.45,0.52,14.59,September,Monsoon,Ganesh Chaturthi & Navratri,84.97,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-06,20.61,78.14,2.49,4.01,26.72,0.41,20.0,September,Monsoon,Ganesh Chaturthi & Navratri,78.14,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-07,35.05,77.45,2.56,3.93,26.23,0.4,19.65,September,Monsoon,Ganesh Chaturthi & Navratri,77.45,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-08,43.62,109.1,2.58,3.98,27.58,0.6,20.67,September,Monsoon,Ganesh Chaturthi & Navratri,106.38187919463087,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-09,51.4,99.75,2.55,4.21,27.31,0.74,20.46,September,Monsoon,Ganesh Chaturthi & Navratri,99.75,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-10,28.97,88.68,2.5,3.99,22.47,0.47,16.81,September,Monsoon,Ganesh Chaturthi & Navratri,88.68,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-11,18.45,76.07,2.53,3.84,20.18,0.44,15.11,September,Monsoon,Ganesh Chaturthi & Navratri,76.07,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-12,16.75,54.15,2.6,4.11,26.55,0.35,19.86,September,Monsoon,Ganesh Chaturthi & Navratri,54.15,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-13,19.27,46.68,2.6,3.94,31.45,0.36,23.53,September,Monsoon,Ganesh Chaturthi & Navratri,46.68,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-14,17.71,76.39,2.51,3.99,27.69,0.43,20.75,September,Monsoon,Ganesh Chaturthi & Navratri,76.39,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-15,27.74,89.9,2.51,4.13,26.65,0.33,19.99,September,Monsoon,Ganesh Chaturthi & Navratri,89.9,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-16,46.28,159.75,2.54,4.21,25.29,0.61,18.95,September,Monsoon,Ganesh Chaturthi & Navratri,140.03523489932886,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-17,49.06,129.34,2.53,4.33,29.23,0.68,21.86,September,Monsoon,Ganesh Chaturthi & Navratri,119.82993288590605,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-18,18.67,69.3,2.99,3.66,27.27,0.37,20.41,September,Monsoon,Ganesh Chaturthi & Navratri,69.3,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-19,21.3,67.77,2.75,3.71,22.37,0.34,16.74,September,Monsoon,Ganesh Chaturthi & Navratri,67.77,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-20,20.52,73.15,2.53,3.37,34.85,0.5,26.11,September,Monsoon,Ganesh Chaturthi & Navratri,73.15,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-21,28.36,79.1,2.53,3.56,38.42,0.55,28.78,September,Monsoon,Ganesh Chaturthi & Navratri,79.1,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-22,47.14,128.43,2.52,3.78,38.46,0.69,28.81,September,Monsoon,Ganesh Chaturthi & Navratri,119.22530201342282,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-23,64.62,155.18,2.54,4.03,36.6,0.77,27.41,September,Monsoon,Ganesh Chaturthi & Navratri,136.99879194630873,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-24,65.05,155.91,2.61,3.83,31.06,0.64,23.27,September,Monsoon,Ganesh Chaturthi & Navratri,137.48382550335572,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-25,45.91,111.97,2.63,3.55,34.99,0.61,26.21,September,Monsoon,Ganesh Chaturthi & Navratri,108.28879194630872,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-26,22.89,71.77,2.59,3.46,33.63,0.61,25.2,September,Monsoon,Ganesh Chaturthi & Navratri,71.77,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-27,14.11,71.36,2.62,3.45,38.72,0.45,29.01,September,Monsoon,Ganesh Chaturthi & Navratri,71.36,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-28,19.73,68.47,2.54,3.38,40.28,0.41,30.16,September,Monsoon,Ganesh Chaturthi & Navratri,68.47,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-29,15.92,60.16,2.67,3.43,42.32,0.48,31.71,September,Monsoon,Ganesh Chaturthi & Navratri,60.16,Satisfactory,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-09-30,50.65,156.98,2.81,3.9,33.35,0.72,24.99,September,Monsoon,Ganesh Chaturthi & Navratri,138.19476510067113,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-01,53.77,141.75,2.72,3.17,22.44,0.82,16.8,October,Post-Monsoon,Diwali Festival Season,128.0755033557047,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-02,67.47,177.7,2.6,3.21,16.37,0.83,12.25,October,Post-Monsoon,Diwali Festival Season,151.96174496644295,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-03,63.22,195.94,2.53,3.14,14.07,0.72,10.53,October,Post-Monsoon,Diwali Festival Season,164.08093959731542,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-04,57.42,163.24,2.61,3.15,15.07,0.83,11.28,October,Post-Monsoon,Diwali Festival Season,142.35409395973156,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-05,41.57,121.0,2.56,3.2,14.36,0.66,10.75,October,Post-Monsoon,Diwali Festival Season,114.28859060402685,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-06,29.56,100.18,2.62,3.16,12.95,0.55,9.69,October,Post-Monsoon,Diwali Festival Season,49.266666666666666,Good,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-07,60.48,161.43,2.55,3.18,13.0,0.66,9.74,October,Post-Monsoon,Diwali Festival Season,141.1514765100671,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-08,67.59,175.32,2.55,3.14,13.55,0.88,10.15,October,Post-Monsoon,Diwali Festival Season,150.38040268456376,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-09,63.43,173.62,2.57,3.14,13.49,0.72,10.09,October,Post-Monsoon,Diwali Festival Season,149.25087248322149,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-10,54.39,161.53,2.68,3.15,14.07,0.83,10.53,October,Post-Monsoon,Diwali Festival Season,141.21791946308724,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-11,62.56,164.8,2.56,3.16,13.67,0.77,10.24,October,Post-Monsoon,Diwali Festival Season,143.39060402684566,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-12,57.98,129.65,2.91,3.17,16.77,0.89,12.55,October,Post-Monsoon,Diwali Festival Season,120.03590604026846,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-13,71.28,172.01,2.64,3.19,17.17,1.07,12.86,October,Post-Monsoon,Diwali Festival Season,148.1811409395973,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-14,85.74,204.77,2.62,3.21,19.61,1.11,14.71,October,Post-Monsoon,Diwali Festival Season,185.45724137931035,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-15,74.75,191.45,2.62,3.16,18.22,1.02,13.65,October,Post-Monsoon,Diwali Festival Season,161.0976510067114,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-16,70.7,173.59,2.56,3.17,14.98,0.88,8.74,October,Post-Monsoon,Diwali Festival Season,149.23093959731546,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-17,80.09,201.99,2.56,3.16,23.87,0.95,6.16,October,Post-Monsoon,Diwali Festival Season,168.10073825503355,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-18,93.29,213.89,2.53,3.16,22.5,1.25,4.8,October,Post-Monsoon,Diwali Festival Season,208.81758620689658,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-19,81.76,202.97,2.57,3.17,25.66,1.07,6.13,October,Post-Monsoon,Diwali Festival Season,171.87034482758622,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-20,85.15,200.49,2.58,3.18,22.98,1.11,3.9,October,Post-Monsoon,Diwali Festival Season,183.44310344827588,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-21,75.98,164.14,2.55,3.2,24.42,0.93,4.96,October,Post-Monsoon,Diwali Festival Season,152.13862068965517,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-22,95.34,198.0,2.59,3.21,23.66,0.94,4.15,October,Post-Monsoon,Diwali Festival Season,215.81586206896554,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-23,129.8,314.02,2.64,3.19,21.24,1.12,8.93,October,Post-Monsoon,Diwali Festival Season,307.75348837209305,Very Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-24,102.27,356.71,2.59,3.19,25.59,1.22,7.21,October,Post-Monsoon,Diwali Festival Season,308.1555696202531,Very Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-25,92.62,309.67,2.62,3.22,26.41,1.21,4.99,October,Post-Monsoon,Diwali Festival Season,259.67,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-26,112.97,301.64,2.64,3.22,29.47,1.3,4.83,October,Post-Monsoon,Diwali Festival Season,276.0010344827586,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-27,114.87,305.53,2.61,3.18,27.89,1.27,4.73,October,Post-Monsoon,Diwali Festival Season,282.4872413793104,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-28,93.33,237.91,2.64,3.2,27.99,1.19,4.05,October,Post-Monsoon,Diwali Festival Season,208.95413793103447,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-29,84.13,242.4,2.63,3.2,27.6,1.0,4.33,October,Post-Monsoon,Diwali Festival Season,194.9503355704698,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-30,97.98,292.06,2.61,3.22,27.81,1.23,4.21,October,Post-Monsoon,Diwali Festival Season,242.06,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-10-31,120.37,368.79,2.62,3.2,28.72,1.71,4.71,October,Post-Monsoon,Diwali Festival Season,323.29379746835446,Very Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-01,124.93,323.38,2.62,3.22,28.61,1.08,4.75,November,Post-Monsoon,Diwali Festival Season,304.0160465116279,Very Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-02,89.05,195.14,2.63,3.2,26.95,1.28,3.65,November,Post-Monsoon,Diwali Festival Season,196.75689655172414,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-03,87.94,190.18,2.63,3.19,26.94,1.47,4.33,November,Post-Monsoon,Diwali Festival Season,192.96758620689656,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-04,101.96,244.45,2.63,3.2,30.35,1.84,4.81,November,Post-Monsoon,Diwali Festival Season,238.41517241379307,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-05,78.67,202.66,2.64,3.19,30.47,1.41,3.74,November,Post-Monsoon,Diwali Festival Season,168.54590604026845,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-06,81.35,210.03,2.65,3.2,30.43,1.36,4.02,November,Post-Monsoon,Diwali Festival Season,173.44275167785236,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-07,95.78,218.47,2.62,3.2,30.6,1.51,3.7,November,Post-Monsoon,Diwali Festival Season,217.31793103448277,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-08,84.07,208.32,2.64,3.21,30.68,1.42,3.76,November,Post-Monsoon,Diwali Festival Season,179.7562068965517,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-09,75.4,194.32,2.66,3.23,30.74,1.32,3.76,November,Post-Monsoon,Diwali Festival Season,163.00456375838925,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-10,69.28,187.36,2.61,3.22,30.33,1.16,3.81,November,Post-Monsoon,Diwali Festival Season,158.38013422818793,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-11,70.56,197.98,2.62,3.23,29.94,1.17,5.38,November,Post-Monsoon,Diwali Festival Season,165.43637583892615,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-12,62.45,201.74,2.62,3.21,30.41,1.26,5.06,November,Post-Monsoon,Diwali Festival Season,167.93463087248324,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-13,156.83,406.82,2.73,3.25,46.36,2.51,3.73,November,Post-Monsoon,Diwali Festival Season,370.95164556962027,Very Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-14,110.17,310.77,2.66,3.16,29.06,2.44,4.02,November,Post-Monsoon,Diwali Festival Season,266.44241379310347,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-15,99.08,267.48,2.64,3.2,32.08,1.96,4.97,November,Post-Monsoon,Diwali Festival Season,228.58344827586205,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-16,117.15,296.08,2.63,3.21,32.71,1.75,7.72,November,Post-Monsoon,Diwali Festival Season,290.2706896551724,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-17,125.2,305.38,2.62,3.16,31.65,2.26,3.88,November,Post-Monsoon,Diwali Festival Season,304.2232558139535,Very Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-18,192.63,476.16,2.66,3.2,31.62,2.58,6.57,November,Post-Monsoon,Diwali Festival Season,427.8814117647059,Severe,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-19,164.84,433.5,2.69,3.24,43.59,2.8,3.72,November,Post-Monsoon,Diwali Festival Season,403.03823529411767,Severe,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-20,125.83,335.0,2.71,3.19,39.28,1.26,5.64,November,Post-Monsoon,Diwali Festival Season,304.70674418604654,Very Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-21,82.39,234.29,2.7,3.25,53.98,1.5,3.95,November,Post-Monsoon,Diwali Festival Season,189.56181208053692,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-22,101.44,293.07,2.7,3.19,33.76,1.79,8.91,November,Post-Monsoon,Diwali Festival Season,243.07,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-23,117.56,304.49,2.65,3.22,34.43,2.07,3.72,November,Post-Monsoon,Diwali Festival Season,291.67034482758623,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-24,100.93,269.7,2.65,3.2,34.23,1.9,3.68,November,Post-Monsoon,Diwali Festival Season,234.8989655172414,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-25,112.83,255.18,2.72,3.2,32.68,1.41,4.77,November,Post-Monsoon,Diwali Festival Season,275.52310344827583,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-26,77.64,216.25,2.86,3.17,32.01,1.35,4.08,November,Post-Monsoon,Diwali Festival Season,177.5755033557047,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-27,77.48,213.54,2.76,3.17,31.93,1.25,4.03,November,Post-Monsoon,Diwali Festival Season,175.77489932885908,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-28,100.2,264.99,2.88,3.21,32.7,1.69,5.74,November,Post-Monsoon,Diwali Festival Season,232.40689655172415,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-29,101.42,256.52,2.73,3.22,32.8,1.76,7.5,November,Post-Monsoon,Diwali Festival Season,236.57172413793103,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-11-30,87.03,239.36,2.73,3.21,33.14,1.91,3.83,November,Post-Monsoon,Diwali Festival Season,192.93046979865773,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-01,76.26,214.09,2.71,3.2,33.12,1.45,3.99,December,Winter,Christmas & New Year,176.1403355704698,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-02,58.66,179.05,2.84,3.18,37.13,1.44,4.09,December,Winter,Christmas & New Year,152.85872483221476,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-03,60.77,192.32,2.65,3.18,33.3,1.3,4.35,December,Winter,Christmas & New Year,161.6757046979866,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-04,44.34,158.25,3.17,3.19,32.2,0.94,4.53,December,Winter,Christmas & New Year,139.03859060402687,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-05,42.35,164.39,2.72,3.19,31.14,0.92,4.36,December,Winter,Christmas & New Year,143.11818791946308,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-06,58.7,181.3,2.77,3.15,30.1,1.01,4.22,December,Winter,Christmas & New Year,154.3536912751678,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-07,56.57,168.99,2.65,3.18,29.91,1.14,4.33,December,Winter,Christmas & New Year,146.17456375838927,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-08,55.64,156.32,2.65,3.17,29.36,1.06,4.47,December,Winter,Christmas & New Year,137.75624161073824,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-09,41.01,116.0,2.77,3.11,30.11,0.67,5.45,December,Winter,Christmas & New Year,110.96644295302013,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-10,49.69,145.11,2.77,3.19,27.1,0.83,8.09,December,Winter,Christmas & New Year,130.30798657718123,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-11,57.57,177.58,2.77,3.21,29.61,0.93,5.17,December,Winter,Christmas & New Year,151.8820134228188,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-12,67.12,199.66,2.66,3.21,30.11,1.23,5.5,December,Winter,Christmas & New Year,166.5526174496644,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-13,57.09,187.93,2.66,3.21,27.18,0.96,4.5,December,Winter,Christmas & New Year,158.7588590604027,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-14,49.83,155.42,2.64,3.22,25.7,0.87,4.81,December,Winter,Christmas & New Year,137.15825503355705,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-15,95.9,248.43,2.61,3.18,26.38,1.56,4.4,December,Winter,Christmas & New Year,217.72758620689658,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-16,128.35,302.53,2.6,3.17,27.86,1.91,4.33,December,Winter,Christmas & New Year,306.6406976744186,Very Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-17,122.79,257.5,2.63,3.22,28.3,1.73,5.7,December,Winter,Christmas & New Year,302.37372093023254,Very Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-18,156.8,359.9,2.68,3.2,31.79,2.15,4.44,December,Winter,Christmas & New Year,328.4744186046512,Very Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-19,105.0,242.46,2.63,3.21,28.82,1.59,10.1,December,Winter,Christmas & New Year,248.79310344827587,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-20,93.32,257.21,2.64,3.24,36.77,1.51,4.27,December,Winter,Christmas & New Year,208.92,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-21,101.76,260.39,2.68,3.22,40.13,1.84,4.22,December,Winter,Christmas & New Year,237.73241379310346,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-22,108.8,243.72,2.65,3.21,32.57,1.59,4.07,December,Winter,Christmas & New Year,261.7655172413793,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-23,87.01,206.72,2.87,3.22,34.51,0.61,4.71,December,Winter,Christmas & New Year,189.79275862068965,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-24,84.91,194.94,2.69,3.22,35.33,0.96,4.04,December,Winter,Christmas & New Year,182.62379310344826,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-25,84.81,196.92,2.64,3.22,34.02,1.31,4.28,December,Winter,Christmas & New Year,182.28241379310344,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-26,103.98,244.1,2.68,3.19,37.52,1.58,4.47,December,Winter,Christmas & New Year,245.31103448275863,Poor,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-27,68.94,168.64,2.78,3.18,38.51,1.14,4.29,December,Winter,Christmas & New Year,145.94201342281877,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-28,40.22,101.45,2.71,3.19,36.7,0.75,4.13,December,Winter,Christmas & New Year,101.29899328859061,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-29,48.73,124.38,2.68,3.21,36.32,0.87,4.54,December,Winter,Christmas & New Year,116.53436241610738,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-30,55.11,147.7,2.68,3.2,37.56,0.89,4.86,December,Winter,Christmas & New Year,132.02885906040268,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368
+2024-12-31,62.35,172.26,2.65,3.19,29.26,0.91,4.1,December,Winter,Christmas & New Year,148.34724832214766,Moderate,Khurja,Uttar Pradesh,28.2062807,77.8764368

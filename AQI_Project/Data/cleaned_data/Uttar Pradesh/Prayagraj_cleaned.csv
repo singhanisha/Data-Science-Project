@@ -1,0 +1,367 @@
+TIMESTAMP,PM2.5,PM10,NO2,NH3,SO2,CO,O3,MONTH,SEASON,FESTIVAL_SEASON,AQI,AQI_CATEGORY,CITY,STATE,LATITUDE,LONGITUDE
+2024-01-01,75.48,158.85,7.72,26.58,31.78,1.34,5.94,January,Winter,Christmas & New Year,150.43172413793104,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-02,71.65,150.64,7.26,28.25,27.69,1.5,6.05,January,Winter,Christmas & New Year,137.35689655172416,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-03,76.68,146.85,6.93,28.93,24.88,1.39,5.07,January,Winter,Christmas & New Year,154.528275862069,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-04,62.85,123.77,6.87,28.07,25.95,1.09,4.62,January,Winter,Christmas & New Year,116.12906040268456,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-05,70.77,138.83,6.92,27.7,26.74,0.82,5.57,January,Winter,Christmas & New Year,134.35275862068966,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-06,55.53,116.12,7.52,26.71,27.58,0.92,4.83,January,Winter,Christmas & New Year,111.0461744966443,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-07,53.35,112.14,7.95,24.78,26.76,0.75,6.79,January,Winter,Christmas & New Year,108.40174496644295,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-08,52.52,117.84,7.93,25.26,25.9,1.09,6.39,January,Winter,Christmas & New Year,112.18899328859061,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-09,57.97,131.44,7.96,24.78,27.61,1.05,7.39,January,Winter,Christmas & New Year,121.22523489932885,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-10,40.72,84.88,8.62,25.04,25.59,0.61,6.84,January,Winter,Christmas & New Year,84.88,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-11,39.07,89.86,8.07,25.17,24.08,0.78,6.52,January,Winter,Christmas & New Year,89.86,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-12,61.48,130.41,7.11,24.15,25.22,1.11,6.19,January,Winter,Christmas & New Year,120.54087248322148,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-13,52.46,121.55,7.18,23.39,24.24,1.12,8.83,January,Winter,Christmas & New Year,114.65402684563759,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-14,79.44,153.62,7.24,27.53,26.69,1.78,5.92,January,Winter,Christmas & New Year,163.9503448275862,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-15,62.94,138.81,7.09,22.27,25.77,1.02,7.96,January,Winter,Christmas & New Year,126.12208053691276,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-16,61.25,125.59,7.95,21.97,24.99,1.07,8.08,January,Winter,Christmas & New Year,117.33832214765101,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-17,65.92,136.88,7.88,23.84,25.84,0.83,7.41,January,Winter,Christmas & New Year,124.83973154362417,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-18,59.59,131.39,7.11,22.68,23.17,0.59,7.99,January,Winter,Christmas & New Year,121.19201342281879,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-19,70.33,162.41,7.1,23.44,23.99,1.02,5.96,January,Winter,Christmas & New Year,141.80261744966444,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-20,55.7,121.83,7.11,20.59,24.83,0.41,8.14,January,Winter,Christmas & New Year,114.84006711409396,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-21,53.42,127.6,7.13,20.74,23.93,0.55,7.15,January,Winter,Christmas & New Year,118.6738255033557,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-22,49.84,121.96,7.11,21.91,24.97,0.9,5.87,January,Winter,Christmas & New Year,114.92644295302013,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-23,66.95,112.46,7.37,22.97,26.03,1.12,4.94,January,Winter,Christmas & New Year,121.31206896551726,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-24,59.03,112.13,7.74,23.38,26.61,1.26,5.57,January,Winter,Christmas & New Year,108.39510067114094,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-25,64.13,121.27,7.33,25.28,28.7,1.37,5.27,January,Winter,Christmas & New Year,114.46798657718121,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-26,58.52,114.36,6.99,24.42,28.71,1.21,6.16,January,Winter,Christmas & New Year,109.87677852348993,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-27,62.13,129.13,6.98,25.48,25.38,1.38,9.63,January,Winter,Christmas & New Year,119.69040268456376,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-28,74.54,146.73,6.98,27.36,28.19,1.19,11.07,January,Winter,Christmas & New Year,147.22275862068966,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-29,65.33,128.52,6.97,26.21,27.38,0.76,12.73,January,Winter,Christmas & New Year,119.28510067114095,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-30,71.06,154.54,7.03,29.85,29.63,1.0,7.36,January,Winter,Christmas & New Year,136.57355704697986,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-01-31,76.11,166.76,6.82,33.03,32.92,1.06,7.84,January,Winter,Christmas & New Year,152.58241379310346,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-01,58.45,134.04,6.99,26.28,32.54,0.43,9.2,February,Winter,Winter Wedding,122.95275167785235,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-02,54.84,121.53,7.62,26.83,26.61,0.55,9.39,February,Winter,Winter Wedding,114.64073825503355,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-03,27.3,70.93,7.62,21.8,20.39,0.3,12.37,February,Winter,Winter Wedding,70.93,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-04,30.52,84.1,7.61,25.75,28.25,0.37,11.44,February,Winter,Winter Wedding,84.1,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-05,21.61,51.46,7.63,29.16,26.19,0.29,7.88,February,Winter,Winter Wedding,51.46,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-06,25.77,60.75,7.62,27.06,21.69,0.31,7.62,February,Winter,Winter Wedding,60.75,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-07,24.55,61.85,7.06,23.5,22.99,0.35,11.01,February,Winter,Winter Wedding,61.85,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-08,23.19,68.32,6.58,21.16,22.12,0.3,14.36,February,Winter,Winter Wedding,68.32,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-09,26.74,74.15,6.6,20.56,23.14,0.52,13.32,February,Winter,Winter Wedding,74.15,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-10,47.23,108.7,6.59,23.64,30.56,0.92,11.0,February,Winter,Winter Wedding,106.11610738255034,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-11,55.49,129.47,6.81,25.41,32.9,1.02,10.91,February,Winter,Winter Wedding,119.91630872483222,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-12,52.76,122.48,6.7,26.48,32.62,0.93,10.61,February,Winter,Winter Wedding,115.27194630872484,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-13,45.39,89.04,7.14,27.7,27.73,0.6,9.44,February,Winter,Winter Wedding,89.04,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-14,42.61,86.36,7.79,28.79,25.71,0.56,8.7,February,Winter,Winter Wedding,86.36,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-15,39.94,91.31,7.42,30.83,27.03,0.7,7.51,February,Winter,Winter Wedding,91.31,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-16,38.31,105.37,7.23,31.55,30.23,0.95,7.74,February,Winter,Winter Wedding,103.90355704697987,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-17,40.07,105.34,6.6,29.98,28.14,0.71,11.43,February,Winter,Winter Wedding,103.88362416107383,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-18,35.75,101.45,6.09,28.71,28.75,0.66,12.23,February,Winter,Winter Wedding,101.29899328859061,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-19,36.88,98.35,6.11,26.58,25.69,0.51,14.64,February,Winter,Winter Wedding,98.35,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-20,37.41,123.32,6.09,28.87,27.04,0.57,9.99,February,Winter,Winter Wedding,115.83006711409395,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-21,18.26,68.94,6.05,28.37,24.76,0.33,9.42,February,Winter,Winter Wedding,68.94,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-22,22.44,73.2,6.06,28.37,24.53,0.39,8.79,February,Winter,Winter Wedding,73.2,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-23,21.95,74.6,6.12,24.17,22.52,0.45,9.72,February,Winter,Winter Wedding,74.6,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-24,23.8,78.78,6.12,22.35,23.63,0.43,13.07,February,Winter,Winter Wedding,78.78,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-25,32.82,95.04,6.11,23.3,27.43,0.59,12.72,February,Winter,Winter Wedding,95.04,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-26,37.02,129.94,6.11,24.52,29.02,0.7,10.21,February,Winter,Winter Wedding,120.22859060402685,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-27,34.0,108.42,6.08,26.3,29.44,0.63,9.1,February,Winter,Winter Wedding,105.93006711409396,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-28,21.78,77.11,6.06,23.54,22.16,0.32,12.8,February,Winter,Winter Wedding,77.11,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-02-29,22.6,81.15,6.09,23.71,23.67,0.39,12.61,February,Winter,Winter Wedding,81.15,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-01,30.24,105.28,6.11,26.68,26.77,0.53,10.81,March,Summer,Holi Festival Season,103.84375838926175,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-02,28.18,104.79,6.11,29.18,25.25,0.4,11.57,March,Summer,Holi Festival Season,103.51818791946309,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-03,12.71,40.61,6.11,26.44,19.09,0.13,11.18,March,Summer,Holi Festival Season,40.61,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-04,17.68,51.06,6.09,24.84,19.64,0.22,8.44,March,Summer,Holi Festival Season,51.06,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-05,17.63,76.92,6.11,20.81,18.34,0.26,12.44,March,Summer,Holi Festival Season,76.92,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-06,21.65,90.44,6.1,19.56,18.26,0.3,14.84,March,Summer,Holi Festival Season,90.44,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-07,21.73,69.87,6.11,21.7,22.21,0.33,13.84,March,Summer,Holi Festival Season,69.87,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-08,18.38,58.84,6.11,21.67,24.87,0.28,15.96,March,Summer,Holi Festival Season,58.84,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-09,19.59,73.66,6.1,21.53,25.97,0.33,15.61,March,Summer,Holi Festival Season,73.66,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-10,29.51,93.52,6.08,22.58,28.14,0.48,15.13,March,Summer,Holi Festival Season,93.52,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-11,30.47,98.49,6.11,23.16,30.18,0.52,14.18,March,Summer,Holi Festival Season,98.49,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-12,28.55,101.39,6.1,24.01,32.62,0.57,12.55,March,Summer,Holi Festival Season,101.25912751677852,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-13,32.41,116.38,6.11,25.84,35.53,0.64,12.06,March,Summer,Holi Festival Season,111.21892617449664,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-14,34.24,117.27,6.1,26.56,33.84,0.54,11.99,March,Summer,Holi Festival Season,111.81026845637584,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-15,26.57,100.79,6.11,25.73,25.42,0.41,12.15,March,Summer,Holi Festival Season,44.28333333333334,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-16,28.01,93.29,6.1,25.2,26.1,0.41,11.6,March,Summer,Holi Festival Season,93.29,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-17,30.14,97.43,6.1,24.46,28.1,0.48,12.76,March,Summer,Holi Festival Season,97.43,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-18,36.29,121.88,6.11,25.33,29.83,0.6,13.9,March,Summer,Holi Festival Season,114.87328859060402,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-19,38.79,132.34,6.09,25.53,32.52,0.69,12.73,March,Summer,Holi Festival Season,121.82322147651007,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-20,34.1,137.8,6.11,25.87,30.52,0.51,14.1,March,Summer,Holi Festival Season,125.4510067114094,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-21,19.42,91.27,6.09,24.29,23.01,0.32,11.66,March,Summer,Holi Festival Season,91.27,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-22,27.9,113.08,6.08,25.69,28.36,0.68,12.79,March,Summer,Holi Festival Season,109.02630872483222,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-23,34.12,115.64,6.09,24.93,32.57,0.68,15.13,March,Summer,Holi Festival Season,110.72724832214766,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-24,25.48,98.83,6.1,23.5,29.77,0.55,15.17,March,Summer,Holi Festival Season,98.83,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-25,49.2,137.66,6.11,24.96,34.78,0.84,17.19,March,Summer,Holi Festival Season,125.35798657718121,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-26,18.94,68.68,6.1,22.78,26.0,0.39,14.85,March,Summer,Holi Festival Season,68.68,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-27,26.98,103.65,6.09,25.02,33.14,0.62,15.66,March,Summer,Holi Festival Season,102.76073825503356,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-28,31.36,124.85,6.12,27.74,35.87,0.67,14.21,March,Summer,Holi Festival Season,116.84664429530201,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-29,33.49,121.49,6.1,26.82,31.21,0.56,16.34,March,Summer,Holi Festival Season,114.6141610738255,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-30,31.59,99.08,6.1,25.99,32.1,0.54,18.31,March,Summer,Holi Festival Season,99.08,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-03-31,18.62,72.73,6.09,24.58,25.87,0.28,16.34,March,Summer,Holi Festival Season,72.73,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-01,19.81,93.33,6.09,21.14,23.09,0.28,14.31,April,Summer,Summer Wedding,93.33,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-02,16.26,72.63,6.11,19.97,21.86,0.27,16.3,April,Summer,Summer Wedding,72.63,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-03,23.3,101.33,6.08,21.26,27.32,0.48,16.1,April,Summer,Summer Wedding,101.21926174496645,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-04,27.75,111.0,6.1,24.93,32.88,0.59,18.66,April,Summer,Summer Wedding,107.64429530201342,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-05,25.48,90.04,6.09,25.12,27.83,0.49,16.41,April,Summer,Summer Wedding,90.04,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-06,24.29,99.14,6.1,26.14,28.09,0.47,16.0,April,Summer,Summer Wedding,99.14,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-07,22.79,80.4,6.09,23.84,27.06,0.49,19.28,April,Summer,Summer Wedding,80.4,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-08,21.9,85.4,6.06,26.51,28.92,0.48,20.27,April,Summer,Summer Wedding,85.4,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-09,17.32,78.79,6.09,26.83,25.66,0.3,18.32,April,Summer,Summer Wedding,78.79,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-10,19.48,77.03,6.09,26.72,26.82,0.39,19.24,April,Summer,Summer Wedding,77.03,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-11,17.44,70.99,6.1,23.23,25.89,0.27,22.17,April,Summer,Summer Wedding,70.99,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-12,19.26,73.04,6.12,24.55,27.56,0.34,18.43,April,Summer,Summer Wedding,73.04,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-13,23.25,82.11,6.1,25.33,31.22,0.51,17.72,April,Summer,Summer Wedding,82.11,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-14,14.66,44.49,6.11,23.69,28.53,0.27,20.59,April,Summer,Summer Wedding,44.49,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-15,25.72,76.88,6.09,25.02,34.39,0.55,17.06,April,Summer,Summer Wedding,76.88,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-16,20.99,83.95,6.09,23.18,29.9,0.33,18.66,April,Summer,Summer Wedding,83.95,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-17,20.44,111.17,6.1,21.33,26.05,0.27,21.04,April,Summer,Summer Wedding,107.75724832214765,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-18,20.47,108.65,6.09,22.5,26.52,0.31,21.45,April,Summer,Summer Wedding,106.08288590604027,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-19,21.62,101.2,6.08,24.75,28.43,0.34,17.43,April,Summer,Summer Wedding,101.13288590604027,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-20,23.59,106.67,6.07,24.96,27.23,0.34,16.23,April,Summer,Summer Wedding,104.76731543624162,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-21,26.73,116.78,6.07,23.3,28.27,0.32,23.86,April,Summer,Summer Wedding,111.48469798657719,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-22,21.65,89.77,6.09,24.54,28.87,0.37,21.39,April,Summer,Summer Wedding,89.77,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-23,22.9,78.95,6.1,25.77,28.77,0.44,15.99,April,Summer,Summer Wedding,78.95,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-24,23.67,92.54,6.11,23.88,26.26,0.38,21.6,April,Summer,Summer Wedding,92.54,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-25,22.43,93.36,6.08,24.96,29.55,0.4,20.35,April,Summer,Summer Wedding,93.36,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-26,25.4,98.34,6.08,25.09,31.22,0.48,24.06,April,Summer,Summer Wedding,98.34,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-27,17.58,76.52,6.1,23.34,22.64,0.27,20.38,April,Summer,Summer Wedding,76.52,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-28,26.44,98.9,6.09,21.77,24.8,0.41,20.72,April,Summer,Summer Wedding,98.9,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-29,25.48,93.71,6.06,21.51,29.27,0.43,24.14,April,Summer,Summer Wedding,93.71,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-04-30,24.4,107.79,6.06,21.44,24.82,0.29,22.96,April,Summer,Summer Wedding,105.51147651006711,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-01,26.01,142.78,6.05,21.53,30.18,0.5,22.94,May,Summer,Summer Wedding,128.7598657718121,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-02,25.19,106.09,5.9,19.87,38.98,0.37,18.36,May,Summer,Summer Wedding,104.38194630872484,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-03,29.82,87.8,6.03,21.44,26.87,0.53,21.32,May,Summer,Summer Wedding,87.8,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-04,35.11,92.9,6.08,24.67,31.99,0.68,21.9,May,Summer,Summer Wedding,92.9,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-05,33.56,89.45,6.09,25.15,33.89,0.83,21.44,May,Summer,Summer Wedding,89.45,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-06,40.14,98.38,6.08,27.93,40.99,0.81,25.25,May,Summer,Summer Wedding,98.38,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-07,27.91,77.21,6.09,25.62,27.61,0.34,22.89,May,Summer,Summer Wedding,77.21,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-08,23.29,62.12,6.1,26.85,22.56,0.31,20.56,May,Summer,Summer Wedding,62.12,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-09,22.0,51.81,6.1,25.53,21.54,0.29,26.02,May,Summer,Summer Wedding,51.81,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-10,23.12,51.34,6.06,23.26,21.43,0.31,22.9,May,Summer,Summer Wedding,51.34,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-11,26.29,71.58,6.1,21.99,22.29,0.35,26.56,May,Summer,Summer Wedding,71.58,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-12,25.49,68.18,6.1,20.58,22.2,0.38,26.63,May,Summer,Summer Wedding,68.18,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-13,26.52,62.89,6.11,20.0,23.22,0.36,25.65,May,Summer,Summer Wedding,62.89,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-14,31.46,76.06,6.06,20.39,25.48,0.51,26.34,May,Summer,Summer Wedding,76.06,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-15,22.33,59.89,6.08,20.33,25.02,0.43,24.83,May,Summer,Summer Wedding,59.89,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-16,35.98,84.06,6.06,23.27,49.03,0.68,26.08,May,Summer,Summer Wedding,84.06,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-17,27.33,66.99,6.0,28.29,33.81,0.47,27.44,May,Summer,Summer Wedding,66.99,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-18,27.45,63.37,6.03,35.9,32.06,0.35,22.89,May,Summer,Summer Wedding,63.37,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-19,23.08,62.86,6.08,34.04,25.81,0.34,26.15,May,Summer,Summer Wedding,62.86,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-20,25.72,69.46,6.41,29.01,32.32,0.34,25.32,May,Summer,Summer Wedding,69.46,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-21,24.49,61.49,7.32,29.85,33.18,0.29,30.33,May,Summer,Summer Wedding,61.49,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-22,21.46,53.82,6.17,33.41,33.34,0.3,26.96,May,Summer,Summer Wedding,53.82,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-23,19.35,46.86,6.08,32.34,38.45,0.28,23.64,May,Summer,Summer Wedding,48.0625,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-24,22.07,53.52,6.08,30.13,31.53,0.35,27.02,May,Summer,Summer Wedding,53.52,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-25,24.19,53.9,6.07,28.39,35.35,0.49,29.58,May,Summer,Summer Wedding,53.9,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-26,28.07,63.93,6.05,23.64,25.17,0.51,28.51,May,Summer,Summer Wedding,63.93,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-27,23.88,54.76,5.99,26.2,36.33,0.5,26.59,May,Summer,Summer Wedding,54.76,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-28,26.71,64.86,5.97,28.12,44.38,0.47,22.48,May,Summer,Summer Wedding,64.86,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-29,36.68,78.36,6.09,18.39,39.51,0.54,28.55,May,Summer,Summer Wedding,78.36,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-30,32.98,84.02,5.92,17.83,49.19,0.42,23.27,May,Summer,Summer Wedding,84.02,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-05-31,40.39,113.12,5.94,19.21,42.85,0.66,27.98,May,Summer,Summer Wedding,109.05288590604027,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-01,38.02,85.76,6.06,18.48,34.53,0.65,21.35,June,Monsoon,Non-Festival Period,85.76,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-02,33.3,79.42,6.06,18.34,35.46,0.49,31.31,June,Monsoon,Non-Festival Period,79.42,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-03,33.66,77.56,5.99,19.23,42.7,0.63,23.58,June,Monsoon,Non-Festival Period,77.56,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-04,35.33,83.8,6.0,18.5,42.12,0.55,34.19,June,Monsoon,Non-Festival Period,83.8,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-05,35.91,86.33,6.05,19.02,28.05,0.54,37.02,June,Monsoon,Non-Festival Period,86.33,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-06,33.68,82.44,6.06,20.24,30.67,0.52,30.98,June,Monsoon,Non-Festival Period,82.44,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-07,42.3,102.94,6.05,20.62,31.26,0.72,31.53,June,Monsoon,Non-Festival Period,102.2889932885906,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-08,44.53,107.39,6.05,20.32,19.12,0.57,31.41,June,Monsoon,Non-Festival Period,105.24570469798658,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-09,38.32,94.21,6.06,19.87,22.8,0.5,40.03,June,Monsoon,Non-Festival Period,94.21,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-10,33.35,78.47,6.06,20.42,20.27,0.44,41.93,June,Monsoon,Non-Festival Period,78.47,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-11,37.71,83.97,6.07,20.81,26.94,0.45,30.98,June,Monsoon,Non-Festival Period,83.97,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-12,37.48,91.46,6.07,21.76,32.22,0.59,32.73,June,Monsoon,Non-Festival Period,91.46,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-13,36.29,96.84,6.06,21.74,29.63,0.5,23.47,June,Monsoon,Non-Festival Period,96.84,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-14,28.48,77.21,6.07,20.63,40.66,0.37,25.49,June,Monsoon,Non-Festival Period,77.21,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-15,34.87,89.18,6.07,21.12,31.73,0.51,25.73,June,Monsoon,Non-Festival Period,89.18,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-16,35.68,87.88,6.06,21.23,19.88,0.47,25.71,June,Monsoon,Non-Festival Period,87.88,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-17,27.6,64.63,6.05,20.58,31.47,0.32,21.29,June,Monsoon,Non-Festival Period,64.63,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-18,26.16,95.1,6.04,20.42,27.08,0.31,20.18,June,Monsoon,Non-Festival Period,95.1,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-19,23.2,60.58,6.01,20.36,24.75,0.3,16.56,June,Monsoon,Non-Festival Period,60.58,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-20,24.77,53.75,6.07,20.79,23.18,0.31,25.52,June,Monsoon,Non-Festival Period,53.75,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-21,23.91,50.67,6.03,20.64,23.24,0.35,30.39,June,Monsoon,Non-Festival Period,39.85,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-22,22.02,44.94,6.06,20.61,27.22,0.37,24.09,June,Monsoon,Non-Festival Period,44.94,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-23,31.9,58.59,6.05,20.75,20.26,0.43,22.91,June,Monsoon,Non-Festival Period,58.59,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-24,30.8,50.13,6.06,20.74,25.17,0.41,28.15,June,Monsoon,Non-Festival Period,31.462500000000002,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-25,23.0,49.04,6.05,20.5,36.22,0.38,27.77,June,Monsoon,Non-Festival Period,49.04,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-26,19.67,42.55,6.04,20.66,23.68,0.33,14.56,June,Monsoon,Non-Festival Period,42.55,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-27,21.77,48.28,6.06,20.55,19.62,0.38,16.28,June,Monsoon,Non-Festival Period,48.28,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-28,22.06,47.62,6.06,20.73,22.97,0.39,19.4,June,Monsoon,Non-Festival Period,47.62,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-29,20.1,39.83,6.06,20.52,20.95,0.34,15.06,June,Monsoon,Non-Festival Period,39.83,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-06-30,12.29,24.2,6.07,20.51,17.2,0.27,11.17,June,Monsoon,Non-Festival Period,24.2,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-01,10.4,20.76,6.06,20.59,18.3,0.28,9.69,July,Monsoon,Non-Festival Period,22.875,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-02,12.53,27.82,6.06,20.97,24.56,0.36,7.45,July,Monsoon,Non-Festival Period,30.7,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-03,15.09,31.73,6.06,20.85,23.04,0.3,9.08,July,Monsoon,Non-Festival Period,31.73,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-04,15.05,30.83,6.07,20.7,20.75,0.34,9.91,July,Monsoon,Non-Festival Period,30.83,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-05,11.72,23.15,6.08,20.69,19.56,0.29,8.62,July,Monsoon,Non-Festival Period,24.45,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-06,10.2,24.0,6.06,20.67,19.13,0.25,9.13,July,Monsoon,Non-Festival Period,24.0,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-07,13.48,30.47,6.08,20.66,19.05,0.25,10.9,July,Monsoon,Non-Festival Period,30.47,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-08,22.32,46.89,6.06,20.6,19.52,0.37,13.72,July,Monsoon,Non-Festival Period,46.89,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-09,27.74,55.34,6.08,20.73,22.04,0.43,13.13,July,Monsoon,Non-Festival Period,55.34,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-10,24.79,46.35,6.07,20.97,22.03,0.45,11.6,July,Monsoon,Non-Festival Period,46.35,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-11,13.12,26.65,6.07,20.63,19.58,0.31,10.06,July,Monsoon,Non-Festival Period,26.65,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-12,15.32,32.19,6.08,20.53,21.26,0.3,10.87,July,Monsoon,Non-Festival Period,32.19,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-13,18.07,36.97,6.07,20.5,22.2,0.33,13.21,July,Monsoon,Non-Festival Period,36.97,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-14,14.37,28.8,6.07,20.54,23.31,0.38,12.86,July,Monsoon,Non-Festival Period,29.1375,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-15,19.17,40.54,6.06,20.55,25.78,0.4,13.67,July,Monsoon,Non-Festival Period,40.54,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-16,12.84,29.63,6.07,20.5,26.08,0.31,14.62,July,Monsoon,Non-Festival Period,32.599999999999994,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-17,15.11,32.9,6.08,20.59,30.7,0.3,15.19,July,Monsoon,Non-Festival Period,38.375,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-18,18.13,31.9,6.05,20.6,27.44,0.33,16.24,July,Monsoon,Non-Festival Period,34.300000000000004,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-19,19.17,41.73,6.06,20.56,24.38,0.33,12.55,July,Monsoon,Non-Festival Period,41.73,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-20,15.65,34.51,6.06,20.52,34.85,0.37,13.82,July,Monsoon,Non-Festival Period,43.5625,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-21,12.29,29.67,6.06,20.46,21.82,0.26,14.38,July,Monsoon,Non-Festival Period,29.67,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-22,15.42,34.96,6.06,20.38,24.89,0.29,13.81,July,Monsoon,Non-Festival Period,34.96,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-23,14.0,30.7,6.05,20.47,23.93,0.31,12.55,July,Monsoon,Non-Festival Period,30.7,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-24,12.59,27.2,6.04,20.54,25.94,0.31,11.48,July,Monsoon,Non-Festival Period,32.425000000000004,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-25,12.44,24.53,6.04,20.62,27.37,0.4,9.57,July,Monsoon,Non-Festival Period,34.2125,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-26,19.72,35.49,6.05,21.07,28.95,0.38,12.88,July,Monsoon,Non-Festival Period,36.1875,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-27,11.45,25.52,6.08,20.89,23.57,0.35,11.74,July,Monsoon,Non-Festival Period,29.4625,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-28,17.59,35.08,6.04,20.47,21.0,0.31,15.41,July,Monsoon,Non-Festival Period,35.08,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-29,15.93,33.59,6.05,20.45,27.98,0.34,12.71,July,Monsoon,Non-Festival Period,34.975,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-30,18.17,34.81,6.07,20.56,30.99,0.38,10.99,July,Monsoon,Non-Festival Period,38.7375,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-07-31,12.67,26.01,6.08,20.87,38.34,0.37,9.21,July,Monsoon,Non-Festival Period,47.925000000000004,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-01,11.82,22.92,6.06,20.72,24.86,0.33,11.9,August,Monsoon,Ganesh Chaturthi & Navratri,31.075,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-02,9.78,20.05,6.06,20.91,27.8,0.41,9.84,August,Monsoon,Ganesh Chaturthi & Navratri,34.75,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-03,11.55,23.52,6.06,20.81,27.74,0.28,11.36,August,Monsoon,Ganesh Chaturthi & Navratri,34.675,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-04,10.6,24.0,6.03,20.91,31.23,0.34,8.78,August,Monsoon,Ganesh Chaturthi & Navratri,39.0375,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-05,11.22,20.17,6.04,20.93,30.71,0.34,8.24,August,Monsoon,Ganesh Chaturthi & Navratri,38.3875,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-06,15.35,29.52,6.09,20.84,30.65,0.3,8.0,August,Monsoon,Ganesh Chaturthi & Navratri,38.3125,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-07,15.03,27.64,6.06,21.22,32.29,0.39,7.84,August,Monsoon,Ganesh Chaturthi & Navratri,40.3625,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-08,12.58,23.13,6.07,21.24,27.96,0.41,8.22,August,Monsoon,Ganesh Chaturthi & Navratri,34.95,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-09,11.27,19.92,6.06,21.12,33.1,0.42,6.78,August,Monsoon,Ganesh Chaturthi & Navratri,41.375,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-10,14.38,26.32,6.08,20.75,30.22,0.33,6.39,August,Monsoon,Ganesh Chaturthi & Navratri,37.775,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-11,12.02,22.19,6.06,20.97,34.03,0.37,6.47,August,Monsoon,Ganesh Chaturthi & Navratri,42.5375,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-12,10.37,21.59,6.08,21.2,33.11,0.37,7.03,August,Monsoon,Ganesh Chaturthi & Navratri,41.3875,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-13,10.57,19.6,6.08,21.02,25.42,0.36,6.86,August,Monsoon,Ganesh Chaturthi & Navratri,31.775000000000002,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-14,11.15,23.3,6.08,21.22,30.9,0.43,6.93,August,Monsoon,Ganesh Chaturthi & Navratri,38.625,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-15,14.48,29.65,6.07,20.79,30.77,0.35,9.6,August,Monsoon,Ganesh Chaturthi & Navratri,38.4625,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-16,16.23,37.01,6.08,21.14,33.41,0.35,10.74,August,Monsoon,Ganesh Chaturthi & Navratri,41.762499999999996,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-17,15.82,27.86,6.38,21.09,31.04,0.34,11.52,August,Monsoon,Ganesh Chaturthi & Navratri,38.8,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-18,10.28,23.2,7.24,21.89,38.9,0.36,10.39,August,Monsoon,Ganesh Chaturthi & Navratri,48.625,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-19,9.47,17.99,6.24,21.28,39.2,0.36,11.15,August,Monsoon,Ganesh Chaturthi & Navratri,49.0,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-20,11.83,23.92,6.19,21.26,39.35,0.39,11.42,August,Monsoon,Ganesh Chaturthi & Navratri,49.1875,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-21,13.54,29.76,6.62,30.05,35.26,0.47,9.76,August,Monsoon,Ganesh Chaturthi & Navratri,44.074999999999996,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-22,12.28,21.47,6.52,30.51,27.8,0.47,9.19,August,Monsoon,Ganesh Chaturthi & Navratri,34.75,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-23,13.41,23.97,6.14,27.81,21.87,0.38,7.32,August,Monsoon,Ganesh Chaturthi & Navratri,27.337500000000002,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-24,11.3,21.9,6.09,24.74,23.29,0.37,8.9,August,Monsoon,Ganesh Chaturthi & Navratri,29.112499999999997,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-25,12.38,26.53,6.06,24.55,24.09,0.33,10.28,August,Monsoon,Ganesh Chaturthi & Navratri,30.1125,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-26,7.65,34.08,6.95,23.83,28.51,0.31,8.83,August,Monsoon,Ganesh Chaturthi & Navratri,35.6375,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-27,13.25,27.05,6.08,42.05,40.62,0.4,7.84,August,Monsoon,Ganesh Chaturthi & Navratri,27.05,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-28,10.33,21.15,6.15,33.36,42.95,0.39,7.8,August,Monsoon,Ganesh Chaturthi & Navratri,53.45,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-29,13.15,28.48,6.11,31.94,30.08,0.39,9.64,August,Monsoon,Ganesh Chaturthi & Navratri,37.599999999999994,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-30,15.91,35.23,6.08,34.35,23.83,0.43,10.55,August,Monsoon,Ganesh Chaturthi & Navratri,35.23,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-08-31,21.87,70.63,6.09,31.61,24.27,0.54,9.81,August,Monsoon,Ganesh Chaturthi & Navratri,70.63,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-01,20.36,41.63,6.1,28.1,20.44,0.41,9.91,September,Monsoon,Ganesh Chaturthi & Navratri,41.63,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-02,15.92,34.87,6.16,26.8,21.2,0.38,8.91,September,Monsoon,Ganesh Chaturthi & Navratri,34.87,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-03,18.62,38.71,6.09,33.24,25.78,0.42,8.01,September,Monsoon,Ganesh Chaturthi & Navratri,38.71,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-04,21.28,41.33,6.07,36.49,27.69,0.46,7.43,September,Monsoon,Ganesh Chaturthi & Navratri,41.33,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-05,15.08,29.07,6.09,33.26,29.82,0.37,7.85,September,Monsoon,Ganesh Chaturthi & Navratri,37.275,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-06,15.96,31.32,6.08,30.99,30.14,0.39,7.72,September,Monsoon,Ganesh Chaturthi & Navratri,37.675,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-07,20.07,42.23,6.09,29.0,31.19,0.47,8.75,September,Monsoon,Ganesh Chaturthi & Navratri,42.23,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-08,20.85,44.69,6.07,28.54,36.1,0.53,9.14,September,Monsoon,Ganesh Chaturthi & Navratri,45.125,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-09,14.86,32.66,6.05,27.95,34.09,0.39,9.31,September,Monsoon,Ganesh Chaturthi & Navratri,42.612500000000004,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-10,15.9,30.97,6.07,27.79,21.16,0.37,9.55,September,Monsoon,Ganesh Chaturthi & Navratri,30.97,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-11,10.89,22.14,6.06,31.02,25.42,0.34,9.16,September,Monsoon,Ganesh Chaturthi & Navratri,31.775000000000002,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-12,12.4,23.97,6.16,31.74,27.59,0.32,7.89,September,Monsoon,Ganesh Chaturthi & Navratri,34.4875,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-13,20.14,39.83,6.76,30.16,27.43,0.32,8.8,September,Monsoon,Ganesh Chaturthi & Navratri,39.83,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-14,18.37,43.17,7.11,28.21,29.64,0.38,9.53,September,Monsoon,Ganesh Chaturthi & Navratri,43.17,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-15,21.15,46.28,6.22,29.92,37.39,0.41,11.01,September,Monsoon,Ganesh Chaturthi & Navratri,46.7375,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-16,17.06,37.64,6.27,30.88,26.65,0.37,10.56,September,Monsoon,Ganesh Chaturthi & Navratri,37.64,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-17,17.37,40.08,6.88,29.65,16.36,0.3,10.64,September,Monsoon,Ganesh Chaturthi & Navratri,40.08,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-18,16.55,33.39,6.25,29.07,19.48,0.4,11.62,September,Monsoon,Ganesh Chaturthi & Navratri,33.39,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-19,14.61,29.61,6.07,28.7,26.88,0.5,9.08,September,Monsoon,Ganesh Chaturthi & Navratri,33.6,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-20,16.1,37.96,6.08,33.93,28.82,0.49,10.24,September,Monsoon,Ganesh Chaturthi & Navratri,37.96,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-21,20.08,44.5,6.11,32.41,31.22,0.49,10.32,September,Monsoon,Ganesh Chaturthi & Navratri,44.5,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-22,18.24,38.97,6.3,29.4,30.46,0.5,9.84,September,Monsoon,Ganesh Chaturthi & Navratri,38.97,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-23,21.74,47.04,6.72,29.26,28.98,0.55,10.21,September,Monsoon,Ganesh Chaturthi & Navratri,47.04,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-24,21.8,47.18,6.32,31.64,31.17,0.52,9.28,September,Monsoon,Ganesh Chaturthi & Navratri,47.18,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-25,17.05,34.07,6.07,32.8,27.93,0.39,9.39,September,Monsoon,Ganesh Chaturthi & Navratri,34.9125,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-26,9.95,19.79,6.08,28.62,21.92,0.32,8.53,September,Monsoon,Ganesh Chaturthi & Navratri,27.400000000000002,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-27,11.57,21.18,6.05,26.72,22.2,0.41,8.25,September,Monsoon,Ganesh Chaturthi & Navratri,27.75,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-28,8.01,18.18,6.06,25.33,21.6,0.35,9.13,September,Monsoon,Ganesh Chaturthi & Navratri,27.0,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-29,9.32,19.35,6.07,24.79,23.8,0.39,8.67,September,Monsoon,Ganesh Chaturthi & Navratri,29.75,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-09-30,11.04,25.71,6.06,24.68,26.26,0.46,9.11,September,Monsoon,Ganesh Chaturthi & Navratri,32.825,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-01,15.98,34.82,6.06,23.99,24.57,0.44,12.51,October,Post-Monsoon,Diwali Festival Season,34.82,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-02,23.25,54.03,6.05,24.32,24.69,0.48,13.1,October,Post-Monsoon,Diwali Festival Season,54.03,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-03,22.81,56.1,6.92,25.12,25.43,0.52,14.03,October,Post-Monsoon,Diwali Festival Season,56.1,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-04,22.61,51.47,6.06,24.59,24.38,0.49,10.32,October,Post-Monsoon,Diwali Festival Season,51.47,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-05,21.85,48.6,6.08,24.73,24.83,0.47,11.82,October,Post-Monsoon,Diwali Festival Season,48.6,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-06,21.72,47.36,6.09,24.8,26.16,0.5,9.25,October,Post-Monsoon,Diwali Festival Season,47.36,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-07,17.99,43.82,6.07,24.19,23.86,0.5,9.55,October,Post-Monsoon,Diwali Festival Season,43.82,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-08,23.58,54.99,6.09,22.49,27.03,0.64,10.17,October,Post-Monsoon,Diwali Festival Season,54.99,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-09,26.31,58.33,6.08,22.8,32.72,0.7,7.56,October,Post-Monsoon,Diwali Festival Season,58.33,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-10,25.35,55.88,6.09,23.69,28.75,0.51,9.44,October,Post-Monsoon,Diwali Festival Season,55.88,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-11,34.31,74.17,6.11,24.9,27.39,0.61,12.9,October,Post-Monsoon,Diwali Festival Season,74.17,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-12,30.67,67.95,6.07,24.89,24.09,0.62,12.79,October,Post-Monsoon,Diwali Festival Season,67.95,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-13,25.48,57.57,6.1,25.05,23.05,0.6,12.57,October,Post-Monsoon,Diwali Festival Season,57.57,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-14,26.8,64.55,6.1,26.34,24.34,0.7,12.02,October,Post-Monsoon,Diwali Festival Season,64.55,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-15,25.49,65.29,6.09,26.43,26.6,0.75,11.29,October,Post-Monsoon,Diwali Festival Season,65.29,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-16,28.59,71.37,6.09,26.81,26.81,0.72,13.11,October,Post-Monsoon,Diwali Festival Season,71.37,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-17,33.09,78.96,6.07,27.54,26.91,0.76,16.14,October,Post-Monsoon,Diwali Festival Season,78.96,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-18,33.65,81.11,6.08,26.23,27.38,0.79,13.47,October,Post-Monsoon,Diwali Festival Season,81.11,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-19,37.83,84.72,6.06,27.13,29.32,0.8,14.45,October,Post-Monsoon,Diwali Festival Season,84.72,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-20,35.32,82.55,6.1,26.59,27.03,0.69,19.59,October,Post-Monsoon,Diwali Festival Season,82.55,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-21,34.44,73.71,6.1,27.06,28.83,0.74,12.69,October,Post-Monsoon,Diwali Festival Season,73.71,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-22,41.79,89.38,6.1,28.53,29.75,0.88,14.71,October,Post-Monsoon,Diwali Festival Season,89.38,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-23,44.16,95.16,6.1,29.67,29.41,0.94,12.84,October,Post-Monsoon,Diwali Festival Season,95.16,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-24,33.35,70.35,6.1,27.77,29.01,0.69,10.74,October,Post-Monsoon,Diwali Festival Season,70.35,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-25,17.39,40.74,6.07,26.09,26.48,0.37,10.22,October,Post-Monsoon,Diwali Festival Season,40.74,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-26,17.38,41.96,6.06,26.13,26.05,0.44,10.4,October,Post-Monsoon,Diwali Festival Season,41.96,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-27,24.21,52.87,6.08,25.56,27.29,0.48,9.79,October,Post-Monsoon,Diwali Festival Season,52.87,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-28,29.44,68.78,6.19,27.34,29.05,0.76,8.74,October,Post-Monsoon,Diwali Festival Season,68.78,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-29,35.56,83.62,6.16,30.86,35.07,0.9,9.83,October,Post-Monsoon,Diwali Festival Season,83.62,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-30,36.0,86.37,6.09,32.61,37.2,1.06,9.5,October,Post-Monsoon,Diwali Festival Season,86.37,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-10-31,36.47,91.57,6.08,28.22,27.58,0.81,12.33,October,Post-Monsoon,Diwali Festival Season,91.57,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-01,52.02,136.57,6.07,34.53,38.46,0.87,15.53,November,Post-Monsoon,Diwali Festival Season,124.63375838926174,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-02,41.95,111.15,6.09,31.83,26.53,0.93,15.06,November,Post-Monsoon,Diwali Festival Season,107.74395973154363,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-03,41.09,109.42,6.07,33.82,29.85,1.11,14.27,November,Post-Monsoon,Diwali Festival Season,106.5944966442953,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-04,46.68,117.56,6.1,33.21,33.48,1.17,14.03,November,Post-Monsoon,Diwali Festival Season,112.00295302013423,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-05,42.76,105.42,6.09,31.44,33.36,0.99,11.92,November,Post-Monsoon,Diwali Festival Season,103.93677852348993,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-06,42.91,108.43,6.08,32.03,35.47,1.11,6.31,November,Post-Monsoon,Diwali Festival Season,105.93671140939598,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-07,45.93,116.18,6.11,32.12,36.4,1.29,11.52,November,Post-Monsoon,Diwali Festival Season,111.08604026845639,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-08,40.27,108.58,6.09,33.61,38.71,1.21,9.6,November,Post-Monsoon,Diwali Festival Season,106.03637583892618,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-09,37.93,100.41,6.09,31.95,37.9,1.05,8.17,November,Post-Monsoon,Diwali Festival Season,62.709310344827585,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-10,39.63,102.22,6.11,31.48,37.15,1.11,8.63,November,Post-Monsoon,Diwali Festival Season,101.81060402684564,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-11,46.68,120.28,6.12,31.59,36.83,1.22,10.01,November,Post-Monsoon,Diwali Festival Season,113.81020134228189,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-12,51.62,130.15,6.09,33.27,37.95,1.36,9.39,November,Post-Monsoon,Diwali Festival Season,120.36812080536913,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-13,40.29,107.82,6.1,31.82,36.86,1.18,8.91,November,Post-Monsoon,Diwali Festival Season,105.53140939597316,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-14,40.7,97.97,6.11,31.56,36.12,1.07,9.51,November,Post-Monsoon,Diwali Festival Season,97.97,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-15,36.97,90.42,6.1,35.95,28.86,1.07,8.86,November,Post-Monsoon,Diwali Festival Season,90.42,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-16,31.73,83.53,6.12,35.52,20.75,1.1,9.92,November,Post-Monsoon,Diwali Festival Season,83.53,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-17,34.29,86.91,6.12,34.51,22.25,1.12,9.52,November,Post-Monsoon,Diwali Festival Season,86.91,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-18,40.58,107.82,6.1,38.9,23.51,1.4,9.09,November,Post-Monsoon,Diwali Festival Season,105.53140939597316,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-19,54.61,127.81,6.1,36.52,25.27,1.44,9.05,November,Post-Monsoon,Diwali Festival Season,118.81335570469798,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-20,52.63,119.5,6.09,34.36,21.16,1.12,12.78,November,Post-Monsoon,Diwali Festival Season,113.29194630872483,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-21,51.18,121.4,6.1,36.64,22.21,1.11,12.54,November,Post-Monsoon,Diwali Festival Season,114.55436241610738,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-22,61.23,143.6,6.11,36.15,23.47,1.23,10.45,November,Post-Monsoon,Diwali Festival Season,129.30469798657717,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-23,51.74,120.81,6.09,36.99,23.11,1.11,10.33,November,Post-Monsoon,Diwali Festival Season,114.16234899328859,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-24,46.36,109.66,6.11,36.33,22.14,0.89,10.83,November,Post-Monsoon,Diwali Festival Season,106.75395973154362,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-25,50.17,119.18,6.09,36.48,25.39,1.09,11.52,November,Post-Monsoon,Diwali Festival Season,113.07932885906041,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-26,48.55,116.96,6.09,36.76,26.28,0.93,10.53,November,Post-Monsoon,Diwali Festival Season,111.60429530201341,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-27,54.14,130.43,6.07,37.85,19.54,1.14,15.01,November,Post-Monsoon,Diwali Festival Season,120.55416107382551,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-28,56.15,141.51,6.1,43.0,25.1,1.42,16.05,November,Post-Monsoon,Diwali Festival Season,127.91604026845637,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-29,53.35,134.03,6.12,39.42,28.11,1.01,18.12,November,Post-Monsoon,Diwali Festival Season,122.94610738255034,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-11-30,54.57,121.59,6.11,35.9,24.55,0.78,13.58,November,Post-Monsoon,Diwali Festival Season,114.68060402684564,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-01,55.91,140.59,6.13,36.62,25.67,0.98,10.87,December,Winter,Christmas & New Year,127.30476510067115,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-02,65.02,162.92,6.1,47.53,31.92,1.5,16.41,December,Winter,Christmas & New Year,142.1414765100671,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-03,62.82,144.56,6.09,48.43,29.89,1.36,11.45,December,Winter,Christmas & New Year,129.94255033557047,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-04,33.18,82.82,6.06,38.82,22.03,0.36,15.14,December,Winter,Christmas & New Year,82.82,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-05,24.72,63.77,6.07,35.94,21.34,0.65,13.84,December,Winter,Christmas & New Year,63.77,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-06,24.07,70.4,6.08,36.19,26.15,0.72,13.8,December,Winter,Christmas & New Year,70.4,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-07,35.25,94.37,6.09,40.78,33.75,1.19,13.34,December,Winter,Christmas & New Year,94.37,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-08,38.06,100.67,6.09,37.61,33.48,0.9,14.29,December,Winter,Christmas & New Year,62.92896551724138,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-09,45.83,112.74,6.08,38.45,35.88,0.89,14.58,December,Winter,Christmas & New Year,108.80040268456375,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-10,35.91,86.15,6.08,38.18,31.81,0.73,13.38,December,Winter,Christmas & New Year,86.15,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-11,31.84,78.33,6.07,34.3,19.58,0.82,12.18,December,Winter,Christmas & New Year,78.33,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-12,36.09,88.49,6.08,34.78,22.9,0.91,13.96,December,Winter,Christmas & New Year,88.49,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-13,32.94,86.22,6.09,33.23,20.98,0.69,13.56,December,Winter,Christmas & New Year,86.22,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-14,29.27,77.3,6.08,32.47,23.89,0.69,12.89,December,Winter,Christmas & New Year,77.3,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-15,43.27,110.31,6.09,36.4,34.64,1.17,16.37,December,Winter,Christmas & New Year,107.1858389261745,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-16,61.91,145.03,6.07,40.03,31.55,1.43,15.24,December,Winter,Christmas & New Year,130.2548322147651,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-17,68.57,154.12,6.09,42.34,31.45,1.52,13.51,December,Winter,Christmas & New Year,136.2944966442953,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-18,73.87,168.2,6.08,46.39,31.7,1.88,13.32,December,Winter,Christmas & New Year,145.6496644295302,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-19,87.28,192.64,6.09,52.41,32.7,2.25,15.22,December,Winter,Christmas & New Year,190.7144827586207,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-20,68.29,151.43,6.09,43.48,26.19,1.17,13.86,December,Winter,Christmas & New Year,134.50718120805368,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-21,56.86,131.47,6.09,43.62,26.17,1.07,13.04,December,Winter,Christmas & New Year,121.2451677852349,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-22,51.9,122.58,6.11,42.84,25.61,1.1,13.48,December,Winter,Christmas & New Year,115.33838926174496,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-23,52.08,116.45,6.09,39.61,20.36,0.71,16.58,December,Winter,Christmas & New Year,111.26543624161074,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-24,50.92,115.92,6.1,38.51,21.32,0.56,11.86,December,Winter,Christmas & New Year,110.91328859060403,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-25,48.75,104.47,6.11,41.04,19.48,0.81,7.66,December,Winter,Christmas & New Year,103.30557046979865,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-26,51.71,115.2,6.09,46.17,28.56,1.1,10.43,December,Winter,Christmas & New Year,110.43489932885906,Moderate,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-27,45.11,95.84,6.09,45.96,26.57,0.84,12.88,December,Winter,Christmas & New Year,95.84,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-28,37.7,71.72,6.1,41.94,17.72,0.64,10.41,December,Winter,Christmas & New Year,71.72,Satisfactory,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-29,23.2,44.72,6.09,39.76,21.63,0.47,9.48,December,Winter,Christmas & New Year,44.72,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-30,17.73,36.7,6.1,35.86,18.73,0.3,9.93,December,Winter,Christmas & New Year,36.7,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005
+2024-12-31,14.71,31.6,6.11,34.49,20.85,0.32,10.29,December,Winter,Christmas & New Year,31.6,Good,Prayagraj,Uttar Pradesh,25.4381302,81.8338005

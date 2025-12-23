@@ -1,0 +1,367 @@
+TIMESTAMP,PM2.5,PM10,NO2,NH3,SO2,CO,O3,MONTH,SEASON,FESTIVAL_SEASON,AQI,AQI_CATEGORY,CITY,STATE,LATITUDE,LONGITUDE
+2024-01-01,116.97,155.31,77.44,38.66,27.94,1.11,4.73,January,Winter,Christmas & New Year,289.65620689655174,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-02,79.71,159.24,74.09,33.94,26.87,1.07,4.83,January,Winter,Christmas & New Year,164.87206896551723,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-03,84.5,169.09,76.24,37.26,37.74,1.5,4.99,January,Winter,Christmas & New Year,181.22413793103448,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-04,126.98,253.97,84.82,41.64,35.39,1.41,5.55,January,Winter,Christmas & New Year,305.5893023255814,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-05,80.31,160.6,73.43,37.85,32.43,1.38,4.73,January,Winter,Christmas & New Year,166.92034482758623,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-06,100.48,200.87,80.38,39.87,31.76,1.26,4.75,January,Winter,Christmas & New Year,233.36275862068968,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-07,112.54,225.14,84.0,36.45,31.74,1.26,5.13,January,Winter,Christmas & New Year,274.5331034482759,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-08,99.25,198.62,82.49,36.51,33.94,1.35,4.98,January,Winter,Christmas & New Year,229.16379310344828,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-09,91.04,182.23,73.49,34.96,12.41,0.48,5.35,January,Winter,Christmas & New Year,201.13655172413795,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-10,70.31,140.58,59.22,34.33,31.86,1.27,4.83,January,Winter,Christmas & New Year,132.78241379310344,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-11,118.26,236.83,51.93,48.9,42.84,1.8,18.4,January,Winter,Christmas & New Year,294.06,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-12,107.96,215.91,24.76,49.08,48.55,1.95,26.41,January,Winter,Christmas & New Year,258.8979310344827,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-13,145.01,289.85,43.14,47.76,67.78,2.7,27.47,January,Winter,Christmas & New Year,319.4262790697674,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-14,126.49,252.99,37.1,42.42,63.86,2.55,23.09,January,Winter,Christmas & New Year,305.2132558139535,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-15,97.64,195.27,31.02,35.74,49.49,1.94,28.46,January,Winter,Christmas & New Year,223.66758620689654,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-16,89.33,178.33,15.87,40.1,56.88,2.26,22.48,January,Winter,Christmas & New Year,197.71275862068964,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-17,66.76,133.32,9.92,39.12,37.46,1.49,25.81,January,Winter,Christmas & New Year,122.47436241610738,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-18,54.01,107.94,13.07,37.56,39.83,1.6,19.35,January,Winter,Christmas & New Year,105.61114093959732,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-19,60.65,121.25,21.41,31.97,35.29,1.42,16.2,January,Winter,Christmas & New Year,114.45469798657719,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-20,88.16,176.55,27.87,33.4,32.48,1.38,24.76,January,Winter,Christmas & New Year,193.71862068965515,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-21,92.2,184.23,26.69,35.3,29.17,1.16,20.84,January,Winter,Christmas & New Year,205.09655172413795,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-22,90.42,180.97,18.41,33.32,31.41,1.34,26.13,January,Winter,Christmas & New Year,154.13442953020134,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-23,104.52,208.98,39.1,35.31,34.27,1.37,20.83,January,Winter,Christmas & New Year,247.15448275862067,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-24,116.17,232.09,32.27,33.38,50.5,2.01,24.46,January,Winter,Christmas & New Year,286.9251724137931,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-25,110.2,220.3,40.3,28.9,53.26,2.12,22.7,January,Winter,Christmas & New Year,266.5448275862069,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-26,144.18,288.51,45.93,37.29,68.04,2.71,28.68,January,Winter,Christmas & New Year,318.7893023255814,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-27,81.95,163.85,38.56,33.26,29.09,1.14,35.38,January,Winter,Christmas & New Year,172.51896551724138,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-28,150.74,213.99,26.2,40.6,51.3,2.06,13.05,January,Winter,Christmas & New Year,323.8237209302326,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-29,103.59,207.4,27.78,37.42,33.51,1.34,24.85,January,Winter,Christmas & New Year,243.9796551724138,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-30,110.97,221.94,32.55,37.8,61.0,2.43,13.11,January,Winter,Christmas & New Year,269.17344827586203,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-01-31,99.53,198.98,25.76,44.38,57.79,2.3,17.87,January,Winter,Christmas & New Year,230.1196551724138,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-01,782.8,53.23,19.08,18.86,12.68,0.52,8.41,February,Winter,Winter Wedding,496.904,Severe,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-02,554.61,153.49,27.96,22.02,21.01,0.7,12.85,February,Winter,Winter Wedding,455.8298,Severe,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-03,110.72,182.42,50.04,29.97,23.62,0.91,38.24,February,Winter,Winter Wedding,268.32,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-04,98.28,128.6,32.55,37.0,23.71,0.57,25.98,February,Winter,Winter Wedding,225.85241379310344,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-05,91.31,130.22,22.22,37.95,23.05,0.71,40.47,February,Winter,Winter Wedding,202.05827586206897,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-06,66.17,106.75,28.62,18.86,15.87,0.76,58.36,February,Winter,Winter Wedding,118.6493103448276,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-07,84.51,137.62,30.58,17.88,18.68,0.63,72.68,February,Winter,Winter Wedding,181.25827586206898,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-08,77.92,132.71,27.61,19.2,19.53,0.89,78.2,February,Winter,Winter Wedding,158.76137931034484,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-09,107.08,157.35,37.91,22.49,25.92,0.83,80.48,February,Winter,Winter Wedding,255.89379310344827,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-10,183.14,254.29,45.61,31.01,17.22,1.37,78.86,February,Winter,Winter Wedding,348.68883720930233,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-11,185.79,246.94,49.51,33.48,30.93,1.04,73.01,February,Winter,Winter Wedding,350.7225581395349,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-12,184.84,248.16,50.82,30.01,34.45,0.88,53.99,February,Winter,Winter Wedding,349.993488372093,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-13,205.36,268.5,64.7,38.61,23.28,1.42,40.98,February,Winter,Winter Wedding,365.7413953488372,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-14,219.19,303.02,51.72,41.85,31.37,1.18,57.92,February,Winter,Winter Wedding,376.35511627906976,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-15,167.38,239.93,38.75,32.63,32.51,1.13,72.59,February,Winter,Winter Wedding,336.5939534883721,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-16,101.42,148.49,36.14,26.8,33.31,1.08,71.29,February,Winter,Winter Wedding,236.57172413793103,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-17,74.14,115.68,43.58,24.92,29.15,0.9,66.1,February,Winter,Winter Wedding,145.85724137931035,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-18,101.97,160.58,53.96,31.93,35.12,1.05,71.38,February,Winter,Winter Wedding,238.44931034482758,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-19,84.68,143.01,27.4,39.13,20.7,0.91,87.76,February,Winter,Winter Wedding,181.83862068965522,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-20,84.46,114.12,32.01,34.32,27.38,1.16,63.13,February,Winter,Winter Wedding,181.08758620689653,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-21,79.64,124.86,35.45,35.72,26.21,0.86,48.19,February,Winter,Winter Wedding,164.63310344827585,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-22,50.29,100.02,38.31,20.34,19.64,0.69,56.02,February,Winter,Winter Wedding,83.59344827586207,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-23,50.39,91.08,39.22,18.13,26.83,0.71,43.39,February,Winter,Winter Wedding,91.08,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-24,76.11,126.07,75.96,24.83,28.18,1.23,56.6,February,Winter,Winter Wedding,152.58241379310346,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-25,58.54,109.16,43.44,29.72,22.29,0.77,51.09,February,Winter,Winter Wedding,106.42174496644296,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-26,68.12,110.3,46.52,29.79,37.74,0.92,25.36,February,Winter,Winter Wedding,125.30620689655174,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-27,35.52,67.44,35.96,33.34,22.65,0.44,13.89,February,Winter,Winter Wedding,67.44,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-28,45.94,83.17,33.12,27.58,20.3,0.66,30.85,February,Winter,Winter Wedding,83.17,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-02-29,43.67,74.73,35.42,29.49,23.95,1.07,61.33,February,Winter,Winter Wedding,74.73,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-01,69.56,112.1,55.1,33.05,32.87,1.48,57.49,March,Summer,Holi Festival Season,130.22206896551725,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-02,24.17,38.95,23.07,33.45,23.64,0.74,40.48,March,Summer,Holi Festival Season,40.48,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-03,24.21,32.06,20.78,34.02,8.16,0.92,35.48,March,Summer,Holi Festival Season,46.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-04,20.46,43.33,30.83,24.54,17.26,0.83,52.02,March,Summer,Holi Festival Season,52.02,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-05,34.22,67.02,27.82,21.08,20.94,0.93,55.42,March,Summer,Holi Festival Season,67.02,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-06,43.44,77.15,31.78,23.02,23.59,1.04,59.29,March,Summer,Holi Festival Season,77.15,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-07,55.02,92.7,41.17,27.39,25.73,1.0,58.5,March,Summer,Holi Festival Season,92.7,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-08,43.51,81.44,38.17,25.98,32.95,0.87,56.34,March,Summer,Holi Festival Season,81.44,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-09,45.45,78.73,29.45,32.94,22.98,1.0,59.61,March,Summer,Holi Festival Season,78.73,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-10,44.35,112.44,37.85,30.77,40.87,0.74,68.34,March,Summer,Holi Festival Season,108.60107382550335,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-11,65.84,122.77000000000001,49.38,30.85,37.1,0.96,71.97,March,Summer,Holi Festival Season,117.52275862068967,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-12,66.68,122.77000000000001,45.92,31.56,36.02,1.16,61.79,March,Summer,Holi Festival Season,120.39034482758623,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-13,60.22,69.21,39.07,31.72,32.12,0.88,66.82,March,Summer,Holi Festival Season,69.21,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-14,66.08,120.93,34.28,29.33,50.55,1.06,38.84,March,Summer,Holi Festival Season,118.34206896551723,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-15,35.03,78.42,34.79,28.17,42.18,0.71,49.3,March,Summer,Holi Festival Season,78.42,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-16,58.31,107.52,43.72,31.74,58.66,1.12,67.26,March,Summer,Holi Festival Season,105.33208053691276,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-17,66.9,116.11,44.97,34.15,60.08,1.13,64.93,March,Summer,Holi Festival Season,121.14137931034485,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-18,64.55,108.39,34.61,29.52,58.59,1.13,62.45,March,Summer,Holi Festival Season,113.11896551724136,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-19,85.93,142.4,51.57,37.89,75.48,1.38,62.62,March,Summer,Holi Festival Season,186.10586206896554,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-20,66.21,119.94,52.58,37.89,61.38,1.22,49.06,March,Summer,Holi Festival Season,118.7858620689655,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-21,40.01,91.36,34.01,41.55,20.37,1.21,50.24,March,Summer,Holi Festival Season,91.36,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-22,55.29,93.15,45.24,42.73,28.45,1.27,49.71,March,Summer,Holi Festival Season,93.15,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-23,68.68,126.83,38.43,46.59,48.34,1.43,40.85,March,Summer,Holi Festival Season,127.21793103448277,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-24,69.0,146.85,48.07,42.27,50.35,1.03,30.4,March,Summer,Holi Festival Season,131.46409395973154,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-25,54.2,90.72,30.06,44.41,49.05,1.29,37.11,March,Summer,Holi Festival Season,90.72,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-26,37.96,75.94,25.95,39.73,41.39,0.83,44.87,March,Summer,Holi Festival Season,75.94,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-27,41.0,93.33,44.02,42.52,55.68,1.48,59.6,March,Summer,Holi Festival Season,93.33,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-28,51.38,102.53,38.87,32.69,59.58,1.34,45.25,March,Summer,Holi Festival Season,102.01657718120805,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-29,53.81,109.57,33.1,41.33,44.96,1.37,41.7,March,Summer,Holi Festival Season,106.6941610738255,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-30,45.54,107.69,34.71,46.85,27.63,1.64,30.97,March,Summer,Holi Festival Season,105.44503355704698,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-03-31,66.09,140.06,34.23,44.89,36.76,3.09,40.35,March,Summer,Holi Festival Season,126.95261744966443,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-01,31.06,78.82,25.06,34.68,28.8,1.07,37.92,April,Summer,Summer Wedding,78.82,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-02,29.92,83.8,65.96,64.82,54.41,0.85,57.61,April,Summer,Summer Wedding,83.8,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-03,33.44,91.2,45.25,40.33,65.15,1.03,52.67,April,Summer,Summer Wedding,91.2,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-04,45.97,107.25,35.66,32.98,48.47,1.1,45.8,April,Summer,Summer Wedding,105.15268456375838,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-05,44.08,106.62,28.54,32.2,50.21,0.88,41.97,April,Summer,Summer Wedding,104.73409395973155,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-06,43.82,100.19,26.12,19.74,43.15,0.72,46.64,April,Summer,Summer Wedding,72.66137931034483,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-07,47.21,101.84,34.57,29.18,34.66,0.62,42.0,April,Summer,Summer Wedding,101.55812080536913,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-08,35.02,83.0,21.09,24.44,42.88,0.69,48.98,April,Summer,Summer Wedding,83.0,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-09,63.95,128.17,36.09,26.64,34.89,0.66,50.16,April,Summer,Summer Wedding,119.05255033557046,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-10,46.14,106.77,34.85,33.91,14.72,0.64,53.85,April,Summer,Summer Wedding,104.83375838926175,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-11,49.2,118.02,24.12,17.28,35.05,0.67,60.43,April,Summer,Summer Wedding,112.30859060402685,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-12,59.9,131.64,23.8,25.25,27.8,1.3,44.0,April,Summer,Summer Wedding,121.35812080536911,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-13,52.24,139.7,17.87,13.61,17.49,1.15,38.4,April,Summer,Summer Wedding,126.71342281879194,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-14,33.15,87.98,10.16,10.96,17.09,0.6,23.38,April,Summer,Summer Wedding,87.98,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-15,54.6,116.72,16.89,23.71,26.56,0.66,28.22,April,Summer,Summer Wedding,111.4448322147651,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-16,67.05,146.53,15.29,31.31,29.0,0.64,40.85,April,Summer,Summer Wedding,131.2514765100671,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-17,21.58,95.96,8.11,18.42,20.43,0.57,54.04,April,Summer,Summer Wedding,95.96,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-18,35.67,129.64,13.2,17.22,33.26,0.6,45.67,April,Summer,Summer Wedding,120.02926174496643,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-19,44.99,172.92,17.95,19.76,32.33,0.63,33.47,April,Summer,Summer Wedding,148.78577181208053,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-20,37.52,149.04,15.5,30.94,30.05,0.58,35.07,April,Summer,Summer Wedding,132.91919463087248,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-21,14.85,103.76,12.51,33.09,21.27,0.5,49.85,April,Summer,Summer Wedding,102.83382550335571,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-22,18.03,62.11,15.45,19.32,20.31,0.58,34.84,April,Summer,Summer Wedding,62.11,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-23,39.73,138.23,17.86,16.04,26.19,0.55,32.56,April,Summer,Summer Wedding,125.73671140939597,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-24,43.55,123.75,15.28,16.92,29.45,0.63,34.19,April,Summer,Summer Wedding,116.11577181208054,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-25,55.75,165.3,18.29,19.4,34.67,0.66,33.35,April,Summer,Summer Wedding,143.7228187919463,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-26,41.29,139.11,15.64,18.11,27.58,0.56,41.7,April,Summer,Summer Wedding,126.32140939597316,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-27,29.03,161.65,10.39,18.6,17.62,0.57,50.83,April,Summer,Summer Wedding,141.29765100671142,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-28,34.01,118.32,13.09,23.44,22.79,0.58,38.23,April,Summer,Summer Wedding,112.50791946308725,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-29,23.86,172.02,9.1,19.5,38.31,0.54,49.91,April,Summer,Summer Wedding,148.18778523489934,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-04-30,34.77,154.56,9.12,13.41,25.98,0.6,36.96,April,Summer,Summer Wedding,136.5868456375839,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-01,33.36,163.51,11.1,12.65,20.78,0.48,33.07,May,Summer,Summer Wedding,142.5334899328859,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-02,54.75,173.2,12.89,15.39,31.42,0.6,41.91,May,Summer,Summer Wedding,148.9718120805369,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-03,71.66,200.49,14.34,15.08,43.06,0.53,39.42,May,Summer,Summer Wedding,167.10409395973156,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-04,73.86,188.56,21.73,16.06,41.27,0.6,36.05,May,Summer,Summer Wedding,159.17744966442953,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-05,98.93,199.0,25.22,19.8,48.63,0.69,32.34,May,Summer,Summer Wedding,228.07137931034484,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-06,65.01,181.45,18.83,20.59,29.92,0.64,33.78,May,Summer,Summer Wedding,154.45335570469797,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-07,76.65,207.96,16.16,23.48,24.81,0.67,34.55,May,Summer,Summer Wedding,172.0673825503356,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-08,35.72,147.2,6.97,25.23,9.38,0.51,32.84,May,Summer,Summer Wedding,131.696644295302,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-09,26.09,88.14,8.29,26.07,9.84,0.55,38.97,May,Summer,Summer Wedding,88.14,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-10,36.83,98.4,9.77,35.54,13.26,0.47,47.15,May,Summer,Summer Wedding,98.4,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-11,26.29,110.77,9.29,22.51,20.2,0.55,51.18,May,Summer,Summer Wedding,107.49147651006712,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-12,64.58,133.81,14.11,30.56,27.7,0.64,57.78,May,Summer,Summer Wedding,122.79993288590605,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-13,50.24,113.87,12.19,25.6,32.56,0.61,52.22,May,Summer,Summer Wedding,109.55120805369128,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-14,73.57,151.76,23.63,19.4,28.07,0.64,39.52,May,Summer,Summer Wedding,143.9113793103448,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-15,90.93,185.54,23.95,22.63,34.18,0.69,44.15,May,Summer,Summer Wedding,157.17087248322147,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-16,44.78,111.44,12.32,23.58,19.36,0.62,41.23,May,Summer,Summer Wedding,107.93664429530202,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-17,72.01,166.33,21.53,26.54,25.08,0.67,32.81,May,Summer,Summer Wedding,144.40718120805371,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-18,59.81,173.1,26.41,45.86,46.35,0.66,36.76,May,Summer,Summer Wedding,148.9053691275168,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-19,56.8,164.06,11.6,21.33,33.28,0.61,34.26,May,Summer,Summer Wedding,142.89892617449664,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-20,40.36,130.06,8.65,23.83,11.45,0.62,21.68,May,Summer,Summer Wedding,120.30832214765101,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-21,31.3,140.38,7.29,31.01,12.62,0.53,29.88,May,Summer,Summer Wedding,127.16523489932885,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-22,37.66,112.89,6.79,25.51,10.73,0.58,27.96,May,Summer,Summer Wedding,108.90006711409396,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-23,26.02,78.91,5.04,20.96,13.09,0.58,23.54,May,Summer,Summer Wedding,78.91,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-24,29.77,78.09,6.14,21.81,7.16,0.59,18.13,May,Summer,Summer Wedding,78.09,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-25,39.68,108.61,11.78,23.18,7.12,0.62,24.07,May,Summer,Summer Wedding,106.05630872483222,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-26,44.54,131.53,15.78,21.7,21.61,0.64,28.11,May,Summer,Summer Wedding,121.28503355704699,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-27,38.48,119.89,12.57,29.09,11.62,0.56,35.62,May,Summer,Summer Wedding,113.55107382550335,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-28,55.32,148.24,20.09,38.65,29.19,0.63,23.48,May,Summer,Summer Wedding,132.38765100671142,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-29,49.3,186.57,25.35,44.61,23.12,0.87,23.7,May,Summer,Summer Wedding,157.85523489932885,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-30,37.12,178.03,33.93,47.47,12.9,0.96,15.24,May,Summer,Summer Wedding,152.1810067114094,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-05-31,36.46,131.57,38.71,65.44,8.65,1.08,19.23,May,Summer,Summer Wedding,121.31161073825503,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-01,62.6,276.1,51.77,59.92,13.84,1.13,13.87,June,Monsoon,Non-Festival Period,226.10000000000002,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-02,31.78,126.56,33.52,71.59,12.38,1.02,16.66,June,Monsoon,Non-Festival Period,117.98281879194631,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-03,33.05,146.97,24.8,59.99,10.35,0.9,14.18,June,Monsoon,Non-Festival Period,131.54382550335572,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-04,31.25,126.56,28.36,72.36,7.53,0.91,18.53,June,Monsoon,Non-Festival Period,117.98281879194631,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-05,40.58,193.66,28.6,76.89,9.52,0.89,16.8,June,Monsoon,Non-Festival Period,162.5660402684564,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-06,25.55,78.22,34.95,73.83,5.58,0.91,17.09,June,Monsoon,Non-Festival Period,78.22,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-07,29.88,192.65,37.87,54.9,10.86,0.99,11.36,June,Monsoon,Non-Festival Period,161.89496644295303,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-08,35.78,180.48,35.48,61.1,17.74,0.91,15.94,June,Monsoon,Non-Festival Period,153.80885906040268,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-09,32.43,123.15,30.97,57.04,32.83,0.88,18.25,June,Monsoon,Non-Festival Period,115.71711409395974,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-10,38.07,126.91,55.93,54.26,12.65,1.14,11.66,June,Monsoon,Non-Festival Period,118.21536912751678,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-11,41.87,142.05,50.83,69.31,29.83,0.95,22.17,June,Monsoon,Non-Festival Period,128.2748322147651,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-12,44.86,157.62,64.65,57.24,20.39,1.12,18.51,June,Monsoon,Non-Festival Period,138.62,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-13,37.33,158.43,51.86,67.76,17.71,0.85,20.47,June,Monsoon,Non-Festival Period,139.1581879194631,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-14,21.12,182.52,23.29,49.82,7.14,0.6,8.8,June,Monsoon,Non-Festival Period,155.16429530201344,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-15,23.44,141.55,26.46,47.13,11.78,0.96,9.36,June,Monsoon,Non-Festival Period,127.94261744966444,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-16,38.83,165.59,30.55,51.35,32.7,0.82,25.765,June,Monsoon,Non-Festival Period,143.9155033557047,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-17,20.98,123.7,17.47,44.42,12.66,0.63,5.88,June,Monsoon,Non-Festival Period,116.08255033557047,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-18,30.8,177.77,28.86,43.74,14.3,0.71,7.31,June,Monsoon,Non-Festival Period,152.00825503355705,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-19,28.06,219.27,19.5,53.47,8.77,0.66,14.7,June,Monsoon,Non-Festival Period,179.58208053691277,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-20,16.74,69.79,15.13,53.62,3.44,0.78,17.1,June,Monsoon,Non-Festival Period,69.79,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-21,29.0,84.23,25.27,54.55,3.51,0.99,18.35,June,Monsoon,Non-Festival Period,84.23,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-22,35.98,87.26,24.84,65.83,11.74,0.94,15.64,June,Monsoon,Non-Festival Period,87.26,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-23,30.6,69.02,19.04,58.02,3.44,0.98,11.0,June,Monsoon,Non-Festival Period,69.02,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-24,31.15,73.62,18.49,59.76,1.44,0.92,13.27,June,Monsoon,Non-Festival Period,73.62,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-25,26.46,53.87,15.6,78.39,10.61,0.9,16.57,June,Monsoon,Non-Festival Period,53.87,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-26,24.45,51.33,14.66,60.34,15.64,0.9,9.95,June,Monsoon,Non-Festival Period,51.33,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-27,9.53,16.33,12.83,106.06,11.18,0.83,9.98,June,Monsoon,Non-Festival Period,41.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-28,15.45,24.5,13.91,87.66,11.44,0.66,8.46,June,Monsoon,Non-Festival Period,33.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-29,21.57,38.47,19.61,79.34,14.49,0.98,17.08,June,Monsoon,Non-Festival Period,49.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-06-30,36.86,122.77000000000001,9.58,31.69,9.41,1.47,21.07,June,Monsoon,Non-Festival Period,115.46463087248323,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-01,42.93,96.1,12.81,34.86,17.13,1.2,19.41,July,Monsoon,Non-Festival Period,96.1,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-02,34.61,71.27,11.39,32.4,21.95,1.25,17.93,July,Monsoon,Non-Festival Period,71.27,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-03,11.17,24.37,7.47,31.5,10.57,1.16,14.35,July,Monsoon,Non-Festival Period,54.26666666666666,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-04,15.8,26.84,7.45,33.19,12.35,1.26,22.96,July,Monsoon,Non-Festival Period,59.71111111111111,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-05,13.17,24.6,6.86,28.0,13.82,1.35,16.87,July,Monsoon,Non-Festival Period,64.61111111111111,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-06,7.62,14.6,6.42,37.26,6.61,1.07,19.54,July,Monsoon,Non-Festival Period,19.54,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-07,4.29,12.5,5.24,34.74,8.88,0.99,25.72,July,Monsoon,Non-Festival Period,49.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-08,11.69,26.72,6.65,22.97,16.25,1.19,23.45,July,Monsoon,Non-Festival Period,55.89999999999999,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-09,31.95,63.55,14.15,20.55,18.03,1.4,20.96,July,Monsoon,Non-Festival Period,67.33333333333333,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-10,42.52,75.32,16.21,20.58,12.83,1.27,17.1,July,Monsoon,Non-Festival Period,75.32,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-11,48.76,92.38,16.31,31.0,13.35,1.43,20.68,July,Monsoon,Non-Festival Period,92.38,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-12,24.18,85.05,21.62,35.55,27.72,1.11,25.35,July,Monsoon,Non-Festival Period,85.05,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-13,31.22,74.47,23.76,26.43,16.35,1.04,37.64,July,Monsoon,Non-Festival Period,74.47,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-14,39.02,80.25,23.81,28.73,18.41,1.16,41.01,July,Monsoon,Non-Festival Period,80.25,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-15,40.31,81.12,17.74,37.06,8.65,1.13,34.89,July,Monsoon,Non-Festival Period,81.12,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-16,38.82,70.97,16.59,41.47,14.75,1.12,38.62,July,Monsoon,Non-Festival Period,70.97,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-17,24.18,55.62,14.59,28.73,18.56,1.13,33.28,July,Monsoon,Non-Festival Period,55.62,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-18,31.92,59.65,21.88,30.61,25.13,1.13,36.06,July,Monsoon,Non-Festival Period,59.65,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-19,45.96,75.28,20.12,19.52,22.48,1.06,21.79,July,Monsoon,Non-Festival Period,76.27724137931034,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-20,36.7,63.82,18.5,29.02,16.47,0.96,20.6,July,Monsoon,Non-Festival Period,63.82,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-21,36.4,63.74,17.77,31.28,14.64,0.95,22.02,July,Monsoon,Non-Festival Period,63.74,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-22,21.81,43.24,16.7,27.15,22.73,0.86,17.01,July,Monsoon,Non-Festival Period,43.24,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-23,19.92,47.7,17.04,44.07,10.56,0.95,23.67,July,Monsoon,Non-Festival Period,47.7,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-24,19.65,33.47,12.19,38.88,17.93,0.89,25.87,July,Monsoon,Non-Festival Period,44.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-25,14.84,23.78,12.53,35.32,16.97,0.94,16.41,July,Monsoon,Non-Festival Period,47.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-26,22.94,43.28,20.21,27.86,19.3,1.01,17.45,July,Monsoon,Non-Festival Period,43.28,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-27,21.29,38.76,14.15,36.79,24.45,1.04,17.84,July,Monsoon,Non-Festival Period,38.76,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-28,13.97,36.1,14.01,36.79,27.52,1.02,20.2,July,Monsoon,Non-Festival Period,36.1,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-29,29.81,55.9,12.62,34.92,19.77,1.11,25.87,July,Monsoon,Non-Festival Period,55.9,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-30,32.46,56.81,14.57,27.84,11.8,0.98,25.18,July,Monsoon,Non-Festival Period,56.81,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-07-31,41.0,76.36,20.45,26.73,22.28,1.1,22.86,July,Monsoon,Non-Festival Period,76.36,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-01,15.55,19.53,10.42,24.98,16.28,0.93,22.26,August,Monsoon,Ganesh Chaturthi & Navratri,46.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-02,18.2,30.09,12.21,33.28,21.03,0.93,19.69,August,Monsoon,Ganesh Chaturthi & Navratri,46.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-03,15.57,29.93,12.49,27.43,9.25,0.95,17.64,August,Monsoon,Ganesh Chaturthi & Navratri,47.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-04,12.92,26.69,13.26,31.46,21.49,0.88,14.4,August,Monsoon,Ganesh Chaturthi & Navratri,44.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-05,15.42,27.53,11.21,26.65,18.3,1.04,17.3,August,Monsoon,Ganesh Chaturthi & Navratri,27.53,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-06,14.8,29.3,14.9,23.77,16.32,0.75,15.56,August,Monsoon,Ganesh Chaturthi & Navratri,37.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-07,14.52,28.88,13.8,21.37,19.09,0.74,10.24,August,Monsoon,Ganesh Chaturthi & Navratri,37.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-08,13.14,23.73,11.32,17.17,17.79,0.88,10.92,August,Monsoon,Ganesh Chaturthi & Navratri,44.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-09,14.07,23.83,11.38,16.3,9.94,0.93,12.44,August,Monsoon,Ganesh Chaturthi & Navratri,46.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-10,18.32,30.88,10.54,18.19,15.32,0.97,13.21,August,Monsoon,Ganesh Chaturthi & Navratri,48.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-11,14.1,22.83,10.88,19.77,16.28,0.84,9.82,August,Monsoon,Ganesh Chaturthi & Navratri,42.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-12,17.29,29.62,12.94,27.47,12.78,0.89,12.26,August,Monsoon,Ganesh Chaturthi & Navratri,44.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-13,16.42,29.27,14.71,26.38,13.21,0.99,13.98,August,Monsoon,Ganesh Chaturthi & Navratri,49.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-14,24.02,42.14,16.22,19.46,19.57,0.99,14.49,August,Monsoon,Ganesh Chaturthi & Navratri,49.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-15,24.61,37.78,17.0,20.2,27.98,0.28,11.78,August,Monsoon,Ganesh Chaturthi & Navratri,41.016666666666666,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-16,23.45,37.58,17.07,21.81,19.54,0.71,9.96,August,Monsoon,Ganesh Chaturthi & Navratri,39.083333333333336,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-17,22.21,38.08,17.59,24.37,21.09,0.91,12.12,August,Monsoon,Ganesh Chaturthi & Navratri,45.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-18,37.24,61.39,29.68,21.34,23.07,0.97,8.89,August,Monsoon,Ganesh Chaturthi & Navratri,61.543448275862076,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-19,26.74,51.25,18.04,23.45,10.38,0.8,9.95,August,Monsoon,Ganesh Chaturthi & Navratri,51.25,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-20,19.56,36.4,18.79,26.55,12.13,0.75,9.03,August,Monsoon,Ganesh Chaturthi & Navratri,37.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-21,29.73,54.09,19.7,25.42,20.59,0.96,9.67,August,Monsoon,Ganesh Chaturthi & Navratri,54.09,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-22,39.17,72.09,24.51,21.05,22.09,0.85,9.58,August,Monsoon,Ganesh Chaturthi & Navratri,72.09,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-23,23.88,47.0,19.53,19.81,23.4,0.81,7.15,August,Monsoon,Ganesh Chaturthi & Navratri,47.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-24,33.38,68.81,21.93,17.82,17.77,0.93,7.88,August,Monsoon,Ganesh Chaturthi & Navratri,68.81,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-25,14.82,34.62,13.75,23.04,20.67,0.88,7.72,August,Monsoon,Ganesh Chaturthi & Navratri,44.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-26,20.33,38.55,14.82,22.08,14.24,0.71,7.56,August,Monsoon,Ganesh Chaturthi & Navratri,38.55,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-27,10.73,30.49,17.11,18.45,23.62,0.6,7.61,August,Monsoon,Ganesh Chaturthi & Navratri,30.49,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-28,10.32,21.73,17.37,16.81,15.07,0.82,6.84,August,Monsoon,Ganesh Chaturthi & Navratri,41.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-29,16.36,35.42,17.95,13.73,14.34,0.83,11.27,August,Monsoon,Ganesh Chaturthi & Navratri,41.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-30,26.92,57.6,27.55,13.0,17.41,0.93,9.73,August,Monsoon,Ganesh Chaturthi & Navratri,57.6,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-08-31,34.54,69.34,21.33,14.19,21.8,0.79,6.07,August,Monsoon,Ganesh Chaturthi & Navratri,69.34,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-01,37.01,67.96,18.53,13.74,18.14,0.85,6.58,September,Monsoon,Ganesh Chaturthi & Navratri,67.96,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-02,23.94,45.61,14.24,15.44,20.55,1.02,6.03,September,Monsoon,Ganesh Chaturthi & Navratri,45.61,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-03,26.98,50.29,19.74,14.13,10.36,0.76,5.65,September,Monsoon,Ganesh Chaturthi & Navratri,44.96666666666667,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-04,14.66,31.36,22.98,11.64,26.87,0.76,4.43,September,Monsoon,Ganesh Chaturthi & Navratri,38.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-05,42.81,70.22,29.7,6.34,21.63,0.99,7.09,September,Monsoon,Ganesh Chaturthi & Navratri,70.9548275862069,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-06,20.39,34.47,20.19,8.97,24.68,0.91,4.35,September,Monsoon,Ganesh Chaturthi & Navratri,45.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-07,18.4,32.62,17.96,7.54,16.72,0.8,6.44,September,Monsoon,Ganesh Chaturthi & Navratri,40.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-08,39.21,68.9,19.84,7.0,17.29,0.77,7.91,September,Monsoon,Ganesh Chaturthi & Navratri,68.9,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-09,34.7,58.65,23.52,4.41,16.04,0.78,5.66,September,Monsoon,Ganesh Chaturthi & Navratri,58.65,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-10,17.93,36.66,19.74,1.29,15.68,0.82,4.87,September,Monsoon,Ganesh Chaturthi & Navratri,41.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-11,24.19,47.66,26.35,1.58,29.37,0.89,3.85,September,Monsoon,Ganesh Chaturthi & Navratri,47.66,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-12,13.19,19.42,21.5,7.59,19.93,0.57,3.62,September,Monsoon,Ganesh Chaturthi & Navratri,28.499999999999996,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-13,12.11,19.51,16.04,6.75,20.91,0.74,2.92,September,Monsoon,Ganesh Chaturthi & Navratri,37.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-14,22.69,47.13,22.39,7.3,19.83,0.77,3.75,September,Monsoon,Ganesh Chaturthi & Navratri,47.13,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-15,28.49,74.41,23.04,10.36,15.25,0.82,3.28,September,Monsoon,Ganesh Chaturthi & Navratri,74.41,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-16,41.08,124.49,32.83,10.87,24.01,0.89,3.14,September,Monsoon,Ganesh Chaturthi & Navratri,116.60744966442952,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-17,56.12,137.85,28.02,11.61,20.26,0.92,2.82,September,Monsoon,Ganesh Chaturthi & Navratri,125.48422818791946,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-18,21.1,36.25,23.55,11.51,17.01,0.74,3.58,September,Monsoon,Ganesh Chaturthi & Navratri,37.0,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-19,27.08,43.54,21.73,13.66,12.35,0.86,2.7,September,Monsoon,Ganesh Chaturthi & Navratri,45.13333333333333,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-20,35.75,61.72,41.3,10.62,25.29,0.84,2.51,September,Monsoon,Ganesh Chaturthi & Navratri,61.72,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-21,43.81,74.86,43.52,9.86,27.06,0.92,4.06,September,Monsoon,Ganesh Chaturthi & Navratri,74.86,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-22,78.28,135.14,31.23,8.75,26.9,1.12,3.35,September,Monsoon,Ganesh Chaturthi & Navratri,159.99034482758623,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-23,75.35,129.45,19.75,11.98,22.82,1.02,6.76,September,Monsoon,Ganesh Chaturthi & Navratri,149.98793103448276,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-24,93.81,160.44,33.95,13.29,32.16,1.04,4.97,September,Monsoon,Ganesh Chaturthi & Navratri,210.59275862068966,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-25,76.48,123.06,32.58,18.44,18.68,1.0,4.71,September,Monsoon,Ganesh Chaturthi & Navratri,153.84551724137933,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-26,16.82,44.68,12.2,10.97,21.98,0.83,3.36,September,Monsoon,Ganesh Chaturthi & Navratri,44.68,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-27,10.22,25.42,13.99,7.63,17.26,0.69,5.98,September,Monsoon,Ganesh Chaturthi & Navratri,34.5,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-28,11.39,27.75,22.36,4.82,9.16,0.51,23.27,September,Monsoon,Ganesh Chaturthi & Navratri,27.95,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-29,18.08,38.07,27.45,4.15,7.36,0.54,28.54,September,Monsoon,Ganesh Chaturthi & Navratri,38.07,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-09-30,63.4,119.31,43.19,3.45,9.79,0.72,50.74,September,Monsoon,Ganesh Chaturthi & Navratri,113.16570469798658,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-01,73.92,140.32,50.29,3.76,10.41,0.71,57.76,October,Post-Monsoon,Diwali Festival Season,145.10620689655173,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-02,93.84,210.45,71.16,4.11,10.62,1.01,49.38,October,Post-Monsoon,Diwali Festival Season,210.6951724137931,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-03,78.68,174.68,63.66,3.88,11.29,0.63,54.92,October,Post-Monsoon,Diwali Festival Season,161.35586206896554,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-04,86.19,184.25,66.77,3.24,12.41,0.79,56.64,October,Post-Monsoon,Diwali Festival Season,186.99344827586208,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-05,81.2,167.5,50.65,6.15,16.23,0.71,49.75,October,Post-Monsoon,Diwali Festival Season,169.95862068965516,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-06,67.81,149.48,22.92,13.0,18.88,0.53,53.54,October,Post-Monsoon,Diwali Festival Season,133.21154362416107,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-07,73.25,146.52,21.07,10.87,22.0,0.58,65.71,October,Post-Monsoon,Diwali Festival Season,142.8189655172414,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-08,101.26,188.54,36.98,3.96,17.18,0.54,70.59,October,Post-Monsoon,Diwali Festival Season,236.02551724137933,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-09,94.45,160.78,31.86,2.3,35.3,0.56,73.12,October,Post-Monsoon,Diwali Festival Season,212.77758620689656,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-10,77.37,137.19,34.33,1.79,18.12,0.49,70.91,October,Post-Monsoon,Diwali Festival Season,156.88379310344828,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-11,85.35,143.97,35.52,1.28,21.63,0.51,86.43,October,Post-Monsoon,Diwali Festival Season,184.1258620689655,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-12,99.31,169.19,47.19,1.65,18.21,0.52,77.58,October,Post-Monsoon,Diwali Festival Season,229.3686206896552,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-13,133.66,218.45,66.65,1.87,23.36,0.75,64.01,October,Post-Monsoon,Diwali Festival Season,310.71581395348835,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-14,126.61,209.0,66.75,1.87,24.36,0.77,65.82,October,Post-Monsoon,Diwali Festival Season,305.3053488372093,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-15,125.73,248.1,58.4,11.58,29.86,0.87,68.3,October,Post-Monsoon,Diwali Festival Season,304.63,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-16,144.91,296.69,72.42,14.71,50.02,1.17,57.64,October,Post-Monsoon,Diwali Festival Season,319.34953488372093,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-17,82.42,205.14,70.44,18.69,25.16,1.0,47.49,October,Post-Monsoon,Diwali Festival Season,174.12344827586207,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-18,96.83,210.49,70.37,25.64,31.84,1.18,56.07,October,Post-Monsoon,Diwali Festival Season,220.90241379310345,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-19,97.82,208.5,59.29,26.91,31.09,1.1,50.65,October,Post-Monsoon,Diwali Festival Season,224.28206896551723,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-20,80.54,180.14,42.72,26.71,25.59,1.01,53.62,October,Post-Monsoon,Diwali Festival Season,167.7055172413793,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-21,80.61,174.23,34.98,26.41,27.19,1.05,50.76,October,Post-Monsoon,Diwali Festival Season,167.94448275862067,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-22,99.8,202.9,47.73,28.72,24.58,1.18,44.03,October,Post-Monsoon,Diwali Festival Season,231.0413793103448,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-23,147.3,262.29,44.33,31.44,37.84,1.32,52.04,October,Post-Monsoon,Diwali Festival Season,321.18372093023254,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-24,117.07,214.09,38.08,25.18,37.26,1.19,54.41,October,Post-Monsoon,Diwali Festival Season,289.99758620689653,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-25,111.69,215.82,57.73,19.21,38.03,1.23,55.04,October,Post-Monsoon,Diwali Festival Season,271.6313793103448,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-26,128.69,256.58,84.49,14.5,35.33,1.88,48.42,October,Post-Monsoon,Diwali Festival Season,306.9016279069767,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-27,97.22,195.14,62.07,23.13,17.69,1.29,41.23,October,Post-Monsoon,Diwali Festival Season,222.23379310344828,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-28,93.02,180.06,58.11,30.05,22.97,1.06,52.52,October,Post-Monsoon,Diwali Festival Season,207.8958620689655,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-29,84.0,168.97,60.65,27.41,28.88,1.07,47.94,October,Post-Monsoon,Diwali Festival Season,179.51724137931035,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-30,84.31,183.55,49.43,29.97,28.8,1.17,47.46,October,Post-Monsoon,Diwali Festival Season,180.57551724137932,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-10-31,106.88,218.22,49.31,27.31,38.55,1.4,50.44,October,Post-Monsoon,Diwali Festival Season,255.2110344827586,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-01,142.11,237.61,45.1,21.43,42.04,1.52,44.08,November,Post-Monsoon,Diwali Festival Season,317.2006976744186,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-02,156.66,246.99,61.31,15.35,59.74,1.34,47.28,November,Post-Monsoon,Diwali Festival Season,328.36697674418605,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-03,125.4,222.1,34.87,11.42,33.22,1.58,51.42,November,Post-Monsoon,Diwali Festival Season,304.3767441860465,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-04,155.83,281.6,11.48,5.54,36.52,1.53,51.5,November,Post-Monsoon,Diwali Festival Season,327.73,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-05,119.58,229.86,10.93,2.58,28.79,1.55,46.07,November,Post-Monsoon,Diwali Festival Season,298.5662068965517,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-06,144.92,259.48,76.58,18.22,25.82,1.53,49.88,November,Post-Monsoon,Diwali Festival Season,319.3572093023256,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-07,155.79,270.33,78.17,24.82,31.33,1.55,47.57,November,Post-Monsoon,Diwali Festival Season,327.6993023255814,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-08,149.81,266.48,29.47,7.6,22.16,1.79,46.63,November,Post-Monsoon,Diwali Festival Season,323.11,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-09,118.22,210.75,4.58,1.92,20.84,1.14,49.46,November,Post-Monsoon,Diwali Festival Season,293.92344827586203,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-10,109.38,202.48,2.3,4.48,23.4,1.31,50.78,November,Post-Monsoon,Diwali Festival Season,263.7455172413793,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-11,107.94,199.33,51.11,10.99,19.26,1.23,46.97,November,Post-Monsoon,Diwali Festival Season,258.82965517241377,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-12,111.24,211.8,52.67,21.08,27.11,1.56,56.55,November,Post-Monsoon,Diwali Festival Season,270.0951724137931,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-13,231.93,389.68,60.66,22.49,17.85,2.95,54.93,November,Post-Monsoon,Diwali Festival Season,386.1323255813954,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-14,170.73,291.67,60.79,16.76,16.85,1.76,59.53,November,Post-Monsoon,Diwali Festival Season,339.1648837209302,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-15,186.4,307.92,16.17,4.48,25.73,1.43,61.47,November,Post-Monsoon,Diwali Festival Season,351.19069767441863,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-16,228.66,354.74,4.47,2.01,35.56,1.74,52.17,November,Post-Monsoon,Diwali Festival Season,383.6227906976744,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-17,207.1,324.81,4.42,1.96,32.99,1.91,45.72,November,Post-Monsoon,Diwali Festival Season,367.07674418604654,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-18,400.33,507.23,4.48,2.05,14.9,2.52,45.19,November,Post-Monsoon,Diwali Festival Season,445.9751176470588,Severe,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-19,215.43,369.95,4.33,1.98,16.38,1.66,32.64,November,Post-Monsoon,Diwali Festival Season,373.46953488372094,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-20,200.92,308.76,4.42,1.97,27.2,1.84,30.96,November,Post-Monsoon,Diwali Festival Season,362.3339534883721,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-21,108.85,161.0,4.49,1.95,35.38,1.17,32.68,November,Post-Monsoon,Diwali Festival Season,261.9362068965517,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-22,169.88,214.57,4.49,2.0,45.24,1.56,26.75,November,Post-Monsoon,Diwali Festival Season,338.51255813953486,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-23,230.99,275.5,4.45,2.0,41.01,2.24,32.37,November,Post-Monsoon,Diwali Festival Season,385.41093023255814,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-24,75.33,338.24,4.52,1.95,26.16,1.73,18.91,November,Post-Monsoon,Diwali Festival Season,288.24,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-25,105.75,357.02,53.51,21.96,31.49,1.86,19.45,November,Post-Monsoon,Diwali Festival Season,308.54405063291136,Very Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-26,103.44,201.6,78.34,40.94,25.37,1.15,13.02,November,Post-Monsoon,Diwali Festival Season,243.46758620689656,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-27,93.79,183.31,99.51,38.89,42.34,1.17,13.59,November,Post-Monsoon,Diwali Festival Season,210.5244827586207,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-28,65.29,131.98,70.94,34.06,38.85,1.03,15.47,November,Post-Monsoon,Diwali Festival Season,121.58402684563758,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-29,65.5,131.57,34.1,15.81,41.52,1.48,13.66,November,Post-Monsoon,Diwali Festival Season,121.31161073825503,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-11-30,61.54,123.73,8.96,8.73,31.07,1.11,12.08,November,Post-Monsoon,Diwali Festival Season,116.10248322147652,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-01,61.68,128.1,16.98,6.64,38.26,1.24,10.91,December,Winter,Christmas & New Year,119.00604026845637,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-02,54.11,111.25,12.93,7.75,29.62,0.96,9.94,December,Winter,Christmas & New Year,107.81040268456375,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-03,54.24,117.78,20.28,7.0,39.51,1.26,7.1,December,Winter,Christmas & New Year,112.14912751677852,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-04,29.58,77.08,18.46,7.74,25.67,0.82,4.97,December,Winter,Christmas & New Year,77.08,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-05,31.56,79.89,13.17,6.83,27.86,0.85,6.32,December,Winter,Christmas & New Year,79.89,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-06,39.59,92.33,4.51,6.77,30.53,0.99,6.69,December,Winter,Christmas & New Year,92.33,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-07,59.67,122.48,30.1,9.17,40.33,1.33,9.8,December,Winter,Christmas & New Year,115.27194630872484,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-08,55.15,112.21,43.13,11.58,24.21,1.18,5.56,December,Winter,Christmas & New Year,108.44825503355705,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-09,25.04,46.24,50.64,9.5,19.17,0.83,5.54,December,Winter,Christmas & New Year,63.11179487179487,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-10,36.16,73.28,56.95,6.86,20.05,0.84,5.54,December,Winter,Christmas & New Year,73.28,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-11,38.4,82.33,71.65,17.73,29.45,1.21,7.31,December,Winter,Christmas & New Year,89.50897435897437,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-12,51.74,106.27,73.42,38.16,26.93,1.17,9.79,December,Winter,Christmas & New Year,104.50154362416107,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-13,42.73,94.69,53.07,34.15,24.79,0.97,9.85,December,Winter,Christmas & New Year,94.69,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-14,63.47,92.82,40.51,18.29,32.44,1.01,9.51,December,Winter,Christmas & New Year,109.43206896551723,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-15,71.81,134.8,32.85,6.94,33.31,1.61,9.61,December,Winter,Christmas & New Year,137.90310344827589,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-16,115.76,172.54,46.23,11.63,31.8,1.51,9.28,December,Winter,Christmas & New Year,285.52551724137936,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-17,49.2,122.77000000000001,26.41,26.71,23.62,0.96,25.765,December,Winter,Christmas & New Year,115.46463087248323,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-18,105.53,142.24,138.74,42.24,37.72,0.55,9.59,December,Winter,Christmas & New Year,250.60241379310344,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-19,103.89,184.3,116.0,57.74,19.83,1.85,23.6,December,Winter,Christmas & New Year,245.0037931034483,Poor,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-20,68.62,123.74,67.91,87.53,22.2,1.16,32.89,December,Winter,Christmas & New Year,127.01310344827587,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-21,71.56,128.59,72.57,86.83,20.84,1.23,37.18,December,Winter,Christmas & New Year,137.0496551724138,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-22,84.65,150.16,100.7,96.77,33.87,1.65,35.14,December,Winter,Christmas & New Year,181.73620689655172,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-23,72.74,129.81,77.93,97.33,24.37,1.32,23.72,December,Winter,Christmas & New Year,141.07793103448273,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-24,51.88,93.78,68.4,81.18,31.2,1.24,24.54,December,Winter,Christmas & New Year,93.78,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-25,56.08,97.43,70.48,80.71,36.22,1.2,25.46,December,Winter,Christmas & New Year,97.43,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-26,71.72,127.66,107.25,90.43,32.26,1.94,24.47,December,Winter,Christmas & New Year,137.59586206896552,Moderate,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-27,33.64,55.98,44.45,81.43,25.27,0.76,22.5,December,Winter,Christmas & New Year,55.98,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-28,18.35,33.16,43.17,58.62,22.33,1.02,14.27,December,Winter,Christmas & New Year,53.72641025641026,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-29,27.43,50.27,32.83,51.56,20.85,1.01,20.55,December,Winter,Christmas & New Year,45.71666666666667,Good,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-30,29.09,53.07,36.32,43.93,21.97,1.09,24.13,December,Winter,Christmas & New Year,53.07,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433
+2024-12-31,42.51,78.8,36.41,45.55,20.55,1.25,19.87,December,Winter,Christmas & New Year,78.8,Satisfactory,Hapur,Uttar Pradesh,28.7166767,77.890433

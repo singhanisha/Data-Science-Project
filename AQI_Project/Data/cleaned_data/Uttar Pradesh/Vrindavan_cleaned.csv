@@ -1,0 +1,367 @@
+TIMESTAMP,PM2.5,PM10,NO2,NH3,SO2,CO,O3,MONTH,SEASON,FESTIVAL_SEASON,AQI,AQI_CATEGORY,CITY,STATE,LATITUDE,LONGITUDE
+2024-01-01,38.02,77.08,2.02,12.03,28.21,1.05,24.93,January,Winter,Christmas & New Year,77.08,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-02,43.8,88.62,2.04,12.48,28.4,1.32,25.68,January,Winter,Christmas & New Year,88.62,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-03,35.35,71.53,2.01,12.64,29.35,1.67,25.16,January,Winter,Christmas & New Year,82.03333333333333,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-04,54.42,110.19,1.99,13.56,28.67,1.34,24.8,January,Winter,Christmas & New Year,107.10610738255033,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-05,41.97,84.9,2.01,12.4,27.7,1.01,24.78,January,Winter,Christmas & New Year,84.9,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-06,40.73,82.3,2.04,11.94,27.54,1.27,24.36,January,Winter,Christmas & New Year,82.3,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-07,43.35,87.79,2.06,11.53,27.61,1.47,24.35,January,Winter,Christmas & New Year,87.79,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-08,33.77,68.4,2.03,11.39,27.57,1.38,24.97,January,Winter,Christmas & New Year,68.4,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-09,35.55,71.94,2.03,12.2,28.03,1.44,24.7,January,Winter,Christmas & New Year,71.94,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-10,30.93,62.57,2.03,11.71,28.03,0.77,24.8,January,Winter,Christmas & New Year,62.57,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-11,38.82,78.55,2.06,10.55,27.83,1.39,24.77,January,Winter,Christmas & New Year,78.55,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-12,48.9,98.94,2.05,12.05,28.54,1.82,26.22,January,Winter,Christmas & New Year,98.94,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-13,42.91,86.88,2.04,11.93,27.98,2.0,27.29,January,Winter,Christmas & New Year,100.0,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-14,42.97,86.88,2.02,11.98,28.02,2.59,27.12,January,Winter,Christmas & New Year,107.14050632911392,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-15,43.53,88.18,2.04,11.39,28.04,2.73,29.04,January,Winter,Christmas & New Year,108.89493670886075,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-16,35.78,72.29,2.0,12.11,28.27,1.99,29.32,January,Winter,Christmas & New Year,99.45555555555555,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-17,27.27,55.17,2.01,11.97,28.27,0.55,30.0,January,Winter,Christmas & New Year,55.17,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-18,20.58,41.65,2.02,12.94,28.21,0.56,30.01,January,Winter,Christmas & New Year,41.65,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-19,27.91,56.47,2.04,13.63,28.21,0.5,29.77,January,Winter,Christmas & New Year,56.47,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-20,32.19,65.17,2.05,11.27,28.07,0.66,29.91,January,Winter,Christmas & New Year,65.17,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-21,36.13,73.07,2.03,9.95,28.21,1.44,30.0,January,Winter,Christmas & New Year,73.07,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-22,33.03,66.84,2.05,10.85,28.03,1.0,30.16,January,Winter,Christmas & New Year,66.84,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-23,35.71,72.33,2.03,12.89,28.38,0.93,30.1,January,Winter,Christmas & New Year,72.33,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-24,29.04,58.76,2.01,15.04,28.83,1.16,30.14,January,Winter,Christmas & New Year,58.76,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-25,58.45,118.26,2.05,13.93,28.43,1.58,30.31,January,Winter,Christmas & New Year,112.46805369127517,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-26,35.88,72.65,2.02,13.6,28.33,2.02,30.39,January,Winter,Christmas & New Year,72.65,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-27,37.75,76.41,2.02,11.37,28.46,2.31,30.45,January,Winter,Christmas & New Year,103.63164556962025,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-28,47.39,95.88,2.23,12.16,29.11,1.18,30.51,January,Winter,Christmas & New Year,95.88,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-29,42.11,85.21,2.01,18.32,28.87,1.33,30.37,January,Winter,Christmas & New Year,85.21,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-30,41.2,83.52,2.02,16.49,29.26,1.63,30.65,January,Winter,Christmas & New Year,83.52,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-01-31,32.28,65.31,2.02,16.8,28.7,1.49,30.59,January,Winter,Christmas & New Year,72.23333333333333,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-01,18.39,69.84,2.0,14.99,29.07,0.2,30.58,February,Winter,Winter Wedding,69.84,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-02,17.76,135.9,2.02,23.02,28.96,0.28,30.34,February,Winter,Winter Wedding,124.18859060402684,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-03,25.61,150.37,2.02,13.99,28.83,0.47,30.53,February,Winter,Winter Wedding,133.80288590604027,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-04,20.87,120.71,2.05,14.76,28.83,0.52,30.41,February,Winter,Winter Wedding,114.09590604026846,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-05,17.32,145.81,2.03,16.43,29.14,0.52,30.38,February,Winter,Winter Wedding,130.77308724832216,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-06,18.44,120.84,2.05,11.97,28.78,0.86,30.19,February,Winter,Winter Wedding,114.18228187919463,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-07,17.7,113.5,2.05,10.28,28.69,0.87,29.89,February,Winter,Winter Wedding,109.30536912751678,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-08,15.64,122.71,2.03,10.16,28.55,0.79,30.11,February,Winter,Winter Wedding,115.42476510067114,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-09,24.83,143.73,2.08,9.19,28.69,1.14,30.39,February,Winter,Winter Wedding,129.39107382550336,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-10,37.04,183.5,2.06,9.39,28.56,1.68,30.13,February,Winter,Winter Wedding,155.81543624161074,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-11,38.79,177.74,2.05,10.63,28.64,1.57,29.89,February,Winter,Winter Wedding,151.98832214765102,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-12,32.89,187.43,2.05,11.43,28.99,1.29,30.53,February,Winter,Winter Wedding,158.42664429530203,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-13,31.46,135.81,1.98,12.34,29.76,1.22,30.52,February,Winter,Winter Wedding,124.12879194630872,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-14,37.63,174.37,2.04,13.03,30.88,1.4,30.23,February,Winter,Winter Wedding,149.7491946308725,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-15,33.77,166.82,2.03,11.67,30.53,1.47,30.59,February,Winter,Winter Wedding,144.73275167785235,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-16,35.97,203.41,2.06,10.92,30.5,1.59,30.89,February,Winter,Winter Wedding,169.04422818791946,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-17,32.01,166.46,2.05,10.27,30.48,1.59,31.01,February,Winter,Winter Wedding,144.49355704697987,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-18,34.6,201.26,2.0,11.02,31.0,1.71,31.09,February,Winter,Winter Wedding,167.6157046979866,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-19,21.18,137.6,2.03,12.11,30.04,0.93,32.02,February,Winter,Winter Wedding,125.31812080536912,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-20,25.43,149.84,2.02,13.96,30.03,0.95,31.9,February,Winter,Winter Wedding,133.45073825503357,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-21,26.84,151.25,2.0,14.77,30.49,1.0,33.2,February,Winter,Winter Wedding,134.38758389261744,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-22,15.84,133.15,2.03,12.6,29.67,0.74,32.95,February,Winter,Winter Wedding,122.36140939597315,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-23,17.68,95.43,2.04,9.13,29.62,0.85,31.04,February,Winter,Winter Wedding,95.43,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-24,17.16,133.01,2.02,9.62,29.71,0.86,31.18,February,Winter,Winter Wedding,122.26838926174496,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-25,17.47,120.0,2.09,9.21,29.85,0.83,30.84,February,Winter,Winter Wedding,113.6241610738255,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-26,21.52,181.58,2.04,8.74,30.05,0.95,31.13,February,Winter,Winter Wedding,154.53973154362416,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-27,19.25,158.75,2.06,9.2,30.56,0.91,30.64,February,Winter,Winter Wedding,139.3708053691275,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-28,14.94,156.07,2.06,9.52,30.44,0.83,30.58,February,Winter,Winter Wedding,137.5901342281879,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-02-29,20.19,124.38,2.03,9.44,30.52,0.91,30.75,February,Winter,Winter Wedding,116.53436241610738,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-01,19.96,153.23,2.03,10.58,30.35,1.16,30.94,March,Summer,Holi Festival Season,135.70315436241611,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-02,7.23,105.09,2.03,12.43,30.58,0.62,31.46,March,Summer,Holi Festival Season,103.71751677852349,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-03,9.02,99.42,2.0,14.02,30.73,0.68,31.79,March,Summer,Holi Festival Season,99.42,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-04,16.64,93.09,2.02,11.82,30.93,0.82,31.12,March,Summer,Holi Festival Season,93.09,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-05,20.45,144.17,2.02,9.59,30.93,1.03,30.38,March,Summer,Holi Festival Season,129.68342281879194,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-06,18.26,118.91,2.06,8.85,30.81,0.95,30.87,March,Summer,Holi Festival Season,112.89993288590604,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-07,27.97,150.66,2.08,9.13,30.87,1.28,31.33,March,Summer,Holi Festival Season,133.99557046979865,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-08,23.49,111.49,2.07,9.46,31.42,1.23,31.13,March,Summer,Holi Festival Season,107.96986577181208,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-09,20.0,150.14,2.05,8.77,31.42,1.02,30.74,March,Summer,Holi Festival Season,133.65006711409396,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-10,19.39,172.06,2.06,8.21,30.93,0.95,31.0,March,Summer,Holi Festival Season,148.21436241610738,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-11,24.38,149.48,2.02,12.04,31.84,1.15,31.36,March,Summer,Holi Festival Season,133.21154362416107,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-12,28.36,173.44,2.0,12.78,31.57,1.26,31.6,March,Summer,Holi Festival Season,149.13127516778525,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-13,20.18,140.55,1.99,12.76,31.9,1.21,32.07,March,Summer,Holi Festival Season,127.2781879194631,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-14,22.77,147.8,2.04,12.39,32.15,1.04,30.55,March,Summer,Holi Festival Season,132.09530201342284,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-15,15.38,157.49,2.02,9.15,30.99,0.75,30.3,March,Summer,Holi Festival Season,138.53362416107382,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-16,27.06,134.15,2.05,8.36,31.18,1.15,30.35,March,Summer,Holi Festival Season,123.0258389261745,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-17,28.61,159.41,2.04,8.48,31.3,1.23,30.2,March,Summer,Holi Festival Season,139.8093288590604,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-18,24.1,150.07,2.06,8.72,31.9,1.05,30.73,March,Summer,Holi Festival Season,133.60355704697986,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-19,25.99,123.76,2.04,11.07,31.86,1.1,31.3,March,Summer,Holi Festival Season,116.12241610738255,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-20,33.7,152.05,2.05,12.23,32.36,1.33,30.45,March,Summer,Holi Festival Season,134.91912751677853,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-21,20.23,114.65,2.04,12.08,32.13,1.01,31.54,March,Summer,Holi Festival Season,110.06946308724832,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-22,20.64,132.4,2.01,13.72,32.8,0.98,32.28,March,Summer,Holi Festival Season,121.86308724832216,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-23,26.41,122.14,2.01,12.99,32.03,1.13,31.54,March,Summer,Holi Festival Season,115.04604026845638,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-24,31.31,157.84,2.03,10.32,31.92,1.14,30.7,March,Summer,Holi Festival Season,138.76617449664428,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-25,20.17,103.82,2.05,10.79,31.77,0.92,30.82,March,Summer,Holi Festival Season,102.87369127516779,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-26,18.95,93.13,2.01,9.79,32.28,0.76,31.56,March,Summer,Holi Festival Season,93.13,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-27,26.45,133.88,2.03,11.01,32.6,1.2,31.82,March,Summer,Holi Festival Season,122.84644295302013,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-28,23.95,105.12,2.04,11.06,33.09,1.08,30.14,March,Summer,Holi Festival Season,103.73744966442953,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-29,32.71,142.1,2.01,8.98,33.99,1.28,31.0,March,Summer,Holi Festival Season,128.30805369127518,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-30,23.61,113.36,2.02,7.47,33.0,0.81,31.64,March,Summer,Holi Festival Season,109.21234899328859,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-03-31,28.57,134.79,2.01,8.45,32.27,1.06,31.84,March,Summer,Holi Festival Season,123.45107382550336,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-01,18.46,102.73,2.07,10.87,31.8,0.73,31.4,April,Summer,Summer Wedding,102.14946308724832,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-02,21.78,133.01,2.09,8.87,31.86,0.82,30.61,April,Summer,Summer Wedding,122.26838926174496,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-03,22.47,135.03,2.08,9.06,32.44,0.82,30.27,April,Summer,Summer Wedding,123.61053691275168,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-04,30.53,141.12,2.04,11.15,34.05,1.04,30.4,April,Summer,Summer Wedding,127.65691275167785,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-05,27.2,120.63,2.06,10.11,33.99,0.96,30.32,April,Summer,Summer Wedding,114.04275167785235,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-06,24.44,107.9,2.06,7.32,33.66,0.83,30.08,April,Summer,Summer Wedding,105.58456375838927,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-07,26.45,160.07,2.05,5.99,33.73,1.01,30.32,April,Summer,Summer Wedding,140.2478523489933,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-08,25.97,152.15,2.06,9.07,32.98,1.01,31.32,April,Summer,Summer Wedding,134.98557046979866,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-09,26.52,116.53,2.11,10.8,32.9,1.01,31.79,April,Summer,Summer Wedding,111.31859060402685,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-10,29.52,141.63,2.04,9.11,32.64,0.89,31.48,April,Summer,Summer Wedding,127.99577181208053,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-11,21.35,105.59,2.09,8.46,32.78,0.75,31.02,April,Summer,Summer Wedding,104.04973154362416,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-12,29.64,87.61,2.1,8.73,34.34,1.04,30.16,April,Summer,Summer Wedding,87.61,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-13,18.52,59.03,2.03,8.14,33.09,0.7,30.86,April,Summer,Summer Wedding,59.03,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-14,23.05,70.11,2.05,6.94,32.92,0.85,32.21,April,Summer,Summer Wedding,70.11,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-15,25.62,81.51,2.03,4.77,33.83,0.99,31.35,April,Summer,Summer Wedding,81.51,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-16,24.51,84.06,2.0,5.33,33.26,0.82,32.23,April,Summer,Summer Wedding,84.06,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-17,21.21,76.15,2.06,5.1,32.88,0.66,30.84,April,Summer,Summer Wedding,76.15,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-18,18.71,76.56,2.04,4.38,32.79,0.57,29.75,April,Summer,Summer Wedding,76.56,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-19,36.01,118.61,2.04,8.14,36.65,0.69,32.02,April,Summer,Summer Wedding,112.70060402684564,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-20,39.12,207.65,2.0,4.02,34.33,0.59,30.92,April,Summer,Summer Wedding,171.86140939597317,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-21,24.3,130.92,2.05,4.08,34.98,0.8,30.69,April,Summer,Summer Wedding,120.87973154362416,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-22,21.11,158.29,1.97,5.38,34.12,0.76,30.83,April,Summer,Summer Wedding,139.0651677852349,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-23,13.91,114.48,2.02,5.89,33.39,0.55,30.82,April,Summer,Summer Wedding,109.9565100671141,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-24,19.58,121.6,2.03,4.04,33.55,0.63,30.2,April,Summer,Summer Wedding,114.68724832214765,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-25,33.57,175.7,1.87,10.71,43.84,1.06,34.5,April,Summer,Summer Wedding,150.63288590604026,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-26,30.36,168.32,2.03,3.72,34.31,1.12,31.84,April,Summer,Summer Wedding,145.72939597315437,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-27,19.27,130.89,2.0,4.65,33.0,0.6,33.44,April,Summer,Summer Wedding,120.85979865771812,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-28,32.68,163.46,2.01,4.62,33.9,0.93,32.61,April,Summer,Summer Wedding,142.50026845637586,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-29,26.87,147.59,2.02,4.51,34.48,0.81,30.78,April,Summer,Summer Wedding,131.95577181208054,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-04-30,21.94,142.39,2.06,4.78,34.79,0.67,31.09,April,Summer,Summer Wedding,128.50073825503355,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-01,27.65,149.19,1.99,6.28,39.31,0.78,33.57,May,Summer,Summer Wedding,133.0188590604027,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-02,27.87,146.28,1.93,4.16,39.25,0.85,31.19,May,Summer,Summer Wedding,131.08536912751677,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-03,26.56,128.01,1.99,1.92,35.83,0.82,29.77,May,Summer,Summer Wedding,118.94624161073826,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-04,41.46,189.69,2.0,2.76,38.1,1.2,29.18,May,Summer,Summer Wedding,159.92825503355704,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-05,25.82,130.78,2.0,3.71,36.48,0.78,28.57,May,Summer,Summer Wedding,120.78671140939598,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-06,33.0,132.34,2.0,5.67,41.71,1.11,29.97,May,Summer,Summer Wedding,121.82322147651007,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-07,33.62,169.73,2.01,6.73,37.8,1.18,28.9,May,Summer,Summer Wedding,146.66624161073827,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-08,24.05,130.41,1.99,5.56,34.96,0.8,30.59,May,Summer,Summer Wedding,120.54087248322148,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-09,17.74,102.43,1.96,4.65,34.92,0.73,30.42,May,Summer,Summer Wedding,101.95013422818792,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-10,20.92,121.74,2.0,3.55,35.13,0.84,31.1,May,Summer,Summer Wedding,114.78026845637584,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-11,32.8,201.8,2.01,1.9,34.58,0.69,31.53,May,Summer,Summer Wedding,167.9744966442953,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-12,27.8,111.32,2.05,2.33,35.34,0.76,31.54,May,Summer,Summer Wedding,107.85691275167785,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-13,32.25,130.24,2.01,2.29,35.8,0.85,30.62,May,Summer,Summer Wedding,120.42791946308725,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-14,28.36,143.21,2.06,8.48,36.54,0.96,29.36,May,Summer,Summer Wedding,129.04557046979866,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-15,25.49,138.36,2.02,5.59,35.67,0.71,29.25,May,Summer,Summer Wedding,125.82308724832215,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-16,39.01,151.52,2.06,5.29,36.67,1.02,29.2,May,Summer,Summer Wedding,134.56697986577183,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-17,32.01,141.16,2.04,5.06,36.87,0.99,29.27,May,Summer,Summer Wedding,127.6834899328859,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-18,33.85,142.14,2.03,4.88,37.63,0.97,30.41,May,Summer,Summer Wedding,128.33463087248322,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-19,29.24,141.69,2.03,5.19,37.44,1.07,31.42,May,Summer,Summer Wedding,128.03563758389262,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-20,24.55,142.35,2.38,3.61,35.55,0.65,31.88,May,Summer,Summer Wedding,128.4741610738255,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-21,26.68,169.64,2.08,5.5,36.11,0.9,30.76,May,Summer,Summer Wedding,146.60644295302012,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-22,20.99,127.13,2.04,4.38,36.27,0.83,32.75,May,Summer,Summer Wedding,118.36154362416107,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-23,17.63,141.97,2.06,2.46,35.04,0.7,35.08,May,Summer,Summer Wedding,128.221677852349,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-24,15.68,123.24,2.03,2.18,35.35,0.68,33.26,May,Summer,Summer Wedding,115.77691275167786,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-25,22.6,169.0,1.99,3.36,37.13,0.93,30.07,May,Summer,Summer Wedding,146.18120805369128,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-26,25.94,164.34,2.03,3.25,37.29,0.99,31.72,May,Summer,Summer Wedding,143.08496644295303,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-27,26.8,153.28,4.97,2.61,39.98,1.01,31.94,May,Summer,Summer Wedding,135.73637583892616,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-28,25.73,133.64,9.68,5.52,39.31,0.93,19.68,May,Summer,Summer Wedding,122.6869798657718,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-29,26.52,154.81,9.65,4.99,36.73,0.74,22.17,May,Summer,Summer Wedding,136.75295302013424,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-30,24.68,129.22,9.68,4.69,36.25,0.69,23.05,May,Summer,Summer Wedding,119.75020134228188,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-05-31,23.97,126.18,9.68,3.98,38.08,0.64,22.05,May,Summer,Summer Wedding,117.7303355704698,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-01,32.38,116.785,9.7,3.19,37.17,0.83,21.94,June,Monsoon,Non-Festival Period,111.48802013422818,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-02,18.24,95.37,9.71,2.02,36.25,0.58,22.03,June,Monsoon,Non-Festival Period,95.37,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-03,20.58,129.83,9.7,2.25,35.9,0.64,20.45,June,Monsoon,Non-Festival Period,120.15550335570471,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-04,27.6,132.4,9.73,6.58,35.47,0.67,20.53,June,Monsoon,Non-Festival Period,121.86308724832216,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-05,23.58,116.82,9.49,23.13,40.56,0.65,24.72,June,Monsoon,Non-Festival Period,111.51127516778523,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-06,18.24,113.87,9.65,10.16,34.74,0.51,21.26,June,Monsoon,Non-Festival Period,109.55120805369128,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-07,59.57,195.44,9.64,10.18,35.09,0.49,21.89,June,Monsoon,Non-Festival Period,163.74872483221478,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-08,48.0,216.51,9.62,8.21,35.15,0.49,22.27,June,Monsoon,Non-Festival Period,177.74825503355703,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-09,21.82,121.82,9.66,6.21,36.68,0.68,21.96,June,Monsoon,Non-Festival Period,114.83342281879195,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-10,21.62,103.99,9.64,7.19,38.39,0.87,20.34,June,Monsoon,Non-Festival Period,102.98664429530201,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-11,23.97,123.22,9.6,13.19,39.03,0.7,19.89,June,Monsoon,Non-Festival Period,115.76362416107382,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-12,23.6,149.85,9.63,9.34,36.01,0.6,22.32,June,Monsoon,Non-Festival Period,133.45738255033558,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-13,21.35,107.61,9.64,12.38,35.51,0.52,22.59,June,Monsoon,Non-Festival Period,105.39187919463087,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-14,17.11,90.34,9.62,14.4,34.92,0.46,23.57,June,Monsoon,Non-Festival Period,90.34,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-15,15.27,95.59,9.65,15.43,34.92,0.47,23.36,June,Monsoon,Non-Festival Period,95.59,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-16,16.52,99.24,9.6,13.59,35.51,0.52,23.44,June,Monsoon,Non-Festival Period,99.24,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-17,19.83,76.23,9.61,11.99,36.15,0.51,23.34,June,Monsoon,Non-Festival Period,76.23,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-18,18.56,91.54,9.61,9.01,35.65,0.45,24.35,June,Monsoon,Non-Festival Period,91.54,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-19,14.58,109.43,9.66,7.47,34.96,0.42,23.46,June,Monsoon,Non-Festival Period,106.60114093959731,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-20,16.46,74.75,9.67,5.52,35.27,0.51,22.76,June,Monsoon,Non-Festival Period,74.75,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-21,22.8,95.36,9.64,5.78,35.47,0.53,22.31,June,Monsoon,Non-Festival Period,95.36,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-22,28.44,116.75,9.66,6.07,35.89,0.76,23.62,June,Monsoon,Non-Festival Period,111.46476510067114,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-23,18.58,76.46,9.62,4.32,36.21,0.8,23.23,June,Monsoon,Non-Festival Period,76.46,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-24,15.52,89.15,9.66,4.45,35.89,0.7,23.3,June,Monsoon,Non-Festival Period,89.15,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-25,14.65,78.06,9.68,4.03,35.73,0.75,23.63,June,Monsoon,Non-Festival Period,78.06,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-26,16.7,107.04,9.66,3.4,36.01,0.74,24.51,June,Monsoon,Non-Festival Period,105.01315436241612,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-27,9.38,61.99,9.67,4.16,35.73,0.58,24.78,June,Monsoon,Non-Festival Period,61.99,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-28,12.14,82.41,9.68,3.52,35.57,0.6,24.47,June,Monsoon,Non-Festival Period,82.41,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-29,8.08,85.8,9.71,2.99,34.75,0.56,25.36,June,Monsoon,Non-Festival Period,85.8,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-06-30,9.91,85.55,9.67,2.41,35.0,0.58,25.27,June,Monsoon,Non-Festival Period,85.55,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-01,7.98,50.46,9.67,4.05,35.86,0.58,25.92,July,Monsoon,Non-Festival Period,44.825,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-02,23.05,116.785,9.63,12.64,28.69,0.83,23.46,July,Monsoon,Non-Festival Period,111.48802013422818,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-03,23.05,27.89,9.68,0.02,34.05,0.47,25.22,July,Monsoon,Non-Festival Period,42.5625,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-04,5.01,57.48,9.66,8.48,34.59,0.51,25.11,July,Monsoon,Non-Festival Period,57.48,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-05,6.75,40.58,9.69,5.01,34.44,0.54,25.81,July,Monsoon,Non-Festival Period,43.05,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-06,6.13,114.35,9.63,2.06,34.37,0.48,25.83,July,Monsoon,Non-Festival Period,109.87013422818792,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-07,5.02,109.29,9.67,2.45,34.54,0.45,26.04,July,Monsoon,Non-Festival Period,106.50812080536913,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-08,10.61,134.11,9.63,8.05,35.27,0.54,27.47,July,Monsoon,Non-Festival Period,122.99926174496645,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-09,12.94,123.52,9.68,9.22,35.78,0.66,25.26,July,Monsoon,Non-Festival Period,115.96295302013422,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-10,14.14,87.59,9.68,8.9,35.66,0.67,25.29,July,Monsoon,Non-Festival Period,87.59,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-11,10.61,56.97,9.67,9.34,34.64,0.53,25.67,July,Monsoon,Non-Festival Period,56.97,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-12,10.28,90.01,9.67,9.54,34.72,0.5,25.51,July,Monsoon,Non-Festival Period,90.01,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-13,12.51,111.66,9.67,10.22,34.54,0.58,25.68,July,Monsoon,Non-Festival Period,108.08281879194631,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-14,23.05,101.65,9.68,10.14,34.68,0.61,25.88,July,Monsoon,Non-Festival Period,101.43187919463088,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-15,9.97,109.82,9.68,11.52,35.88,0.65,25.62,July,Monsoon,Non-Festival Period,106.86026845637583,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-16,12.12,87.87,9.67,9.76,35.57,0.59,25.29,July,Monsoon,Non-Festival Period,87.87,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-17,10.6,106.64,9.66,25.26,36.23,0.56,25.29,July,Monsoon,Non-Festival Period,104.74738255033557,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-18,11.78,119.56,9.66,8.6,35.61,0.6,25.21,July,Monsoon,Non-Festival Period,113.33181208053692,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-19,13.43,112.52,9.65,9.92,35.66,0.66,25.84,July,Monsoon,Non-Festival Period,108.65422818791946,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-20,12.06,88.72,9.7,10.35,35.82,0.61,25.13,July,Monsoon,Non-Festival Period,88.72,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-21,12.17,129.99,9.66,9.04,35.06,0.62,25.54,July,Monsoon,Non-Festival Period,120.26181208053691,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-22,12.02,90.45,9.66,13.11,35.88,0.58,25.43,July,Monsoon,Non-Festival Period,90.45,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-23,8.91,87.85,9.68,9.72,35.84,0.55,25.12,July,Monsoon,Non-Festival Period,87.85,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-24,7.48,72.27,9.62,8.8,35.09,0.56,24.9,July,Monsoon,Non-Festival Period,72.27,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-25,8.91,29.36,9.62,14.19,27.79,0.55,20.77,July,Monsoon,Non-Festival Period,34.7375,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-26,11.29,41.75,9.62,16.31,14.31,0.57,12.44,July,Monsoon,Non-Festival Period,41.75,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-27,8.61,41.42,9.69,7.53,13.35,0.56,12.65,July,Monsoon,Non-Festival Period,41.42,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-28,6.22,30.05,9.69,7.9,13.37,0.48,12.37,July,Monsoon,Non-Festival Period,30.05,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-29,9.66,66.58,9.63,23.89,14.37,0.55,12.44,July,Monsoon,Non-Festival Period,66.58,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-30,11.11,106.65,9.65,8.2,13.99,0.6,12.08,July,Monsoon,Non-Festival Period,104.75402684563758,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-07-31,8.33,69.79,9.63,23.85,14.25,0.56,12.49,July,Monsoon,Non-Festival Period,69.79,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-01,4.43,52.36,9.65,23.83,14.06,0.45,12.11,August,Monsoon,Ganesh Chaturthi & Navratri,52.36,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-02,6.11,44.29,9.68,13.93,14.04,0.48,12.58,August,Monsoon,Ganesh Chaturthi & Navratri,44.29,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-03,6.85,44.26,9.59,21.31,13.96,0.51,12.38,August,Monsoon,Ganesh Chaturthi & Navratri,44.26,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-04,6.59,33.32,9.68,15.39,13.71,0.45,12.05,August,Monsoon,Ganesh Chaturthi & Navratri,33.32,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-05,5.62,45.28,9.68,37.11,14.31,0.43,12.47,August,Monsoon,Ganesh Chaturthi & Navratri,45.28,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-06,9.06,44.89,9.65,25.54,14.36,0.47,12.39,August,Monsoon,Ganesh Chaturthi & Navratri,44.89,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-07,6.27,14.62,9.67,24.01,14.37,0.45,12.67,August,Monsoon,Ganesh Chaturthi & Navratri,22.5,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-08,4.36,13.35,9.65,57.12,16.35,0.43,12.89,August,Monsoon,Ganesh Chaturthi & Navratri,21.5,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-09,6.87,16.32,9.7,17.69,13.65,0.46,12.39,August,Monsoon,Ganesh Chaturthi & Navratri,23.0,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-10,5.7,21.56,9.25,51.96,30.08,0.64,14.53,August,Monsoon,Ganesh Chaturthi & Navratri,37.599999999999994,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-11,4.34,15.98,9.05,40.86,37.9,0.65,15.09,August,Monsoon,Ganesh Chaturthi & Navratri,47.375,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-12,12.37,102.24,9.37,41.27,24.89,0.55,13.69,August,Monsoon,Ganesh Chaturthi & Navratri,101.82389261744966,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-13,7.62,104.65,9.57,31.51,14.18,0.45,12.4,August,Monsoon,Ganesh Chaturthi & Navratri,103.4251677852349,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-14,9.18,75.2,9.63,32.08,14.94,0.53,12.64,August,Monsoon,Ganesh Chaturthi & Navratri,75.2,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-15,5.81,92.78,9.65,24.45,13.99,0.47,12.46,August,Monsoon,Ganesh Chaturthi & Navratri,92.78,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-16,7.47,111.54,9.65,26.53,14.5,0.52,12.33,August,Monsoon,Ganesh Chaturthi & Navratri,108.00308724832215,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-17,7.89,95.26,9.65,29.52,14.69,0.57,12.5,August,Monsoon,Ganesh Chaturthi & Navratri,95.26,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-18,9.17,111.8,9.68,24.59,14.07,0.47,12.35,August,Monsoon,Ganesh Chaturthi & Navratri,108.17583892617449,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-19,8.48,106.17,9.65,21.65,14.07,0.49,12.33,August,Monsoon,Ganesh Chaturthi & Navratri,104.43510067114094,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-20,6.74,91.91,9.7,25.21,14.99,0.47,12.41,August,Monsoon,Ganesh Chaturthi & Navratri,91.91,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-21,6.95,123.63,9.69,30.24,14.77,0.49,12.37,August,Monsoon,Ganesh Chaturthi & Navratri,116.03604026845638,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-22,6.49,73.14,9.67,25.63,14.43,0.45,12.17,August,Monsoon,Ganesh Chaturthi & Navratri,73.14,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-23,6.53,68.11,9.69,28.87,14.88,0.5,12.46,August,Monsoon,Ganesh Chaturthi & Navratri,68.11,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-24,9.87,78.16,9.68,23.59,14.41,0.63,12.35,August,Monsoon,Ganesh Chaturthi & Navratri,78.16,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-25,7.74,63.22,9.64,19.99,14.4,0.47,12.13,August,Monsoon,Ganesh Chaturthi & Navratri,63.22,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-26,8.35,72.63,9.64,19.06,14.4,0.49,12.3,August,Monsoon,Ganesh Chaturthi & Navratri,72.63,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-27,5.73,44.7,9.59,21.8,15.86,0.41,12.49,August,Monsoon,Ganesh Chaturthi & Navratri,44.7,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-28,6.82,74.12,9.69,28.64,15.26,0.52,12.49,August,Monsoon,Ganesh Chaturthi & Navratri,74.12,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-29,6.77,101.8,9.66,27.3,15.91,0.46,12.53,August,Monsoon,Ganesh Chaturthi & Navratri,101.53154362416107,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-30,7.39,64.69,9.64,20.44,14.41,0.47,12.24,August,Monsoon,Ganesh Chaturthi & Navratri,64.69,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-08-31,9.38,63.85,9.64,28.62,15.41,0.46,11.73,August,Monsoon,Ganesh Chaturthi & Navratri,63.85,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-01,13.99,72.05,9.62,26.75,14.81,0.59,11.71,September,Monsoon,Ganesh Chaturthi & Navratri,72.05,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-02,8.88,66.93,9.69,29.58,15.55,0.47,12.37,September,Monsoon,Ganesh Chaturthi & Navratri,66.93,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-03,8.51,53.1,9.69,28.81,15.39,0.48,12.37,September,Monsoon,Ganesh Chaturthi & Navratri,53.1,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-04,6.07,43.27,9.69,22.45,14.62,0.46,12.25,September,Monsoon,Ganesh Chaturthi & Navratri,43.27,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-05,6.69,53.87,9.66,26.06,15.01,0.49,12.39,September,Monsoon,Ganesh Chaturthi & Navratri,53.87,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-06,5.2,57.37,9.69,23.74,15.25,0.44,12.45,September,Monsoon,Ganesh Chaturthi & Navratri,57.37,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-07,5.15,53.22,9.66,20.45,15.39,0.43,12.35,September,Monsoon,Ganesh Chaturthi & Navratri,53.22,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-08,5.34,35.58,9.61,26.63,17.66,0.45,12.75,September,Monsoon,Ganesh Chaturthi & Navratri,35.58,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-09,7.19,104.85,9.72,9.06,15.75,0.58,11.33,September,Monsoon,Ganesh Chaturthi & Navratri,103.55805369127516,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-10,6.99,103.82,9.64,33.81,15.63,0.55,12.08,September,Monsoon,Ganesh Chaturthi & Navratri,102.87369127516779,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-11,4.83,64.89,9.64,21.5,16.06,0.43,12.32,September,Monsoon,Ganesh Chaturthi & Navratri,64.89,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-12,3.39,18.28,9.52,33.88,22.41,0.43,12.85,September,Monsoon,Ganesh Chaturthi & Navratri,28.0125,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-13,5.26,48.54,9.6,8.22,15.89,0.43,12.19,September,Monsoon,Ganesh Chaturthi & Navratri,48.54,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-14,10.38,47.72,9.66,8.44,15.02,0.47,12.2,September,Monsoon,Ganesh Chaturthi & Navratri,47.72,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-15,11.87,24.97,9.67,11.38,15.08,0.6,11.99,September,Monsoon,Ganesh Chaturthi & Navratri,30.0,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-16,16.36,64.47,9.68,15.15,15.4,0.6,11.55,September,Monsoon,Ganesh Chaturthi & Navratri,64.47,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-17,13.5,120.15,9.67,18.1,16.09,0.63,11.98,September,Monsoon,Ganesh Chaturthi & Navratri,113.72382550335571,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-18,4.85,99.48,9.7,11.34,15.48,0.45,12.19,September,Monsoon,Ganesh Chaturthi & Navratri,99.48,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-19,6.19,69.87,9.65,21.96,16.76,0.51,12.35,September,Monsoon,Ganesh Chaturthi & Navratri,69.87,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-20,9.55,99.36,9.67,17.26,16.4,0.87,12.45,September,Monsoon,Ganesh Chaturthi & Navratri,99.36,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-21,10.5,111.9,9.7,25.97,16.75,0.94,12.33,September,Monsoon,Ganesh Chaturthi & Navratri,108.24228187919464,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-22,15.95,97.51,9.71,20.3,15.82,1.01,12.32,September,Monsoon,Ganesh Chaturthi & Navratri,97.51,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-23,22.43,136.61,9.65,16.89,16.21,1.03,11.67,September,Monsoon,Ganesh Chaturthi & Navratri,124.66033557046981,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-24,22.03,130.85,9.64,22.34,16.26,1.05,12.26,September,Monsoon,Ganesh Chaturthi & Navratri,120.83322147651006,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-25,14.77,92.73,9.67,27.3,17.04,0.83,12.41,September,Monsoon,Ganesh Chaturthi & Navratri,92.73,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-26,6.95,60.75,9.64,26.19,16.97,0.53,12.3,September,Monsoon,Ganesh Chaturthi & Navratri,60.75,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-27,4.22,97.58,9.48,37.68,23.32,0.49,13.28,September,Monsoon,Ganesh Chaturthi & Navratri,97.58,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-28,6.28,71.71,9.66,18.65,15.2,0.43,12.41,September,Monsoon,Ganesh Chaturthi & Navratri,71.71,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-29,8.56,97.7,9.65,18.27,15.93,0.52,12.34,September,Monsoon,Ganesh Chaturthi & Navratri,97.7,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-09-30,16.57,90.1,9.63,23.81,16.75,0.95,12.2,September,Monsoon,Ganesh Chaturthi & Navratri,90.1,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-01,21.24,90.65,9.68,24.82,16.67,0.99,11.6,October,Post-Monsoon,Diwali Festival Season,90.65,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-02,23.49,73.92,9.6,23.03,16.13,1.01,12.32,October,Post-Monsoon,Diwali Festival Season,73.92,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-03,20.18,70.76,9.67,25.52,16.59,0.82,11.89,October,Post-Monsoon,Diwali Festival Season,70.76,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-04,17.8,91.48,9.68,28.37,17.01,0.89,12.32,October,Post-Monsoon,Diwali Festival Season,91.48,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-05,11.88,66.51,9.67,27.02,16.89,0.51,12.01,October,Post-Monsoon,Diwali Festival Season,66.51,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-06,14.36,78.46,9.68,25.49,16.2,0.6,11.31,October,Post-Monsoon,Diwali Festival Season,78.46,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-07,18.54,100.69,9.68,30.22,17.39,0.76,11.41,October,Post-Monsoon,Diwali Festival Season,38.0,Good,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-08,25.41,87.18,9.68,32.05,17.66,0.97,11.42,October,Post-Monsoon,Diwali Festival Season,87.18,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-09,24.89,78.68,9.66,37.64,18.93,0.97,12.02,October,Post-Monsoon,Diwali Festival Season,78.68,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-10,17.77,77.13,9.62,35.68,20.05,0.79,12.42,October,Post-Monsoon,Diwali Festival Season,77.13,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-11,17.46,103.06,9.35,50.04,40.8,0.87,14.23,October,Post-Monsoon,Diwali Festival Season,102.36872483221477,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-12,23.41,116.04,9.32,43.54,47.07,1.06,14.73,October,Post-Monsoon,Diwali Festival Season,110.99302013422819,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-13,28.87,127.34,9.16,42.58,49.29,1.3,14.89,October,Post-Monsoon,Diwali Festival Season,118.50107382550335,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-14,28.23,133.76,9.4,28.85,30.23,0.96,12.51,October,Post-Monsoon,Diwali Festival Season,122.76671140939597,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-15,32.81,142.64,9.65,27.63,16.4,1.08,11.81,October,Post-Monsoon,Diwali Festival Season,128.6668456375839,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-16,23.87,125.08,9.66,32.5,15.96,1.13,11.64,October,Post-Monsoon,Diwali Festival Season,116.99946308724833,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-17,29.89,84.26,9.67,33.76,15.89,1.38,11.46,October,Post-Monsoon,Diwali Festival Season,84.26,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-18,33.51,126.53,9.71,37.8,16.46,1.38,11.83,October,Post-Monsoon,Diwali Festival Season,117.96288590604027,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-19,41.08,135.17,9.69,42.85,16.59,1.56,11.59,October,Post-Monsoon,Diwali Festival Season,123.70355704697985,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-20,25.51,115.96,9.71,38.03,16.1,1.19,11.45,October,Post-Monsoon,Diwali Festival Season,110.93986577181208,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-21,17.82,108.73,9.71,36.04,16.58,0.8,11.59,October,Post-Monsoon,Diwali Festival Season,106.13604026845638,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-22,27.9,168.12,9.71,37.11,16.24,1.01,11.41,October,Post-Monsoon,Diwali Festival Season,145.5965100671141,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-23,52.51,184.68,9.66,38.86,16.93,1.49,11.87,October,Post-Monsoon,Diwali Festival Season,156.59946308724832,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-24,42.9,179.28,9.72,36.77,16.65,1.18,11.88,October,Post-Monsoon,Diwali Festival Season,153.01154362416108,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-25,33.25,139.05,9.66,38.3,17.8,1.23,14.22,October,Post-Monsoon,Diwali Festival Season,126.28154362416109,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-26,32.42,143.8,9.68,32.94,15.53,1.21,15.95,October,Post-Monsoon,Diwali Festival Season,129.43758389261745,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-27,46.18,170.7,9.71,34.59,16.23,1.73,16.64,October,Post-Monsoon,Diwali Festival Season,147.31073825503356,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-28,27.04,140.6,9.69,35.32,17.06,1.18,18.35,October,Post-Monsoon,Diwali Festival Season,127.31140939597316,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-29,27.17,116.34,9.65,37.5,16.29,1.08,17.84,October,Post-Monsoon,Diwali Festival Season,111.19234899328859,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-30,27.83,143.63,9.7,37.11,16.55,1.08,17.06,October,Post-Monsoon,Diwali Festival Season,129.32463087248323,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-10-31,57.81,192.97,9.69,38.55,17.22,1.58,16.71,October,Post-Monsoon,Diwali Festival Season,162.10758389261747,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-01,33.31,140.11,9.71,42.53,17.11,1.09,17.9,November,Post-Monsoon,Diwali Festival Season,126.98583892617451,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-02,35.8,160.84,9.72,42.64,16.25,1.24,16.99,November,Post-Monsoon,Diwali Festival Season,140.75946308724832,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-03,42.76,185.15,9.7,42.69,17.11,1.38,17.63,November,Post-Monsoon,Diwali Festival Season,156.91174496644297,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-04,46.56,208.44,9.72,40.86,16.66,1.69,58.25,November,Post-Monsoon,Diwali Festival Season,172.38630872483222,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-05,50.91,187.97,9.68,39.31,16.9,2.0,19.88,November,Post-Monsoon,Diwali Festival Season,158.78543624161074,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-06,49.91,163.91,9.69,41.0,17.3,1.9,13.2,November,Post-Monsoon,Diwali Festival Season,142.79926174496643,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-07,41.94,178.58,9.72,39.6,16.9,1.76,12.67,November,Post-Monsoon,Diwali Festival Season,152.54644295302015,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-08,39.33,178.41,9.7,39.51,17.47,1.67,13.04,November,Post-Monsoon,Diwali Festival Season,152.4334899328859,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-09,32.87,148.16,9.71,36.23,16.61,1.29,13.2,November,Post-Monsoon,Diwali Festival Season,132.3344966442953,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-10,31.53,158.25,9.67,34.96,16.53,1.24,13.18,November,Post-Monsoon,Diwali Festival Season,139.03859060402687,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-11,49.21,160.86,9.71,36.96,16.76,1.56,13.15,November,Post-Monsoon,Diwali Festival Season,140.77275167785237,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-12,60.26,168.83,9.71,44.37,17.19,1.84,12.99,November,Post-Monsoon,Diwali Festival Season,146.06825503355705,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-13,64.9,186.72,9.72,44.06,17.57,2.0,13.19,November,Post-Monsoon,Diwali Festival Season,157.95489932885906,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-14,42.15,180.31,9.7,40.5,16.95,2.24,13.12,November,Post-Monsoon,Diwali Festival Season,153.69590604026845,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-15,41.33,193.58,9.7,44.76,17.67,1.96,13.02,November,Post-Monsoon,Diwali Festival Season,162.51288590604028,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-16,33.9,155.81,9.73,41.24,16.25,1.59,13.04,November,Post-Monsoon,Diwali Festival Season,137.41738255033556,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-17,47.17,201.32,9.71,40.46,16.45,1.61,13.26,November,Post-Monsoon,Diwali Festival Season,167.65557046979865,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-18,91.55,296.29,9.73,41.62,16.55,2.87,14.06,November,Post-Monsoon,Diwali Festival Season,246.29000000000002,Poor,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-19,56.15,153.55,9.72,39.02,16.57,1.99,13.51,November,Post-Monsoon,Diwali Festival Season,135.91577181208055,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-20,38.76,131.45,9.75,32.62,16.04,1.42,12.92,November,Post-Monsoon,Diwali Festival Season,121.23187919463086,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-21,34.75,122.33,9.71,41.01,17.23,1.37,12.96,November,Post-Monsoon,Diwali Festival Season,115.17228187919463,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-22,44.83,186.52,9.75,46.47,16.54,1.73,13.41,November,Post-Monsoon,Diwali Festival Season,157.8220134228188,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-23,46.85,231.4,9.72,51.54,16.54,2.12,13.49,November,Post-Monsoon,Diwali Festival Season,187.64161073825505,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-24,37.84,139.26,9.74,44.18,19.42,1.88,12.93,November,Post-Monsoon,Diwali Festival Season,126.42107382550336,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-25,52.32,154.83,9.53,49.7,25.2,1.31,13.64,November,Post-Monsoon,Diwali Festival Season,136.76624161073826,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-26,26.78,143.16,9.71,23.4,13.98,1.05,12.27,November,Post-Monsoon,Diwali Festival Season,129.01234899328858,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-27,29.19,185.51,9.67,30.31,16.76,1.24,12.73,November,Post-Monsoon,Diwali Festival Season,157.15093959731544,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-28,36.18,159.76,9.75,38.85,16.53,1.57,12.9,November,Post-Monsoon,Diwali Festival Season,140.04187919463087,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-29,35.34,184.47,9.7,37.82,16.64,1.56,12.96,November,Post-Monsoon,Diwali Festival Season,156.45993288590603,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-11-30,34.68,164.13,9.75,29.6,15.19,1.59,12.3,November,Post-Monsoon,Diwali Festival Season,142.94543624161074,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-01,28.81,140.19,9.67,23.53,17.84,1.25,12.42,December,Winter,Christmas & New Year,127.0389932885906,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-02,23.14,140.95,9.59,37.1,23.1,1.01,13.22,December,Winter,Christmas & New Year,127.54395973154362,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-03,46.83,136.31,9.73,34.62,17.0,0.92,12.37,December,Winter,Christmas & New Year,124.4610067114094,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-04,22.92,116.95,9.71,32.87,17.06,0.72,12.26,December,Winter,Christmas & New Year,111.59765100671142,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-05,16.99,99.14,9.7,34.47,17.37,0.76,12.33,December,Winter,Christmas & New Year,99.14,Satisfactory,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-06,20.72,132.22,9.69,35.3,16.6,0.96,12.6,December,Winter,Christmas & New Year,121.74348993288591,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-07,32.49,185.83,9.72,38.19,17.47,1.31,12.9,December,Winter,Christmas & New Year,157.36355704697988,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-08,24.79,134.56,9.68,32.65,16.66,1.05,12.76,December,Winter,Christmas & New Year,123.29825503355706,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-09,16.77,116.68,9.69,33.81,17.41,0.67,12.28,December,Winter,Christmas & New Year,111.41825503355705,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-10,22.57,166.23,9.71,31.88,17.03,0.85,12.05,December,Winter,Christmas & New Year,144.34073825503356,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-11,21.3,132.59,9.71,28.46,16.75,0.83,12.26,December,Winter,Christmas & New Year,121.98932885906041,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-12,26.99,113.16,9.71,31.59,17.16,0.96,12.57,December,Winter,Christmas & New Year,109.07946308724831,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-13,22.02,125.83,9.72,31.82,16.91,0.8,12.21,December,Winter,Christmas & New Year,117.49778523489933,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-14,23.13,151.41,9.82,22.22,15.3,0.77,11.72,December,Winter,Christmas & New Year,134.49389261744966,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-15,64.32,160.05,9.94,15.87,15.05,1.0,10.75,December,Winter,Christmas & New Year,140.23456375838927,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-16,101.95,218.02,9.81,29.59,17.1,1.63,12.59,December,Winter,Christmas & New Year,238.38103448275862,Poor,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-17,121.91,266.94,9.72,47.56,18.82,2.1,14.32,December,Winter,Christmas & New Year,301.69837209302324,Very Poor,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-18,133.6,245.78,9.69,48.68,17.95,2.16,14.36,December,Winter,Christmas & New Year,310.6697674418605,Very Poor,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-19,64.49,200.77,9.66,51.94,18.03,2.36,14.57,December,Winter,Christmas & New Year,167.29013422818792,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-20,38.77,161.18,9.67,50.02,17.97,1.58,13.76,December,Winter,Christmas & New Year,140.98536912751678,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-21,44.53,214.39,9.68,52.39,18.8,1.55,13.5,December,Winter,Christmas & New Year,176.33966442953022,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-22,44.78,180.82,9.69,48.94,17.69,1.77,13.78,December,Winter,Christmas & New Year,154.03476510067114,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-23,27.82,137.86,9.71,48.9,18.83,0.96,12.74,December,Winter,Christmas & New Year,125.4908724832215,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-24,30.52,184.77,9.73,50.58,18.57,1.08,13.36,December,Winter,Christmas & New Year,156.65926174496644,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-25,32.88,158.59,9.73,50.66,17.79,1.28,13.42,December,Winter,Christmas & New Year,139.26449664429532,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-26,33.93,184.0,9.68,52.54,18.5,1.26,13.46,December,Winter,Christmas & New Year,156.1476510067114,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-27,30.3,143.13,9.69,59.27,21.87,1.1,13.22,December,Winter,Christmas & New Year,128.99241610738255,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-28,19.26,104.32,9.74,49.02,18.26,0.73,12.85,December,Winter,Christmas & New Year,103.20590604026845,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-29,19.49,128.68,9.7,48.83,18.25,0.76,12.56,December,Winter,Christmas & New Year,119.39140939597316,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-30,17.56,105.33,9.8,45.48,19.2,0.76,12.42,December,Winter,Christmas & New Year,103.87697986577182,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045
+2024-12-31,16.83,114.94,9.73,42.73,19.24,0.8,12.52,December,Winter,Christmas & New Year,110.26214765100671,Moderate,Vrindavan,Uttar Pradesh,27.5753726,77.6938045

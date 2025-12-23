@@ -1,0 +1,367 @@
+TIMESTAMP,PM2.5,PM10,NO2,NH3,SO2,CO,O3,MONTH,SEASON,FESTIVAL_SEASON,AQI,AQI_CATEGORY,CITY,STATE,LATITUDE,LONGITUDE
+2024-01-01,34.25,89.03,13.88,22.31,15.01,0.71,7.97,January,Winter,Christmas & New Year,89.03,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-02,28.61,74.39,10.66,22.29,9.74,0.63,12.51,January,Winter,Christmas & New Year,74.39,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-03,27.88,70.05,10.23,22.23,8.15,0.63,7.06,January,Winter,Christmas & New Year,70.05,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-04,70.86,172.83,12.84,22.32,8.67,0.77,7.72,January,Winter,Christmas & New Year,148.72597315436244,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-05,67.55,172.94,13.28,22.29,8.3,0.76,11.06,January,Winter,Christmas & New Year,148.79906040268457,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-06,43.04,118.37,12.8,22.33,8.41,0.69,13.2,January,Winter,Christmas & New Year,112.54114093959731,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-07,37.46,103.02,19.03,22.33,10.47,0.92,17.72,January,Winter,Christmas & New Year,102.34214765100671,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-08,31.97,87.83,26.63,22.3,11.0,0.82,9.64,January,Winter,Christmas & New Year,87.83,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-09,59.21,130.08,12.48,22.34,9.29,0.68,6.74,January,Winter,Christmas & New Year,120.32161073825505,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-10,52.87,128.01,18.26,22.32,8.94,0.85,12.9,January,Winter,Christmas & New Year,118.94624161073826,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-11,47.32,115.23,25.28,22.32,9.44,0.71,25.44,January,Winter,Christmas & New Year,110.4548322147651,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-12,50.96,124.12,27.96,22.32,9.14,0.88,38.36,January,Winter,Christmas & New Year,116.36161073825504,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-13,48.37,117.99,24.31,22.32,12.2,0.59,26.44,January,Winter,Christmas & New Year,112.2886577181208,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-14,43.07,105.02,20.07,22.32,11.14,0.64,29.3,January,Winter,Christmas & New Year,103.67100671140939,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-15,58.8,143.33,22.75,22.32,9.03,0.83,17.94,January,Winter,Christmas & New Year,129.12530201342284,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-16,58.33,142.31,19.44,22.31,8.43,0.86,11.85,January,Winter,Christmas & New Year,128.44758389261744,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-17,42.55,103.79,13.92,22.32,9.36,0.62,14.23,January,Winter,Christmas & New Year,102.85375838926176,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-18,73.16,178.3,16.91,22.3,9.18,0.86,9.72,January,Winter,Christmas & New Year,152.36040268456378,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-19,60.84,148.41,17.3,22.32,9.41,0.88,4.9,January,Winter,Christmas & New Year,132.50060402684562,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-20,82.71,201.57,15.96,22.33,11.15,0.8,4.94,January,Winter,Christmas & New Year,175.11344827586203,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-21,69.66,169.9,18.29,22.31,9.54,1.06,1.69,January,Winter,Christmas & New Year,146.7791946308725,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-22,56.66,138.35,17.02,22.32,8.82,0.91,1.05,January,Winter,Christmas & New Year,125.81644295302013,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-23,67.16,163.82,18.5,22.32,15.9,0.7,10.52,January,Winter,Christmas & New Year,142.7394630872483,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-24,42.2,102.9,16.07,22.28,8.86,0.69,1.55,January,Winter,Christmas & New Year,102.26241610738255,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-25,40.26,98.14,15.3,22.33,8.51,0.68,1.59,January,Winter,Christmas & New Year,98.14,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-26,54.9,133.87,16.03,22.36,8.48,0.88,1.81,January,Winter,Christmas & New Year,122.83979865771812,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-27,58.34,142.26,20.99,22.31,9.12,1.12,4.74,January,Winter,Christmas & New Year,128.41436241610737,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-28,34.64,84.63,20.5,22.31,9.44,0.72,3.33,January,Winter,Christmas & New Year,84.63,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-29,60.63,147.78,16.14,22.31,9.69,0.66,10.73,January,Winter,Christmas & New Year,132.0820134228188,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-30,72.73,177.41,20.43,22.3,8.86,0.86,2.94,January,Winter,Christmas & New Year,151.76906040268457,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-01-31,55.21,134.74,22.1,22.29,9.0,0.75,2.71,January,Winter,Christmas & New Year,123.41785234899329,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-01,38.29,93.35,15.7,22.29,9.08,0.51,9.38,February,Winter,Winter Wedding,93.35,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-02,70.41,171.61,17.56,22.31,9.05,0.8,2.55,February,Winter,Winter Wedding,147.91536912751678,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-03,46.18,112.79,26.5,22.31,9.61,0.86,21.51,February,Winter,Winter Wedding,108.83362416107383,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-04,37.81,92.26,21.15,22.24,9.09,0.62,2.46,February,Winter,Winter Wedding,92.26,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-05,37.4,90.35,14.92,22.3,9.68,0.45,9.08,February,Winter,Winter Wedding,90.35,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-06,31.74,77.36,16.9,22.3,9.54,0.56,14.55,February,Winter,Winter Wedding,77.36,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-07,30.38,74.17,18.1,22.32,9.04,0.51,36.59,February,Winter,Winter Wedding,74.17,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-08,27.25,66.38,15.82,22.31,8.58,0.53,14.38,February,Winter,Winter Wedding,66.38,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-09,26.31,64.21,24.68,22.31,8.53,0.64,3.79,February,Winter,Winter Wedding,64.21,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-10,49.41,118.22,34.09,22.34,9.45,0.92,11.36,February,Winter,Winter Wedding,112.44147651006712,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-11,42.75,104.19,28.18,22.33,8.68,0.79,5.61,February,Winter,Winter Wedding,103.11953020134229,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-12,53.21,129.85,29.0,22.32,9.54,1.01,4.87,February,Winter,Winter Wedding,120.16879194630872,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-13,45.78,111.69,16.35,22.3,8.95,0.48,7.26,February,Winter,Winter Wedding,108.10275167785235,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-14,45.85,111.84,19.81,22.32,9.13,0.59,9.5,February,Winter,Winter Wedding,108.20241610738255,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-15,62.83,151.34,29.29,22.34,9.07,0.91,9.02,February,Winter,Winter Wedding,134.4473825503356,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-16,49.49,121.14,31.65,22.31,9.1,0.84,6.72,February,Winter,Winter Wedding,114.38161073825503,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-17,47.27,117.21,30.87,22.29,8.79,0.81,3.91,February,Winter,Winter Wedding,111.77040268456375,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-18,30.1,73.59,29.76,22.26,8.71,0.74,4.58,February,Winter,Winter Wedding,73.59,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-19,22.66,55.24,24.86,22.27,8.96,0.51,6.83,February,Winter,Winter Wedding,55.24,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-20,11.96,29.21,17.26,22.26,8.68,0.41,7.09,February,Winter,Winter Wedding,29.21,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-21,64.24,44.09,20.42,22.24,8.94,0.45,9.05,February,Winter,Winter Wedding,112.0606896551724,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-22,67.02,169.3,22.77,22.27,8.89,0.55,7.02,February,Winter,Winter Wedding,146.3805369127517,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-23,13.78,37.89,18.17,22.28,8.53,0.33,5.44,February,Winter,Winter Wedding,37.89,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-24,14.56,40.02,15.33,22.28,8.76,0.3,2.64,February,Winter,Winter Wedding,40.02,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-25,32.16,64.21,14.3,22.19,8.79,0.27,3.02,February,Winter,Winter Wedding,64.21,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-26,12.46,34.26,13.41,22.3,8.59,0.28,9.11,February,Winter,Winter Wedding,34.26,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-27,15.47,42.54,21.91,22.17,9.11,0.42,7.37,February,Winter,Winter Wedding,42.54,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-28,17.21,47.32,24.58,22.3,9.56,0.57,8.57,February,Winter,Winter Wedding,47.32,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-02-29,16.05,44.13,30.74,22.29,9.62,0.7,6.65,February,Winter,Winter Wedding,44.13,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-01,12.41,34.13,26.29,22.15,9.3,0.42,7.94,March,Summer,Holi Festival Season,34.13,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-02,2.84,7.88,14.94,21.96,9.96,0.21,11.58,March,Summer,Holi Festival Season,18.675,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-03,6.92,19.03,16.21,22.17,10.11,0.25,9.93,March,Summer,Holi Festival Season,20.262500000000003,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-04,8.42,28.47,23.07,22.31,10.05,0.71,8.85,March,Summer,Holi Festival Season,35.5,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-05,8.43,23.18,24.61,22.3,9.27,0.57,7.37,March,Summer,Holi Festival Season,30.7625,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-06,17.46,35.61,22.53,22.31,9.47,0.4,9.28,March,Summer,Holi Festival Season,35.61,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-07,56.16,78.63,24.32,22.3,9.49,0.52,7.66,March,Summer,Holi Festival Season,93.51172413793103,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-08,31.7,44.38,17.62,22.29,9.06,0.35,6.34,March,Summer,Holi Festival Season,52.182758620689654,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-09,49.9,69.85,13.81,22.31,9.06,0.31,9.54,March,Summer,Holi Festival Season,82.93448275862069,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-10,48.13,67.38,14.01,22.3,9.16,0.29,10.68,March,Summer,Holi Festival Season,79.94379310344829,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-11,25.94,36.32,10.29,22.3,9.55,0.28,15.17,March,Summer,Holi Festival Season,43.233333333333334,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-12,27.61,38.65,12.3,22.29,9.84,0.36,15.22,March,Summer,Holi Festival Season,46.016666666666666,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-13,30.14,42.19,12.61,22.26,9.83,0.37,14.28,March,Summer,Holi Festival Season,42.19,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-14,25.08,35.12,9.58,22.27,9.56,0.33,16.57,March,Summer,Holi Festival Season,41.8,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-15,63.07,43.1,14.47,22.29,10.26,0.58,13.32,March,Summer,Holi Festival Season,108.06655172413794,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-16,26.32,36.85,16.23,22.29,9.76,0.42,9.23,March,Summer,Holi Festival Season,43.86666666666667,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-17,23.63,33.08,14.92,22.31,10.01,0.39,9.75,March,Summer,Holi Festival Season,39.38333333333333,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-18,68.02,95.22,15.19,22.25,10.38,0.45,12.98,March,Summer,Holi Festival Season,124.96482758620688,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-19,54.15,75.81,14.6,22.26,10.97,0.41,7.03,March,Summer,Holi Festival Season,90.11551724137931,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-20,34.77,48.68,15.43,22.25,11.38,0.39,8.09,March,Summer,Holi Festival Season,57.370000000000005,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-21,31.57,44.2,7.69,22.24,10.88,0.27,9.58,March,Summer,Holi Festival Season,51.96310344827586,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-22,36.93,51.7,10.49,22.21,11.63,0.31,11.5,March,Summer,Holi Festival Season,61.01965517241379,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-23,21.24,29.73,12.06,22.2,12.11,0.4,11.44,March,Summer,Holi Festival Season,35.4,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-24,46.32,64.84,16.62,22.22,12.66,0.44,9.26,March,Summer,Holi Festival Season,76.88551724137932,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-25,33.11,46.36,10.91,22.24,11.94,0.45,11.89,March,Summer,Holi Festival Season,54.5651724137931,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-26,38.32,53.65,15.52,22.25,11.62,0.49,10.07,March,Summer,Holi Festival Season,63.36827586206897,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-27,19.09,33.77,17.72,22.26,12.6,0.53,10.14,March,Summer,Holi Festival Season,33.77,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-28,24.63,34.41,14.95,22.25,11.83,0.36,20.7,March,Summer,Holi Festival Season,41.05,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-29,20.26,28.37,9.06,22.24,11.82,0.25,25.19,March,Summer,Holi Festival Season,33.76666666666667,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-30,21.75,30.4,15.12,22.2,11.24,0.4,20.99,March,Summer,Holi Festival Season,36.25,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-03-31,20.39,28.55,14.84,22.25,10.83,0.4,14.26,March,Summer,Holi Festival Season,33.983333333333334,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-01,17.44,24.42,6.16,22.24,10.62,0.27,16.72,April,Summer,Summer Wedding,29.06666666666667,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-02,18.7,26.18,11.35,22.23,11.33,0.29,17.64,April,Summer,Summer Wedding,31.166666666666668,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-03,27.08,37.94,19.47,22.18,18.1,0.5,13.1,April,Summer,Summer Wedding,45.13333333333333,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-04,35.14,49.2,20.26,22.21,14.14,0.51,13.23,April,Summer,Summer Wedding,57.99517241379311,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-05,33.09,46.33,16.22,22.23,11.13,0.41,19.05,April,Summer,Summer Wedding,54.53137931034483,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-06,33.52,46.93,14.23,22.23,12.19,0.34,23.57,April,Summer,Summer Wedding,55.257931034482766,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-07,24.61,34.45,18.68,22.18,11.62,0.43,20.35,April,Summer,Summer Wedding,41.016666666666666,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-08,16.96,23.72,20.45,22.19,11.83,0.46,19.47,April,Summer,Summer Wedding,28.26666666666667,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-09,21.36,30.04,18.99,22.15,11.85,0.51,14.21,April,Summer,Summer Wedding,35.6,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-10,62.49,25.13,10.23,22.25,10.83,0.33,22.92,April,Summer,Summer Wedding,106.08655172413793,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-11,21.09,29.51,13.72,22.24,11.69,0.35,23.98,April,Summer,Summer Wedding,35.15,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-12,19.6,27.45,7.94,22.24,10.91,0.28,31.75,April,Summer,Summer Wedding,32.66666666666667,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-13,14.79,20.71,7.22,22.25,11.06,0.25,38.33,April,Summer,Summer Wedding,38.33,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-14,15.1,21.14,10.62,22.26,11.74,0.26,42.47,April,Summer,Summer Wedding,42.47,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-15,26.86,40.73,14.51,22.25,12.66,0.43,40.32,April,Summer,Summer Wedding,44.766666666666666,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-16,46.95,25.24,11.84,22.11,12.99,0.43,33.61,April,Summer,Summer Wedding,77.95,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-17,17.4,29.45,7.24,22.24,11.27,0.21,31.35,April,Summer,Summer Wedding,31.35,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-18,22.95,38.84,23.23,22.23,11.82,0.65,20.84,April,Summer,Summer Wedding,38.84,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-19,27.45,46.45,31.94,22.21,12.24,0.76,17.54,April,Summer,Summer Wedding,46.45,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-20,16.37,27.7,6.4,22.19,11.21,0.25,23.47,April,Summer,Summer Wedding,27.7,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-21,26.29,44.49,9.17,22.2,11.46,0.27,24.75,April,Summer,Summer Wedding,44.49,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-22,31.94,54.06,15.1,22.22,11.67,0.33,26.07,April,Summer,Summer Wedding,54.06,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-23,26.05,44.09,14.82,22.19,12.41,0.47,27.08,April,Summer,Summer Wedding,44.09,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-24,33.02,55.87,19.03,22.2,12.34,0.5,34.26,April,Summer,Summer Wedding,55.87,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-25,130.18,51.03,28.09,22.21,12.59,0.56,29.49,April,Summer,Summer Wedding,308.04511627906976,Very Poor,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-26,26.07,44.1,15.89,22.07,12.77,0.35,21.52,April,Summer,Summer Wedding,44.1,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-27,40.37,68.32,6.56,22.19,11.64,0.22,35.23,April,Summer,Summer Wedding,68.32,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-28,31.63,53.43,24.06,22.16,13.27,0.55,29.03,April,Summer,Summer Wedding,53.43,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-29,29.29,49.56,36.74,22.21,13.14,0.6,23.35,April,Summer,Summer Wedding,49.56,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-04-30,25.66,43.42,6.38,22.21,12.07,0.22,37.98,April,Summer,Summer Wedding,43.42,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-01,28.5,48.24,8.71,22.2,12.77,0.26,31.97,May,Summer,Summer Wedding,48.24,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-02,33.77,57.15,7.07,22.2,12.64,0.28,33.53,May,Summer,Summer Wedding,57.15,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-03,49.28,82.07,22.39,22.13,14.92,0.55,34.72,May,Summer,Summer Wedding,82.07,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-04,78.49,132.83,45.19,22.21,18.62,1.06,28.04,May,Summer,Summer Wedding,160.70724137931032,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-05,29.01,49.09,27.61,22.15,13.11,0.63,26.54,May,Summer,Summer Wedding,49.09,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-06,29.25,49.42,15.01,22.17,14.63,0.47,42.69,May,Summer,Summer Wedding,49.42,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-07,52.17,87.91,22.81,22.09,19.13,0.53,45.95,May,Summer,Summer Wedding,87.91,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-08,29.23,48.9,6.83,22.08,14.6,0.28,69.46,May,Summer,Summer Wedding,69.46,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-09,31.16,51.55,5.14,21.73,13.89,0.24,75.06,May,Summer,Summer Wedding,75.06,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-10,28.34,47.96,6.36,22.17,13.53,0.26,83.53,May,Summer,Summer Wedding,83.53,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-11,96.01,103.69,4.38,22.21,12.92,0.26,96.67,May,Summer,Summer Wedding,218.10310344827587,Poor,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-12,33.4,56.54,6.97,22.05,14.02,0.3,90.78,May,Summer,Summer Wedding,90.78,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-13,31.39,54.9,10.02,22.04,14.41,0.32,75.71,May,Summer,Summer Wedding,75.71,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-14,42.85,72.51,11.33,21.91,15.71,0.42,71.5,May,Summer,Summer Wedding,72.51,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-15,17.69,29.89,9.46,22.2,15.97,0.27,65.57,May,Summer,Summer Wedding,65.57,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-16,31.77,53.76,19.35,22.22,14.72,0.5,56.55,May,Summer,Summer Wedding,56.55,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-17,33.38,55.87,19.27,22.18,14.66,0.5,33.5,May,Summer,Summer Wedding,55.87,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-18,51.1,84.29,23.31,21.64,14.87,0.54,31.42,May,Summer,Summer Wedding,84.96206896551725,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-19,19.55,33.18,8.67,21.11,13.44,0.3,29.39,May,Summer,Summer Wedding,33.18,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-20,22.19,37.98,7.7,21.43,13.68,0.25,22.33,May,Summer,Summer Wedding,37.98,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-21,28.41,48.11,13.47,21.7,17.77,0.3,20.08,May,Summer,Summer Wedding,48.11,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-22,36.98,62.55,8.19,21.98,17.91,0.34,35.91,May,Summer,Summer Wedding,62.55,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-23,29.09,48.63,4.42,22.05,13.58,0.26,64.52,May,Summer,Summer Wedding,64.52,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-24,27.83,47.1,4.19,22.15,14.16,0.25,74.03,May,Summer,Summer Wedding,74.03,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-25,36.89,62.34,17.2,22.12,15.98,0.57,62.27,May,Summer,Summer Wedding,62.34,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-26,39.49,66.79,25.92,22.12,16.31,0.48,55.94,May,Summer,Summer Wedding,66.79,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-27,59.18,100.14,29.05,22.11,17.61,0.7,33.98,May,Summer,Summer Wedding,98.61448275862068,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-28,29.37,49.72,20.81,22.05,16.63,0.54,12.87,May,Summer,Summer Wedding,49.72,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-29,33.81,57.1,12.06,22.0,15.9,0.28,14.52,May,Summer,Summer Wedding,57.1,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-30,30.81,52.09,6.49,22.01,15.45,0.18,19.36,May,Summer,Summer Wedding,52.09,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-05-31,30.41,55.31,8.3,22.01,15.85,0.22,19.16,May,Summer,Summer Wedding,55.31,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-01,28.13,46.11,5.92,22.06,15.3,0.2,19.01,June,Monsoon,Non-Festival Period,46.88333333333333,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-02,29.05,49.15,11.96,22.15,16.26,0.39,20.65,June,Monsoon,Non-Festival Period,49.15,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-03,42.01,72.01,16.33,22.12,16.45,0.45,27.38,June,Monsoon,Non-Festival Period,72.01,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-04,40.3,68.2,17.95,21.36,29.45,0.45,30.02,June,Monsoon,Non-Festival Period,68.2,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-05,38.15,64.56,7.15,22.15,14.54,0.22,36.12,June,Monsoon,Non-Festival Period,64.56,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-06,24.08,44.82,16.12,22.18,14.35,0.34,42.32,June,Monsoon,Non-Festival Period,44.82,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-07,82.65,119.57,15.65,22.13,15.23,0.36,50.03,June,Monsoon,Non-Festival Period,174.9086206896552,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-08,29.1,43.65,16.69,21.52,14.26,0.28,44.13,June,Monsoon,Non-Festival Period,48.50000000000001,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-09,40.84,61.25,18.87,22.15,15.11,0.38,57.49,June,Monsoon,Non-Festival Period,67.62620689655174,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-10,21.75,32.53,20.71,22.03,16.37,0.42,37.81,June,Monsoon,Non-Festival Period,37.81,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-11,29.04,43.55,21.1,22.11,16.87,0.39,26.04,June,Monsoon,Non-Festival Period,48.4,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-12,17.06,25.58,18.36,22.15,16.0,0.33,30.52,June,Monsoon,Non-Festival Period,30.52,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-13,16.68,25.02,17.87,22.13,15.55,0.33,37.98,June,Monsoon,Non-Festival Period,37.98,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-14,11.96,17.93,16.61,22.13,15.44,0.28,43.12,June,Monsoon,Non-Festival Period,43.12,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-15,32.16,64.21,16.43,22.15,15.41,0.26,40.83,June,Monsoon,Non-Festival Period,64.21,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-16,32.16,64.21,14.16,22.12,15.64,0.21,45.17,June,Monsoon,Non-Festival Period,64.21,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-17,59.11,88.7,13.76,22.02,15.78,0.18,52.42,June,Monsoon,Non-Festival Period,98.49620689655173,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-18,43.24,64.86,13.72,21.8,15.83,0.14,50.31,June,Monsoon,Non-Festival Period,71.68137931034482,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-19,30.79,46.16,13.26,21.45,15.42,0.16,56.01,June,Monsoon,Non-Festival Period,56.01,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-20,60.32,90.49,18.59,21.08,14.99,0.39,31.54,June,Monsoon,Non-Festival Period,90.49,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-21,20.64,30.94,17.3,22.13,15.61,0.33,65.59,June,Monsoon,Non-Festival Period,65.59,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-22,30.59,45.85,16.78,22.14,15.67,0.18,72.88,June,Monsoon,Non-Festival Period,72.88,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-23,51.04,76.57,17.95,22.09,16.02,0.22,56.85,June,Monsoon,Non-Festival Period,84.86068965517242,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-24,53.89,80.82,15.05,22.09,15.93,0.21,55.85,June,Monsoon,Non-Festival Period,89.67620689655172,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-25,50.55,75.84,12.31,21.95,15.66,0.21,37.11,June,Monsoon,Non-Festival Period,84.03275862068965,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-26,24.92,41.01,12.01,22.03,15.61,0.33,13.94,June,Monsoon,Non-Festival Period,41.53333333333334,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-27,32.16,69.67,7.33,21.92,15.59,0.19,5.35,June,Monsoon,Non-Festival Period,69.67,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-28,25.47,55.18,4.93,22.12,15.63,0.17,6.52,June,Monsoon,Non-Festival Period,55.18,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-29,13.91,30.15,5.01,21.88,15.76,0.16,2.55,June,Monsoon,Non-Festival Period,30.15,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-06-30,13.61,29.49,5.0,22.12,15.9,0.2,0.58,June,Monsoon,Non-Festival Period,29.49,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-01,21.35,46.26,4.98,22.11,15.77,0.18,1.39,July,Monsoon,Non-Festival Period,46.26,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-02,18.23,39.5,4.91,22.11,15.83,0.15,0.96,July,Monsoon,Non-Festival Period,39.5,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-03,24.92,53.99,4.94,22.11,15.79,0.16,1.54,July,Monsoon,Non-Festival Period,53.99,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-04,18.74,40.59,4.92,22.09,15.89,0.19,1.96,July,Monsoon,Non-Festival Period,40.59,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-05,14.14,30.64,4.95,22.12,16.0,0.19,1.19,July,Monsoon,Non-Festival Period,30.64,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-06,16.41,35.58,4.95,21.83,15.84,0.19,1.19,July,Monsoon,Non-Festival Period,35.58,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-07,34.76,75.29,4.87,22.11,15.76,0.19,1.45,July,Monsoon,Non-Festival Period,75.29,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-08,30.84,66.82,4.94,22.09,16.27,0.32,2.45,July,Monsoon,Non-Festival Period,66.82,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-09,31.01,67.22,4.96,22.14,16.91,0.2,5.56,July,Monsoon,Non-Festival Period,67.22,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-10,35.54,77.01,4.99,22.06,17.33,0.26,4.9,July,Monsoon,Non-Festival Period,77.01,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-11,27.46,59.49,5.02,21.72,17.15,0.26,5.76,July,Monsoon,Non-Festival Period,59.49,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-12,35.4,76.7,4.64,20.51,16.04,0.16,13.87,July,Monsoon,Non-Festival Period,76.7,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-13,17.16,37.16,4.9,21.67,17.24,0.17,7.23,July,Monsoon,Non-Festival Period,37.16,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-14,20.9,45.25,5.01,22.02,16.93,0.26,9.05,July,Monsoon,Non-Festival Period,45.25,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-15,23.17,50.21,4.95,22.11,17.92,0.32,6.68,July,Monsoon,Non-Festival Period,38.616666666666674,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-16,31.55,68.37,4.93,22.13,17.27,0.23,6.21,July,Monsoon,Non-Festival Period,68.37,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-17,42.25,91.52,4.92,21.87,16.9,0.25,8.1,July,Monsoon,Non-Festival Period,91.52,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-18,38.49,83.42,4.99,21.65,17.18,0.26,5.54,July,Monsoon,Non-Festival Period,83.42,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-19,23.44,50.79,4.91,22.08,17.26,0.22,5.5,July,Monsoon,Non-Festival Period,39.06666666666667,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-20,22.3,48.22,4.93,22.04,17.68,0.21,7.4,July,Monsoon,Non-Festival Period,48.22,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-21,31.46,68.21,4.91,22.08,17.09,0.21,9.92,July,Monsoon,Non-Festival Period,68.21,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-22,29.86,64.64,4.88,21.94,17.35,0.3,6.67,July,Monsoon,Non-Festival Period,64.64,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-23,11.65,25.29,4.89,22.09,17.26,0.25,5.09,July,Monsoon,Non-Festival Period,25.29,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-24,19.08,41.31,4.96,21.87,18.33,0.25,5.48,July,Monsoon,Non-Festival Period,41.31,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-25,16.27,35.26,4.86,22.08,18.18,0.26,6.32,July,Monsoon,Non-Festival Period,35.26,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-26,10.65,23.14,4.89,22.02,20.39,0.24,4.66,July,Monsoon,Non-Festival Period,25.4875,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-27,11.32,24.52,4.68,20.85,38.15,0.18,1.29,July,Monsoon,Non-Festival Period,47.6875,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-28,22.27,48.24,4.49,20.0,42.94,0.16,3.79,July,Monsoon,Non-Festival Period,53.4374358974359,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-29,18.18,39.39,4.6,20.95,31.24,0.18,6.31,July,Monsoon,Non-Festival Period,39.39,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-30,16.54,35.87,4.89,22.08,17.03,0.23,4.47,July,Monsoon,Non-Festival Period,35.87,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-07-31,22.03,47.73,4.84,21.87,18.25,0.2,4.72,July,Monsoon,Non-Festival Period,47.73,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-01,7.66,16.6,4.83,21.98,17.82,0.26,7.48,August,Monsoon,Ganesh Chaturthi & Navratri,22.275,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-02,13.1,28.38,4.93,22.11,17.65,0.21,5.9,August,Monsoon,Ganesh Chaturthi & Navratri,28.38,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-03,11.3,24.63,4.94,22.02,17.93,0.19,3.89,August,Monsoon,Ganesh Chaturthi & Navratri,24.63,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-04,6.01,13.03,4.86,21.95,18.61,0.14,5.99,August,Monsoon,Ganesh Chaturthi & Navratri,23.2625,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-05,19.35,41.91,4.9,22.08,18.51,0.22,3.77,August,Monsoon,Ganesh Chaturthi & Navratri,41.91,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-06,27.16,58.84,4.91,22.14,18.94,0.23,3.06,August,Monsoon,Ganesh Chaturthi & Navratri,58.84,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-07,25.65,55.57,4.92,22.16,19.57,0.21,2.74,August,Monsoon,Ganesh Chaturthi & Navratri,55.57,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-08,19.58,42.42,9.27,20.74,19.74,0.21,4.17,August,Monsoon,Ganesh Chaturthi & Navratri,42.42,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-09,40.74,88.26,16.46,17.48,20.72,0.4,10.99,August,Monsoon,Ganesh Chaturthi & Navratri,88.26,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-10,33.77,73.17,12.9,17.48,19.62,0.21,28.47,August,Monsoon,Ganesh Chaturthi & Navratri,73.17,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-11,23.88,51.69,12.75,17.46,20.97,0.22,33.84,August,Monsoon,Ganesh Chaturthi & Navratri,51.69,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-12,22.82,49.46,18.3,17.46,21.46,0.24,27.05,August,Monsoon,Ganesh Chaturthi & Navratri,49.46,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-13,26.13,56.61,15.95,17.41,19.94,0.25,33.08,August,Monsoon,Ganesh Chaturthi & Navratri,56.61,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-14,31.5,68.24,15.38,17.46,20.11,0.23,47.64,August,Monsoon,Ganesh Chaturthi & Navratri,68.24,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-15,20.5,44.41,14.79,17.47,20.91,0.22,48.96,August,Monsoon,Ganesh Chaturthi & Navratri,48.96,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-16,27.39,59.33,13.92,17.46,20.22,0.19,52.23,August,Monsoon,Ganesh Chaturthi & Navratri,59.33,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-17,34.87,75.54,16.54,17.48,20.1,0.23,63.15,August,Monsoon,Ganesh Chaturthi & Navratri,75.54,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-18,42.09,91.17,18.35,17.49,19.92,0.3,62.58,August,Monsoon,Ganesh Chaturthi & Navratri,91.17,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-19,29.79,64.56,17.86,17.48,20.44,0.25,66.61,August,Monsoon,Ganesh Chaturthi & Navratri,66.61,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-20,20.23,43.83,15.02,17.48,20.3,0.19,64.56,August,Monsoon,Ganesh Chaturthi & Navratri,64.56,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-21,21.1,45.72,17.17,17.47,20.65,0.25,57.66,August,Monsoon,Ganesh Chaturthi & Navratri,57.66,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-22,25.46,55.17,18.52,17.49,20.78,0.29,43.2,August,Monsoon,Ganesh Chaturthi & Navratri,55.17,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-23,28.8,62.4,15.65,17.49,20.89,0.22,24.46,August,Monsoon,Ganesh Chaturthi & Navratri,62.4,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-24,18.52,40.13,11.96,17.45,20.71,0.18,34.01,August,Monsoon,Ganesh Chaturthi & Navratri,40.13,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-25,18.64,40.39,13.01,17.43,20.54,0.19,29.0,August,Monsoon,Ganesh Chaturthi & Navratri,40.39,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-26,18.53,40.15,13.21,17.44,20.85,0.23,34.62,August,Monsoon,Ganesh Chaturthi & Navratri,40.15,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-27,19.89,43.09,16.16,17.46,19.98,0.21,30.73,August,Monsoon,Ganesh Chaturthi & Navratri,43.09,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-28,37.48,81.21,18.0,17.47,20.82,0.27,26.62,August,Monsoon,Ganesh Chaturthi & Navratri,81.21,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-29,33.55,72.69,19.44,17.47,20.55,0.28,25.02,August,Monsoon,Ganesh Chaturthi & Navratri,72.69,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-30,41.96,90.9,20.82,17.47,20.61,0.26,29.05,August,Monsoon,Ganesh Chaturthi & Navratri,90.9,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-08-31,28.4,61.53,13.25,17.48,21.26,0.32,29.52,August,Monsoon,Ganesh Chaturthi & Navratri,61.53,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-01,30.77,66.68,14.49,17.48,20.38,0.21,31.53,September,Monsoon,Ganesh Chaturthi & Navratri,66.68,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-02,40.18,87.05,15.21,17.48,20.95,0.26,28.7,September,Monsoon,Ganesh Chaturthi & Navratri,87.05,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-03,39.46,85.49,14.95,17.48,20.91,0.23,29.46,September,Monsoon,Ganesh Chaturthi & Navratri,85.49,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-04,38.58,83.59,17.06,17.47,20.9,0.25,28.7,September,Monsoon,Ganesh Chaturthi & Navratri,83.59,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-05,22.26,48.22,17.17,17.46,20.97,0.25,27.0,September,Monsoon,Ganesh Chaturthi & Navratri,48.22,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-06,32.71,70.86,17.38,17.46,20.8,0.22,32.87,September,Monsoon,Ganesh Chaturthi & Navratri,70.86,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-07,37.49,81.24,16.67,17.48,24.21,0.23,23.75,September,Monsoon,Ganesh Chaturthi & Navratri,81.24,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-08,21.28,46.11,15.17,17.46,24.1,0.2,30.26,September,Monsoon,Ganesh Chaturthi & Navratri,46.11,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-09,25.98,56.3,12.46,17.48,23.53,0.22,39.76,September,Monsoon,Ganesh Chaturthi & Navratri,56.3,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-10,20.79,45.04,11.72,17.45,21.4,0.18,36.79,September,Monsoon,Ganesh Chaturthi & Navratri,45.04,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-11,10.69,23.15,10.49,16.83,21.7,0.12,60.08,September,Monsoon,Ganesh Chaturthi & Navratri,60.08,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-12,15.77,34.16,12.48,17.0,21.77,0.17,39.09,September,Monsoon,Ganesh Chaturthi & Navratri,39.09,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-13,56.64,123.11,14.5,17.48,23.29,0.4,38.93,September,Monsoon,Ganesh Chaturthi & Navratri,115.69053691275168,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-14,18.77,42.23,10.98,17.5,22.8,0.23,28.26,September,Monsoon,Ganesh Chaturthi & Navratri,42.23,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-15,16.0,36.01,5.62,17.49,22.63,0.2,19.89,September,Monsoon,Ganesh Chaturthi & Navratri,36.01,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-16,22.62,50.9,5.13,17.5,22.46,0.17,21.46,September,Monsoon,Ganesh Chaturthi & Navratri,37.7,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-17,15.62,35.15,6.04,17.48,22.43,0.17,20.5,September,Monsoon,Ganesh Chaturthi & Navratri,35.15,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-18,4.76,10.71,8.0,17.33,21.4,0.23,20.2,September,Monsoon,Ganesh Chaturthi & Navratri,26.75,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-19,7.91,17.8,4.97,17.49,21.45,0.36,7.26,September,Monsoon,Ganesh Chaturthi & Navratri,26.8125,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-20,15.4,34.64,4.94,17.5,23.19,0.59,8.66,September,Monsoon,Ganesh Chaturthi & Navratri,34.64,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-21,18.92,42.57,4.99,17.49,22.01,0.45,9.19,September,Monsoon,Ganesh Chaturthi & Navratri,42.57,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-22,17.5,39.37,4.97,17.5,21.91,0.44,13.6,September,Monsoon,Ganesh Chaturthi & Navratri,39.37,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-23,17.12,38.51,5.06,17.49,22.02,0.45,9.98,September,Monsoon,Ganesh Chaturthi & Navratri,38.51,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-24,19.36,43.57,6.04,17.48,21.84,0.44,12.54,September,Monsoon,Ganesh Chaturthi & Navratri,43.57,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-25,16.92,38.06,5.97,17.49,21.58,0.28,16.63,September,Monsoon,Ganesh Chaturthi & Navratri,38.06,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-26,8.98,20.21,4.98,17.46,21.16,0.19,13.04,September,Monsoon,Ganesh Chaturthi & Navratri,26.45,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-27,7.19,16.17,4.98,17.47,21.16,0.22,11.73,September,Monsoon,Ganesh Chaturthi & Navratri,26.45,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-28,7.6,17.09,4.94,17.47,21.48,0.22,10.65,September,Monsoon,Ganesh Chaturthi & Navratri,26.85,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-29,6.62,14.89,4.96,17.49,21.78,0.23,12.74,September,Monsoon,Ganesh Chaturthi & Navratri,27.225,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-09-30,9.27,20.86,4.95,17.5,22.3,0.47,9.45,September,Monsoon,Ganesh Chaturthi & Navratri,27.875,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-01,19.44,43.74,4.95,17.5,20.96,0.34,12.81,October,Post-Monsoon,Diwali Festival Season,43.74,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-02,19.95,44.89,4.93,17.48,20.69,0.21,25.73,October,Post-Monsoon,Diwali Festival Season,44.89,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-03,20.65,46.45,4.96,17.49,20.59,0.34,17.58,October,Post-Monsoon,Diwali Festival Season,46.45,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-04,20.93,47.1,4.97,17.48,20.71,0.34,17.08,October,Post-Monsoon,Diwali Festival Season,47.1,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-05,19.99,44.99,4.99,17.51,20.95,0.27,15.06,October,Post-Monsoon,Diwali Festival Season,44.99,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-06,22.69,51.05,4.93,17.53,21.02,0.42,16.71,October,Post-Monsoon,Diwali Festival Season,51.05,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-07,26.51,59.64,5.0,17.54,20.39,0.39,15.63,October,Post-Monsoon,Diwali Festival Season,59.64,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-08,31.65,71.22,5.01,17.54,20.64,0.41,14.45,October,Post-Monsoon,Diwali Festival Season,71.22,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-09,33.42,75.19,4.95,17.51,20.58,0.49,13.55,October,Post-Monsoon,Diwali Festival Season,75.19,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-10,37.17,83.64,4.96,17.5,21.17,0.58,16.52,October,Post-Monsoon,Diwali Festival Season,83.64,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-11,29.8,67.04,5.02,17.52,20.12,0.44,8.25,October,Post-Monsoon,Diwali Festival Season,67.04,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-12,25.18,56.66,4.99,17.52,20.14,0.39,4.01,October,Post-Monsoon,Diwali Festival Season,56.66,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-13,19.89,44.74,4.99,17.53,20.08,0.32,4.29,October,Post-Monsoon,Diwali Festival Season,44.74,Good,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-14,29.1,65.45,4.97,17.55,20.23,0.57,3.78,October,Post-Monsoon,Diwali Festival Season,65.45,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-15,35.8,80.52,4.97,17.51,19.56,0.79,5.37,October,Post-Monsoon,Diwali Festival Season,80.52,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-16,35.14,79.08,4.97,17.53,19.36,0.74,4.33,October,Post-Monsoon,Diwali Festival Season,79.08,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-17,46.91,105.53,4.99,17.51,19.01,0.62,6.59,October,Post-Monsoon,Diwali Festival Season,104.00986577181209,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-18,38.4,86.42,4.93,17.52,19.32,0.58,6.72,October,Post-Monsoon,Diwali Festival Season,86.42,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-19,42.44,95.51,4.9,17.52,19.4,0.58,10.48,October,Post-Monsoon,Diwali Festival Season,95.51,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-20,35.3,79.42,4.96,17.53,19.71,0.59,5.46,October,Post-Monsoon,Diwali Festival Season,79.42,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-21,35.07,78.87,4.95,17.54,19.86,0.65,4.27,October,Post-Monsoon,Diwali Festival Season,78.87,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-22,38.63,86.87,4.95,17.53,20.15,0.74,4.16,October,Post-Monsoon,Diwali Festival Season,86.87,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-23,42.32,95.28,4.93,17.54,19.71,0.74,7.73,October,Post-Monsoon,Diwali Festival Season,95.28,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-24,52.66,118.6,4.9,17.5,20.12,0.6,5.84,October,Post-Monsoon,Diwali Festival Season,112.69395973154363,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-25,41.96,94.38,4.94,17.5,19.63,0.64,7.27,October,Post-Monsoon,Diwali Festival Season,94.38,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-26,43.8,98.54,4.95,17.52,19.75,0.64,6.31,October,Post-Monsoon,Diwali Festival Season,98.54,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-27,51.12,115.02,4.91,17.51,19.89,0.61,3.24,October,Post-Monsoon,Diwali Festival Season,110.31530201342282,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-28,36.0,81.01,4.92,17.51,20.37,0.58,3.42,October,Post-Monsoon,Diwali Festival Season,81.01,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-29,35.87,80.72,4.94,17.51,21.31,0.7,1.58,October,Post-Monsoon,Diwali Festival Season,80.72,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-30,34.59,77.83,4.92,17.51,20.87,0.56,3.07,October,Post-Monsoon,Diwali Festival Season,77.83,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-10-31,91.99,114.19,4.95,17.53,21.72,0.53,2.83,October,Post-Monsoon,Diwali Festival Season,204.37965517241378,Poor,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-01,90.81,204.32,4.92,17.54,22.29,0.63,4.02,November,Post-Monsoon,Diwali Festival Season,169.64885906040269,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-02,43.87,98.7,4.95,17.52,21.03,0.6,3.84,November,Post-Monsoon,Diwali Festival Season,98.7,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-03,41.05,92.37,4.9,17.52,20.61,0.58,3.32,November,Post-Monsoon,Diwali Festival Season,92.37,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-04,52.13,117.28,4.94,17.53,20.78,0.96,3.62,November,Post-Monsoon,Diwali Festival Season,111.81691275167785,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-05,55.7,125.32,4.94,17.54,20.27,0.86,4.42,November,Post-Monsoon,Diwali Festival Season,117.15892617449664,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-06,56.18,126.42,4.94,17.55,20.54,0.95,3.26,November,Post-Monsoon,Diwali Festival Season,117.88979865771813,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-07,50.05,112.61,4.93,17.55,20.46,0.86,3.22,November,Post-Monsoon,Diwali Festival Season,108.71402684563759,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-08,51.63,116.16,4.91,17.54,20.62,0.75,3.68,November,Post-Monsoon,Diwali Festival Season,111.07275167785235,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-09,49.51,111.4,4.98,17.55,20.61,0.72,2.45,November,Post-Monsoon,Diwali Festival Season,107.91006711409396,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-10,37.67,84.76,4.97,17.55,19.91,0.62,3.36,November,Post-Monsoon,Diwali Festival Season,84.76,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-11,38.06,85.63,4.94,17.52,19.97,0.77,4.44,November,Post-Monsoon,Diwali Festival Season,85.63,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-12,57.49,129.35,4.97,17.53,21.09,0.95,3.13,November,Post-Monsoon,Diwali Festival Season,119.83657718120804,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-13,59.72,134.38,4.94,17.54,21.39,1.35,1.56,November,Post-Monsoon,Diwali Festival Season,123.1786577181208,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-14,58.8,132.31,4.94,17.53,21.33,1.17,1.96,November,Post-Monsoon,Diwali Festival Season,121.80328859060403,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-15,55.22,124.26,4.97,17.54,21.3,0.88,1.69,November,Post-Monsoon,Diwali Festival Season,116.45463087248322,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-16,42.16,94.85,5.01,17.54,20.83,0.72,2.11,November,Post-Monsoon,Diwali Festival Season,94.85,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-17,40.46,91.04,4.99,17.53,21.01,0.66,2.06,November,Post-Monsoon,Diwali Festival Season,91.04,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-18,88.23,198.52,4.95,17.55,20.54,0.89,2.55,November,Post-Monsoon,Diwali Festival Season,193.95758620689656,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-19,65.54,147.46,4.94,17.58,20.34,0.72,3.77,November,Post-Monsoon,Diwali Festival Season,131.86939597315438,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-20,71.78,161.5,4.97,17.54,21.11,1.03,7.45,November,Post-Monsoon,Diwali Festival Season,141.1979865771812,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-21,64.2,144.45,4.96,17.54,20.48,0.91,4.54,November,Post-Monsoon,Diwali Festival Season,129.8694630872483,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-22,64.74,145.67,4.95,17.52,22.11,1.02,38.13,November,Post-Monsoon,Diwali Festival Season,130.68006711409396,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-23,62.73,141.14,4.95,17.56,21.36,1.01,5.03,November,Post-Monsoon,Diwali Festival Season,127.67020134228187,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-24,60.1,135.22,4.94,17.54,20.94,0.93,4.48,November,Post-Monsoon,Diwali Festival Season,123.73677852348993,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-25,48.82,109.84,5.02,17.54,20.76,0.79,3.64,November,Post-Monsoon,Diwali Festival Season,106.87355704697987,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-26,53.06,119.38,5.0,17.53,21.08,0.9,4.27,November,Post-Monsoon,Diwali Festival Season,113.21221476510067,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-27,54.75,123.18,4.95,17.55,21.3,0.89,3.03,November,Post-Monsoon,Diwali Festival Season,115.73704697986578,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-28,49.02,110.29,4.96,17.55,21.5,0.85,4.71,November,Post-Monsoon,Diwali Festival Season,107.17255033557048,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-29,54.75,123.18,5.01,17.55,21.53,0.86,2.78,November,Post-Monsoon,Diwali Festival Season,115.73704697986578,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-11-30,55.39,124.62,4.97,17.55,21.3,0.88,3.9,November,Post-Monsoon,Diwali Festival Season,116.69382550335571,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-01,57.82,129.95,4.94,17.52,21.62,0.91,3.65,December,Winter,Christmas & New Year,120.23523489932884,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-02,54.46,122.55,4.96,17.53,21.89,1.34,2.31,December,Winter,Christmas & New Year,115.31845637583892,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-03,49.95,112.4,4.98,17.53,21.94,1.0,2.47,December,Winter,Christmas & New Year,108.57449664429531,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-04,37.14,83.56,4.92,17.52,21.75,0.74,2.37,December,Winter,Christmas & New Year,83.56,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-05,35.32,79.48,4.94,17.54,21.48,0.82,1.39,December,Winter,Christmas & New Year,79.48,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-06,33.53,75.44,4.93,17.54,19.77,0.63,1.72,December,Winter,Christmas & New Year,75.44,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-07,33.96,76.4,4.95,17.47,20.67,0.78,1.38,December,Winter,Christmas & New Year,76.4,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-08,40.92,92.08,4.89,17.52,19.82,0.65,1.44,December,Winter,Christmas & New Year,92.08,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-09,30.29,68.12,4.94,17.55,19.62,0.33,2.58,December,Winter,Christmas & New Year,68.12,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-10,34.72,78.12,4.98,17.55,21.11,0.4,4.77,December,Winter,Christmas & New Year,78.12,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-11,44.12,99.27,4.94,17.54,22.18,0.71,5.44,December,Winter,Christmas & New Year,99.27,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-12,45.54,101.59,4.95,17.53,22.41,0.84,5.69,December,Winter,Christmas & New Year,101.39201342281879,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-13,33.84,74.64,4.98,17.57,21.7,0.45,3.1,December,Winter,Christmas & New Year,74.64,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-14,34.28,75.62,4.96,17.55,22.47,0.69,2.69,December,Winter,Christmas & New Year,75.62,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-15,45.44,100.23,4.97,17.57,22.63,0.77,3.43,December,Winter,Christmas & New Year,75.39862068965516,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-16,65.79,139.18,4.98,17.55,22.41,1.02,3.65,December,Winter,Christmas & New Year,126.36791946308725,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-17,81.68,163.36,4.96,17.52,22.89,1.2,2.58,December,Winter,Christmas & New Year,171.59724137931036,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-18,73.0,145.99,4.98,17.54,23.76,1.17,2.03,December,Winter,Christmas & New Year,141.9655172413793,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-19,82.7,165.4,4.94,17.52,22.55,1.3,1.36,December,Winter,Christmas & New Year,175.0793103448276,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-20,78.99,157.97,4.95,17.52,20.41,0.94,1.48,December,Winter,Christmas & New Year,162.41413793103447,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-21,57.24,114.48,4.95,17.53,21.62,1.06,1.01,December,Winter,Christmas & New Year,109.9565100671141,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-22,53.18,106.36,4.96,17.52,22.62,0.9,1.13,December,Winter,Christmas & New Year,104.56134228187919,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-23,44.46,88.93,4.96,17.54,21.83,0.48,1.68,December,Winter,Christmas & New Year,88.93,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-24,55.19,110.27,4.94,17.53,21.97,0.68,1.82,December,Winter,Christmas & New Year,107.15926174496644,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-25,49.4,98.81,4.94,17.55,22.2,0.37,1.37,December,Winter,Christmas & New Year,98.81,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-26,50.27,100.55,4.99,17.56,21.95,0.4,1.92,December,Winter,Christmas & New Year,83.5596551724138,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-27,56.64,113.27,4.95,17.54,23.03,0.42,3.15,December,Winter,Christmas & New Year,109.15255033557047,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-28,52.54,105.07,4.94,17.43,23.0,0.39,1.37,December,Winter,Christmas & New Year,103.70422818791945,Moderate,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-29,32.02,64.03,4.94,17.53,22.33,0.29,2.73,December,Winter,Christmas & New Year,64.03,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-30,28.6,63.4,4.99,17.55,22.7,0.39,1.78,December,Winter,Christmas & New Year,63.4,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802
+2024-12-31,27.2,54.41,4.92,17.56,24.92,0.25,1.93,December,Winter,Christmas & New Year,54.41,Satisfactory,Jhansi,Uttar Pradesh,25.529855,78.6527802

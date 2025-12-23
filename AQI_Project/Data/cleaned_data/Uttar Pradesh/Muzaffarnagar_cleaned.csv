@@ -1,0 +1,367 @@
+TIMESTAMP,PM2.5,PM10,NO2,NH3,SO2,CO,O3,MONTH,SEASON,FESTIVAL_SEASON,AQI,AQI_CATEGORY,CITY,STATE,LATITUDE,LONGITUDE
+2024-01-01,98.07,123.23,34.06,27.24,11.65,1.33,15.33,January,Winter,Christmas & New Year,225.1355172413793,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-02,98.03,130.04,38.89,27.21,21.07,1.28,19.54,January,Winter,Christmas & New Year,224.99896551724137,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-03,117.02,141.9,38.6,31.48,14.56,1.45,20.61,January,Winter,Christmas & New Year,289.82689655172413,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-04,112.96,127.65,34.3,30.15,14.28,1.52,17.66,January,Winter,Christmas & New Year,275.9668965517241,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-05,87.48,104.47,31.02,26.9,16.78,1.22,19.55,January,Winter,Christmas & New Year,191.39724137931034,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-06,124.54,165.42,36.52,33.0,17.62,1.39,13.19,January,Winter,Christmas & New Year,303.7167441860465,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-07,112.15,142.74,32.5,31.35,17.3,1.3,14.6,January,Winter,Christmas & New Year,273.201724137931,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-08,88.91,105.08,33.04,27.46,10.89,1.31,14.32,January,Winter,Christmas & New Year,196.27896551724137,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-09,79.94,103.39,27.55,26.95,14.32,1.22,14.4,January,Winter,Christmas & New Year,165.65724137931034,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-10,112.6,143.11,31.95,33.74,16.44,1.09,17.62,January,Winter,Christmas & New Year,274.73793103448276,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-11,150.0,196.54,38.95,42.45,17.79,1.37,26.37,January,Winter,Christmas & New Year,323.25581395348837,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-12,169.42,227.15,44.29,41.15,20.08,1.66,13.68,January,Winter,Christmas & New Year,338.15953488372094,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-13,185.46,240.94,49.6,39.86,15.79,2.05,15.55,January,Winter,Christmas & New Year,350.4693023255814,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-14,159.92,184.61,43.75,36.19,19.83,1.91,15.78,January,Winter,Christmas & New Year,330.86883720930234,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-15,145.24,166.01,43.72,34.95,17.46,1.78,11.77,January,Winter,Christmas & New Year,319.60279069767444,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-16,155.77,189.05,52.33,39.85,19.54,2.27,10.04,January,Winter,Christmas & New Year,327.6839534883721,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-17,130.95,156.91,43.78,38.76,23.94,1.92,16.23,January,Winter,Christmas & New Year,308.6360465116279,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-18,132.92,155.61,42.09,37.28,15.33,1.84,14.14,January,Winter,Christmas & New Year,310.1479069767442,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-19,146.64,189.64,33.28,40.74,18.33,1.42,22.62,January,Winter,Christmas & New Year,320.6772093023256,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-20,117.18,147.38,43.15,28.41,18.6,1.6,30.91,January,Winter,Christmas & New Year,290.37310344827586,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-21,110.54,138.57,34.12,29.2,16.08,1.24,25.54,January,Winter,Christmas & New Year,267.7055172413793,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-22,151.5,201.1,36.18,34.62,13.19,1.34,35.42,January,Winter,Christmas & New Year,324.40697674418607,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-23,155.95,190.03,41.83,33.98,16.72,1.55,13.98,January,Winter,Christmas & New Year,327.82209302325583,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-24,143.81,202.41,35.45,35.88,12.77,1.51,23.4,January,Winter,Christmas & New Year,318.5053488372093,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-25,122.11,152.99,30.19,32.34,5.34,1.45,22.45,January,Winter,Christmas & New Year,301.85186046511626,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-26,171.28,197.8,39.31,41.15,7.96,1.97,26.4,January,Winter,Christmas & New Year,339.586976744186,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-27,134.35,178.07,30.5,40.62,8.97,1.43,28.63,January,Winter,Christmas & New Year,311.2453488372093,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-28,135.01,154.35,23.97,42.48,6.91,1.7,9.93,January,Winter,Christmas & New Year,311.7518604651163,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-29,140.97,184.43,27.14,43.35,13.89,1.54,34.79,January,Winter,Christmas & New Year,316.32581395348836,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-30,145.52,160.87,30.76,44.03,11.85,1.51,28.35,January,Winter,Christmas & New Year,319.81767441860467,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-01-31,234.18,317.08,42.81,52.65,13.67,1.98,31.87,January,Winter,Christmas & New Year,387.85906976744184,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-01,52.04,66.08,16.99,29.71,5.59,0.83,27.93,February,Winter,Winter Wedding,86.5503448275862,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-02,55.82,71.75,17.35,25.58,10.82,0.76,33.38,February,Winter,Winter Wedding,92.93724137931034,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-03,58.96,83.57,26.21,23.91,6.09,0.96,31.23,February,Winter,Winter Wedding,98.24275862068966,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-04,53.16,63.68,14.64,32.61,4.85,0.5,31.72,February,Winter,Winter Wedding,88.44275862068966,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-05,60.73,85.3,16.16,30.21,7.33,0.69,27.09,February,Winter,Winter Wedding,85.3,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-06,74.88,120.79,22.35,18.66,5.15,0.7,30.42,February,Winter,Winter Wedding,148.38344827586207,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-07,80.91,151.69,21.78,11.1,14.47,0.48,54.16,February,Winter,Winter Wedding,168.96862068965515,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-08,82.24,145.35,20.5,11.76,15.1,0.56,56.36,February,Winter,Winter Wedding,173.50896551724136,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-09,128.3,209.06,32.31,13.05,21.86,0.82,52.55,February,Winter,Winter Wedding,306.60232558139535,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-10,171.3,256.85,32.85,17.54,21.02,0.87,51.19,February,Winter,Winter Wedding,339.60232558139535,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-11,182.96,272.44,30.69,19.84,33.39,1.12,57.94,February,Winter,Winter Wedding,348.55069767441864,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-12,191.85,293.2,37.35,19.55,25.69,1.28,44.27,February,Winter,Winter Wedding,355.3732558139535,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-13,214.78,343.22,42.88,18.8,33.88,1.44,39.84,February,Winter,Winter Wedding,372.9706976744186,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-14,217.16,278.99,38.13,21.61,33.98,1.29,53.2,February,Winter,Winter Wedding,374.7972093023256,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-15,165.16,257.12,27.86,19.38,19.35,1.16,54.9,February,Winter,Winter Wedding,334.89023255813953,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-16,149.58,241.49,21.32,19.91,9.74,1.03,55.48,February,Winter,Winter Wedding,322.93348837209305,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-17,120.89,206.4,17.23,13.66,26.18,1.57,77.73,February,Winter,Winter Wedding,171.0308724832215,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-18,180.82,279.65,19.14,20.28,21.58,0.97,67.18,February,Winter,Winter Wedding,346.9083720930233,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-19,154.71,269.12,8.88,22.28,19.11,0.92,78.71,February,Winter,Winter Wedding,326.8704651162791,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-20,122.62,189.67,17.08,20.5,11.53,1.02,54.15,February,Winter,Winter Wedding,302.2432558139535,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-21,119.42,206.18,18.06,18.26,8.03,0.94,43.09,February,Winter,Winter Wedding,298.02,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-22,85.11,175.92,24.59,11.55,19.35,0.82,48.77,February,Winter,Winter Wedding,183.30655172413793,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-23,64.73,127.66,18.78,10.13,19.43,0.67,49.65,February,Winter,Winter Wedding,118.71369127516778,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-24,78.76,157.71,26.79,9.01,23.3,1.05,73.33,February,Winter,Winter Wedding,161.6289655172414,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-25,78.6,150.26,24.92,9.4,26.49,0.91,58.81,February,Winter,Winter Wedding,161.08275862068962,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-26,81.46,163.9,24.17,9.74,22.44,1.01,56.77,February,Winter,Winter Wedding,170.8462068965517,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-27,89.31,172.69,22.87,12.34,22.44,0.99,51.75,February,Winter,Winter Wedding,197.6444827586207,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-28,89.02,163.01,21.41,13.59,15.86,0.88,53.07,February,Winter,Winter Wedding,196.65448275862067,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-02-29,85.0,158.67,20.46,13.15,18.72,1.08,64.99,February,Winter,Winter Wedding,182.9310344827586,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-01,141.3,209.14,24.31,15.84,17.09,1.14,42.6,March,Summer,Holi Festival Season,316.57906976744187,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-02,74.33,149.87,20.975,42.48,16.365,0.85,115.05,March,Summer,Holi Festival Season,146.5058620689655,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-03,79.64,165.42,20.975,42.48,16.365,0.85,35.94,March,Summer,Holi Festival Season,164.63310344827585,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-04,43.92,117.9,7.08,16.98,5.82,0.15,46.1,March,Summer,Holi Festival Season,112.22885906040268,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-05,52.95,109.5,7.38,17.46,21.11,0.53,51.4,March,Summer,Holi Festival Season,106.64765100671141,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-06,67.31,103.0,7.37,17.48,29.66,0.8,55.9,March,Summer,Holi Festival Season,122.54103448275863,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-07,82.11,117.57,7.29,17.45,25.6,1.0,58.56,March,Summer,Holi Festival Season,173.0651724137931,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-08,69.83,239.39,7.41,17.43,27.32,1.01,55.18,March,Summer,Holi Festival Season,192.95040268456376,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-09,66.9,126.26,7.35,17.5,25.42,0.95,62.81,March,Summer,Holi Festival Season,121.14137931034485,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-10,75.98,144.62,7.18,17.52,28.51,1.03,57.46,March,Summer,Holi Festival Season,152.13862068965517,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-11,121.65,203.17,7.38,17.5,37.89,1.2,63.57,March,Summer,Holi Festival Season,301.49883720930234,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-12,98.77,179.65,7.39,17.47,32.78,0.99,53.91,March,Summer,Holi Festival Season,227.5251724137931,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-13,100.01,184.01,7.34,17.53,32.03,1.04,54.56,March,Summer,Holi Festival Season,231.75827586206898,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-14,93.86,184.33,7.25,17.52,30.36,0.89,44.89,March,Summer,Holi Festival Season,210.76344827586206,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-15,47.93,114.78,7.3,17.48,20.01,0.85,41.16,March,Summer,Holi Festival Season,110.1558389261745,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-16,81.01,161.39,52.94,27.63,28.11,0.92,40.75,March,Summer,Holi Festival Season,169.31,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-17,88.81,180.16,39.22,52.22,26.18,0.98,45.53,March,Summer,Holi Festival Season,195.93758620689655,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-18,92.19,170.41,20.74,42.29,28.12,0.86,53.76,March,Summer,Holi Festival Season,205.06241379310345,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-19,97.12,207.92,38.74,34.07,25.1,1.0,61.64,March,Summer,Holi Festival Season,221.89241379310346,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-20,86.97,180.82,26.77,42.66,32.64,1.09,48.95,March,Summer,Holi Festival Season,189.65620689655174,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-21,69.54,155.41,17.77,41.37,16.17,0.68,49.54,March,Summer,Holi Festival Season,137.15161073825504,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-22,103.2,189.7,33.57,39.79,24.47,1.12,49.4,March,Summer,Holi Festival Season,242.64827586206897,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-23,80.35,199.93,23.88,42.77,18.53,0.79,50.78,March,Summer,Holi Festival Season,167.05689655172412,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-24,86.19,201.98,16.69,43.16,19.58,0.98,38.93,March,Summer,Holi Festival Season,186.99344827586208,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-25,84.56,147.69,11.7,47.21,14.56,0.76,50.88,March,Summer,Holi Festival Season,181.42896551724138,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-26,52.18,116.64,10.08,46.9,9.65,0.87,58.76,March,Summer,Holi Festival Season,111.39167785234899,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-27,71.36,149.45,14.78,51.13,11.99,0.95,55.43,March,Summer,Holi Festival Season,136.36689655172412,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-28,78.84,175.31,10.05,48.95,40.86,0.86,54.11,March,Summer,Holi Festival Season,161.90206896551726,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-29,100.14,210.5,15.9,46.33,34.36,1.23,47.74,March,Summer,Holi Festival Season,232.20206896551724,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-30,105.88,208.79,22.79,46.82,23.15,0.89,52.27,March,Summer,Holi Festival Season,251.79724137931032,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-03-31,80.53,184.84,21.58,42.48,24.85,0.69,57.71,March,Summer,Holi Festival Season,167.67137931034483,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-01,42.2,126.02,18.65,39.89,9.71,0.74,51.73,April,Summer,Summer Wedding,117.62402684563759,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-02,50.14,127.93,21.52,39.75,18.19,0.88,63.0,April,Summer,Summer Wedding,118.89308724832216,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-03,102.8,226.04,31.5,43.93,31.81,1.22,51.35,April,Summer,Summer Wedding,241.28275862068963,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-04,56.04,148.73,24.17,41.57,20.77,0.74,52.57,April,Summer,Summer Wedding,132.71322147651006,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-05,58.51,155.96,18.16,43.9,25.2,0.88,50.51,April,Summer,Summer Wedding,137.51704697986577,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-06,57.16,148.76,18.65,41.19,29.86,0.89,62.76,April,Summer,Summer Wedding,132.73315436241612,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-07,61.49,149.75,24.93,40.7,28.11,0.87,72.0,April,Summer,Summer Wedding,133.39093959731542,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-08,86.22,194.66,29.69,42.48,37.64,1.07,66.04,April,Summer,Summer Wedding,187.09586206896552,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-09,93.1,188.76,28.83,45.08,38.41,0.97,71.57,April,Summer,Summer Wedding,208.16896551724136,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-10,119.48,227.89,34.03,50.32,31.53,0.88,68.3,April,Summer,Summer Wedding,298.2248275862069,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-11,96.28,186.82,31.53,50.95,18.9,1.04,67.76,April,Summer,Summer Wedding,219.0248275862069,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-12,99.71,203.48,28.5,53.55,28.35,0.97,64.01,April,Summer,Summer Wedding,230.73413793103447,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-13,107.02,263.64,23.89,54.47,23.84,0.96,68.45,April,Summer,Summer Wedding,255.68896551724137,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-14,80.64,196.29,21.4,51.41,25.66,1.07,49.12,April,Summer,Summer Wedding,168.04689655172416,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-15,111.42,222.3,26.99,51.98,30.18,1.23,47.75,April,Summer,Summer Wedding,270.7096551724138,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-16,89.2,197.18,23.72,53.57,19.17,0.86,48.73,April,Summer,Summer Wedding,197.26896551724138,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-17,41.05,136.32,22.28,45.35,19.11,0.75,59.85,April,Summer,Summer Wedding,124.4676510067114,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-18,57.78,177.27,23.56,49.95,23.42,0.88,52.8,April,Summer,Summer Wedding,151.67604026845638,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-19,56.91,187.06,9.46,40.76,27.62,0.62,43.58,April,Summer,Summer Wedding,158.1808053691275,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-20,54.88,179.32,16.1,40.01,25.69,0.81,51.65,April,Summer,Summer Wedding,153.03812080536912,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-21,58.36,165.68,19.98,37.49,21.69,0.74,57.88,April,Summer,Summer Wedding,143.97530201342283,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-22,45.27,150.06,21.03,38.83,15.11,0.7,61.96,April,Summer,Summer Wedding,133.59691275167785,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-23,111.76,333.61,26.26,42.88,38.86,0.97,55.84,April,Summer,Summer Wedding,283.61,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-24,92.26,232.85,28.44,42.42,35.98,0.98,61.07,April,Summer,Summer Wedding,205.30137931034486,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-25,95.42,240.56,22.04,43.24,28.01,0.8,64.1,April,Summer,Summer Wedding,216.08896551724138,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-26,63.65,211.57,19.05,42.69,30.25,0.79,64.78,April,Summer,Summer Wedding,174.46597315436242,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-27,53.79,171.7,18.18,43.93,20.79,0.71,63.85,April,Summer,Summer Wedding,147.9751677852349,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-28,54.39,164.92,19.68,41.15,23.96,0.84,60.19,April,Summer,Summer Wedding,143.47033557046979,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-29,73.71,239.34,22.84,42.86,25.2,0.85,49.3,April,Summer,Summer Wedding,192.9171812080537,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-04-30,59.0,236.64,18.69,40.77,22.08,0.72,55.4,April,Summer,Summer Wedding,191.12322147651008,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-01,50.57,214.72,18.68,39.59,14.69,0.59,59.69,May,Summer,Summer Wedding,176.55892617449666,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-02,76.94,223.9,22.44,42.9,23.68,0.83,61.35,May,Summer,Summer Wedding,182.65838926174496,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-03,84.33,253.95,23.28,43.02,30.66,0.79,54.74,May,Summer,Summer Wedding,203.95,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-04,84.54,241.19,23.49,44.49,28.9,0.88,42.66,May,Summer,Summer Wedding,194.1463758389262,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-05,102.0,266.33,21.19,40.0,30.1,0.78,27.57,May,Summer,Summer Wedding,238.55172413793105,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-06,85.01,257.54,18.81,40.52,31.07,1.07,53.95,May,Summer,Summer Wedding,207.54000000000002,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-07,123.52,317.07,18.27,45.66,25.45,1.0,68.11,May,Summer,Summer Wedding,302.9339534883721,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-08,76.99,237.99,12.79,46.14,9.91,0.75,68.6,May,Summer,Summer Wedding,192.0202013422819,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-09,59.27,151.67,14.19,40.22,12.58,0.71,83.65,May,Summer,Summer Wedding,134.666644295302,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-10,77.57,166.6,14.32,41.32,13.53,0.82,83.47,May,Summer,Summer Wedding,157.56655172413792,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-11,66.55,291.22,18.24,37.45,22.67,0.85,79.16,May,Summer,Summer Wedding,241.22000000000003,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-12,130.27,265.83,25.82,41.9,35.38,0.94,60.75,May,Summer,Summer Wedding,308.11418604651163,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-13,107.76,230.22,24.95,43.15,25.22,1.02,60.91,May,Summer,Summer Wedding,258.21517241379314,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-14,143.27,288.64,27.98,43.14,34.49,1.06,70.63,May,Summer,Summer Wedding,318.09093023255815,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-15,232.12,416.75,43.94,48.95,44.85,1.15,69.03,May,Summer,Summer Wedding,386.27813953488373,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-16,113.23,249.31,28.93,45.43,34.74,1.07,64.87,May,Summer,Summer Wedding,276.88862068965517,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-17,169.48,358.07,36.81,54.68,32.88,1.23,62.7,May,Summer,Summer Wedding,338.2055813953488,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-18,162.48,377.35,30.41,54.77,42.56,1.01,57.24,May,Summer,Summer Wedding,334.0208860759494,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-19,111.62,285.8,23.26,50.02,29.79,0.99,62.37,May,Summer,Summer Wedding,271.39241379310346,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-20,90.23,252.89,25.04,46.47,28.37,0.85,48.64,May,Summer,Summer Wedding,202.89,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-21,71.52,209.91,18.17,46.24,16.67,0.86,54.22,May,Summer,Summer Wedding,173.36302013422818,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-22,75.41,178.47,14.71,48.57,13.41,0.79,49.26,May,Summer,Summer Wedding,152.47335570469798,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-23,54.21,122.09,13.59,44.06,10.21,0.67,50.45,May,Summer,Summer Wedding,115.01281879194632,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-24,79.64,179.41,18.82,44.35,14.52,0.75,42.14,May,Summer,Summer Wedding,164.63310344827585,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-25,62.14,198.24,27.3,43.1,14.74,0.91,70.52,May,Summer,Summer Wedding,165.60912751677853,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-26,98.0,235.6,27.24,46.46,29.5,0.98,54.1,May,Summer,Summer Wedding,224.89655172413794,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-27,88.06,209.5,20.17,49.25,27.27,0.77,57.57,May,Summer,Summer Wedding,193.37724137931036,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-28,106.46,254.73,21.47,46.44,34.75,0.75,57.29,May,Summer,Summer Wedding,253.77724137931034,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-29,114.78,299.69,19.96,51.06,39.04,0.65,51.17,May,Summer,Summer Wedding,282.18,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-30,95.36,307.27,22.88,50.07,33.2,0.94,60.53,May,Summer,Summer Wedding,257.27,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-05-31,87.24,271.34,21.79,49.3,32.65,0.75,65.38,May,Summer,Summer Wedding,221.33999999999997,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-01,94.83,409.91,18.32,48.29,29.97,0.65,50.2,June,Monsoon,Non-Festival Period,374.82392405063297,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-02,86.01,319.47,15.28,46.49,36.57,0.84,61.03,June,Monsoon,Non-Festival Period,269.47,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-03,88.11,366.25,16.35,49.74,28.73,0.63,53.88,June,Monsoon,Non-Festival Period,320.1107594936709,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-04,97.06,235.05,23.51,52.36,31.14,0.83,53.24,June,Monsoon,Non-Festival Period,221.68758620689655,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-05,89.82,263.21,18.34,57.46,27.41,0.64,52.23,June,Monsoon,Non-Festival Period,213.20999999999998,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-06,64.72,194.88,14.04,45.68,14.84,1.0,52.11,June,Monsoon,Non-Festival Period,163.37664429530201,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-07,54.7,264.82,11.23,43.17,21.41,0.87,60.22,June,Monsoon,Non-Festival Period,214.82,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-08,59.28,243.42,12.77,42.34,21.52,0.85,62.08,June,Monsoon,Non-Festival Period,195.62805369127517,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-09,50.08,180.72,16.23,40.75,21.6,0.86,62.26,June,Monsoon,Non-Festival Period,153.968322147651,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-10,61.18,194.57,14.84,42.99,24.68,0.89,65.87,June,Monsoon,Non-Festival Period,163.1706711409396,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-11,67.83,212.61,11.94,40.42,35.75,0.96,68.74,June,Monsoon,Non-Festival Period,175.15697986577183,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-12,89.08,240.65,11.92,42.76,34.03,0.81,67.44,June,Monsoon,Non-Festival Period,196.85931034482758,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-13,55.97,233.92,14.03,44.56,22.85,0.89,49.62,June,Monsoon,Non-Festival Period,189.3159731543624,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-14,58.38,295.76,11.61,47.64,23.15,0.82,41.26,June,Monsoon,Non-Festival Period,245.76,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-15,44.33,233.03,9.39,44.64,17.24,0.85,27.63,June,Monsoon,Non-Festival Period,188.72463087248323,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-16,47.77,236.53,9.87,43.51,14.73,0.81,32.66,June,Monsoon,Non-Festival Period,191.05013422818791,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-17,50.72,223.05,11.11,48.34,18.04,0.93,30.54,June,Monsoon,Non-Festival Period,182.09362416107382,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-18,52.63,266.11,12.07,50.15,13.99,0.85,29.32,June,Monsoon,Non-Festival Period,216.11,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-19,58.54,341.27,12.08,49.23,21.34,0.45,37.05,June,Monsoon,Non-Festival Period,291.27,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-20,56.82,122.1,16.19,38.09,36.28,1.53,35.13,June,Monsoon,Non-Festival Period,115.01946308724831,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-21,79.17,165.58,17.29,46.28,27.65,0.97,29.06,June,Monsoon,Non-Festival Period,163.02862068965518,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-22,86.16,214.04,18.05,52.24,28.82,0.97,34.91,June,Monsoon,Non-Festival Period,186.8910344827586,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-23,79.18,149.46,13.38,53.09,22.66,0.87,22.24,June,Monsoon,Non-Festival Period,163.0627586206897,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-24,67.54,132.45,20.82,48.48,19.34,0.98,20.43,June,Monsoon,Non-Festival Period,123.32620689655175,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-25,74.95,137.51,14.67,48.27,12.38,0.92,24.23,June,Monsoon,Non-Festival Period,148.62241379310345,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-26,63.11,129.69,12.18,52.38,16.56,0.76,19.32,June,Monsoon,Non-Festival Period,120.06248322147651,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-27,48.05,80.65,17.07,47.5,17.51,0.98,56.02,June,Monsoon,Non-Festival Period,80.65,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-28,37.47,59.67,10.91,46.17,7.31,0.61,38.73,June,Monsoon,Non-Festival Period,61.93206896551724,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-29,55.35,78.05,13.21,48.78,15.18,0.71,30.14,June,Monsoon,Non-Festival Period,92.14310344827587,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-06-30,67.93,107.87,11.42,46.78,8.69,0.78,52.38,June,Monsoon,Non-Festival Period,124.65758620689658,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-01,82.71,119.82,16.1,52.2,9.17,0.97,67.01,July,Monsoon,Non-Festival Period,175.11344827586203,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-02,63.14,88.8,14.02,52.96,13.29,0.73,40.93,July,Monsoon,Non-Festival Period,108.3055172413793,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-03,43.93,72.41,15.22,47.21,8.23,0.65,37.15,July,Monsoon,Non-Festival Period,72.84724137931035,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-04,28.73,50.67,12.75,41.83,11.63,0.36,41.47,July,Monsoon,Non-Festival Period,47.88333333333333,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-05,27.0,47.24,11.26,40.65,12.31,0.62,35.94,July,Monsoon,Non-Festival Period,47.24,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-06,28.81,51.17,14.71,41.21,15.26,0.8,33.35,July,Monsoon,Non-Festival Period,51.17,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-07,32.95,56.6,9.59,39.19,15.18,0.55,37.11,July,Monsoon,Non-Festival Period,56.6,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-08,24.45,53.26,15.92,37.21,19.18,0.69,38.13,July,Monsoon,Non-Festival Period,53.26,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-09,50.42,92.32,18.63,39.47,12.25,0.83,38.54,July,Monsoon,Non-Festival Period,92.32,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-10,74.22,133.85,20.92,43.19,14.9,0.83,36.28,July,Monsoon,Non-Festival Period,146.1303448275862,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-11,82.15,133.48,16.63,50.77,8.94,0.87,55.1,July,Monsoon,Non-Festival Period,173.20172413793105,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-12,61.02,138.67,16.36,46.41,9.99,0.7,52.55,July,Monsoon,Non-Festival Period,126.02906040268456,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-13,53.84,110.93,11.08,50.58,14.36,0.6,67.59,July,Monsoon,Non-Festival Period,107.59778523489933,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-14,106.07,188.15,12.03,62.51,16.22,0.59,41.7,July,Monsoon,Non-Festival Period,252.44586206896548,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-15,64.44,129.98,16.95,63.27,25.12,0.7,25.87,July,Monsoon,Non-Festival Period,120.25516778523489,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-16,59.27,105.24,8.63,56.1,9.21,0.51,48.16,July,Monsoon,Non-Festival Period,103.81718120805368,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-17,36.19,73.25,9.24,55.52,12.72,0.5,22.9,July,Monsoon,Non-Festival Period,73.25,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-18,53.23,102.96,11.0,51.32,8.16,0.63,36.19,July,Monsoon,Non-Festival Period,102.30228187919462,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-19,64.73,102.65,7.55,54.02,16.92,0.48,23.74,July,Monsoon,Non-Festival Period,113.73344827586209,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-20,62.45,107.57,9.71,48.41,11.79,0.54,24.11,July,Monsoon,Non-Festival Period,105.95000000000002,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-21,51.8,113.83,9.16,45.15,11.28,0.47,17.87,July,Monsoon,Non-Festival Period,109.52463087248321,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-22,33.1,59.49,10.39,41.6,18.04,0.49,17.19,July,Monsoon,Non-Festival Period,59.49,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-23,38.83,77.98,15.85,43.61,5.09,0.86,22.25,July,Monsoon,Non-Festival Period,77.98,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-24,36.3,60.78,5.02,45.11,6.18,0.32,31.01,July,Monsoon,Non-Festival Period,60.78,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-25,48.2,79.35,7.41,45.79,4.77,0.52,25.44,July,Monsoon,Non-Festival Period,80.06206896551726,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-26,44.08,70.25,6.14,43.5,8.81,0.51,18.78,July,Monsoon,Non-Festival Period,73.10068965517242,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-27,38.46,62.24,5.59,43.17,8.15,0.84,21.6,July,Monsoon,Non-Festival Period,63.604827586206895,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-28,47.69,95.18,7.76,40.94,24.95,0.87,41.1,July,Monsoon,Non-Festival Period,95.18,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-29,29.62,59.23,4.44,41.44,6.93,0.81,78.48,July,Monsoon,Non-Festival Period,78.48,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-30,39.73,69.44,7.33,42.85,11.17,0.96,87.62,July,Monsoon,Non-Festival Period,87.62,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-07-31,62.42,97.49,11.01,44.77,9.44,0.51,52.57,July,Monsoon,Non-Festival Period,105.84758620689655,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-01,16.88,27.83,9.09,40.5,7.5,0.49,30.57,August,Monsoon,Ganesh Chaturthi & Navratri,30.57,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-02,32.97,60.04,12.7,41.08,12.17,0.64,19.21,August,Monsoon,Ganesh Chaturthi & Navratri,60.04,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-03,38.12,85.68,10.46,40.85,13.42,0.44,27.92,August,Monsoon,Ganesh Chaturthi & Navratri,85.68,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-04,28.87,61.29,12.27,42.28,9.37,0.49,29.7,August,Monsoon,Ganesh Chaturthi & Navratri,61.29,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-05,23.08,45.61,7.8,40.22,13.9,0.39,31.75,August,Monsoon,Ganesh Chaturthi & Navratri,45.61,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-06,35.76,70.46,10.2,39.0,11.26,0.41,26.57,August,Monsoon,Ganesh Chaturthi & Navratri,70.46,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-07,19.7,31.25,6.75,37.67,7.36,0.3,20.89,August,Monsoon,Ganesh Chaturthi & Navratri,32.833333333333336,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-08,21.29,59.83,12.11,37.38,14.82,0.36,19.66,August,Monsoon,Ganesh Chaturthi & Navratri,59.83,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-09,30.25,75.23,12.54,36.04,18.75,0.43,20.36,August,Monsoon,Ganesh Chaturthi & Navratri,75.23,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-10,34.01,52.66,8.54,36.61,11.13,0.4,20.18,August,Monsoon,Ganesh Chaturthi & Navratri,56.08586206896551,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-11,29.48,46.29,12.1,36.47,9.49,0.35,14.87,August,Monsoon,Ganesh Chaturthi & Navratri,49.13333333333333,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-12,30.61,58.62,12.31,34.18,9.79,0.51,20.24,August,Monsoon,Ganesh Chaturthi & Navratri,58.62,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-13,46.83,86.63,16.64,32.44,16.33,0.5,22.23,August,Monsoon,Ganesh Chaturthi & Navratri,86.63,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-14,34.88,68.71,15.71,30.89,10.6,0.54,20.04,August,Monsoon,Ganesh Chaturthi & Navratri,68.71,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-15,31.11,53.1,12.98,31.41,7.94,0.48,25.25,August,Monsoon,Ganesh Chaturthi & Navratri,53.1,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-16,42.57,82.76,14.41,32.11,11.74,0.41,28.87,August,Monsoon,Ganesh Chaturthi & Navratri,82.76,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-17,44.87,65.45,14.96,32.01,10.44,0.54,23.51,August,Monsoon,Ganesh Chaturthi & Navratri,74.4355172413793,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-18,36.6,60.55,13.28,31.88,7.28,0.64,23.1,August,Monsoon,Ganesh Chaturthi & Navratri,60.55,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-19,44.41,70.77,13.53,32.21,15.12,0.76,15.56,August,Monsoon,Ganesh Chaturthi & Navratri,73.65827586206896,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-20,46.53,81.64,14.74,32.27,9.51,0.59,24.27,August,Monsoon,Ganesh Chaturthi & Navratri,81.64,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-21,54.26,98.74,16.1,33.32,12.5,0.58,33.97,August,Monsoon,Ganesh Chaturthi & Navratri,98.74,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-22,70.55,115.83,16.29,33.81,9.98,0.52,33.31,August,Monsoon,Ganesh Chaturthi & Navratri,133.60172413793103,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-23,52.29,91.05,15.04,32.06,12.5,0.64,28.08,August,Monsoon,Ganesh Chaturthi & Navratri,91.05,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-24,67.49,118.61,17.78,30.67,13.55,0.64,12.94,August,Monsoon,Ganesh Chaturthi & Navratri,123.1555172413793,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-25,26.43,54.95,13.07,28.82,9.24,0.48,17.05,August,Monsoon,Ganesh Chaturthi & Navratri,54.95,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-26,27.08,56.5,13.7,28.31,11.32,0.41,16.46,August,Monsoon,Ganesh Chaturthi & Navratri,56.5,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-27,17.31,40.49,11.15,27.67,6.53,0.18,22.5,August,Monsoon,Ganesh Chaturthi & Navratri,40.49,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-28,22.54,42.27,8.9,30.39,6.16,0.36,20.6,August,Monsoon,Ganesh Chaturthi & Navratri,42.27,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-29,25.72,54.58,9.15,31.95,9.41,0.36,22.28,August,Monsoon,Ganesh Chaturthi & Navratri,54.58,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-30,45.75,87.78,10.7,33.6,14.88,0.46,20.01,August,Monsoon,Ganesh Chaturthi & Navratri,87.78,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-08-31,43.45,72.66,7.87,34.01,14.59,0.38,22.59,August,Monsoon,Ganesh Chaturthi & Navratri,72.66,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-01,41.28,70.01,7.22,34.79,17.48,0.58,26.58,September,Monsoon,Ganesh Chaturthi & Navratri,70.01,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-02,27.78,47.22,4.43,34.36,6.09,0.38,24.01,September,Monsoon,Ganesh Chaturthi & Navratri,47.22,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-03,19.47,40.82,9.28,33.09,7.74,0.33,19.38,September,Monsoon,Ganesh Chaturthi & Navratri,40.82,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-04,33.92,70.77,19.6,31.9,11.67,0.41,12.58,September,Monsoon,Ganesh Chaturthi & Navratri,70.77,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-05,52.21,90.99,14.26,34.31,10.53,0.27,27.07,September,Monsoon,Ganesh Chaturthi & Navratri,90.99,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-06,41.25,68.72,11.49,34.08,8.4,0.31,23.4,September,Monsoon,Ganesh Chaturthi & Navratri,68.72,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-07,36.69,62.43,15.44,32.72,10.35,0.37,17.31,September,Monsoon,Ganesh Chaturthi & Navratri,62.43,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-08,43.38,70.19,11.91,36.36,16.19,1.13,25.48,September,Monsoon,Ganesh Chaturthi & Navratri,71.91793103448276,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-09,61.92,93.08,12.15,34.33,6.3,0.39,31.84,September,Monsoon,Ganesh Chaturthi & Navratri,104.14068965517242,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-10,46.25,87.7,14.96,34.83,10.06,0.32,28.95,September,Monsoon,Ganesh Chaturthi & Navratri,87.7,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-11,39.24,72.5,16.12,32.52,15.29,0.43,31.05,September,Monsoon,Ganesh Chaturthi & Navratri,72.5,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-12,27.02,41.05,10.37,32.09,3.63,0.25,26.14,September,Monsoon,Ganesh Chaturthi & Navratri,45.03333333333333,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-13,9.33,14.56,8.81,30.95,9.53,0.23,31.23,September,Monsoon,Ganesh Chaturthi & Navratri,31.23,Good,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-14,28.32,52.81,10.52,30.98,12.11,0.19,35.42,September,Monsoon,Ganesh Chaturthi & Navratri,52.81,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-15,37.13,69.81,10.98,29.33,11.04,0.28,28.73,September,Monsoon,Ganesh Chaturthi & Navratri,69.81,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-16,52.85,127.48,12.52,29.53,6.02,0.29,35.28,September,Monsoon,Ganesh Chaturthi & Navratri,118.59409395973155,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-17,68.92,148.73,12.78,30.36,9.29,0.34,27.53,September,Monsoon,Ganesh Chaturthi & Navratri,132.71322147651006,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-18,61.12,90.51,20.13,31.65,8.05,0.32,9.08,September,Monsoon,Ganesh Chaturthi & Navratri,101.40965517241378,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-19,40.57,78.78,17.3,30.56,11.24,0.29,17.7,September,Monsoon,Ganesh Chaturthi & Navratri,78.78,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-20,84.26,136.5,14.56,32.58,6.8,0.32,39.34,September,Monsoon,Ganesh Chaturthi & Navratri,180.40482758620692,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-21,79.64,165.42,20.975,42.48,16.365,0.85,35.94,September,Monsoon,Ganesh Chaturthi & Navratri,164.63310344827585,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-22,79.64,165.42,20.975,42.48,16.365,0.85,35.94,September,Monsoon,Ganesh Chaturthi & Navratri,164.63310344827585,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-23,97.67,157.19,19.18,35.73,12.08,1.14,56.21,September,Monsoon,Ganesh Chaturthi & Navratri,223.77,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-24,126.71,212.24,19.87,36.66,13.06,0.64,39.87,September,Monsoon,Ganesh Chaturthi & Navratri,305.38209302325583,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-25,80.61,134.77,10.31,35.44,4.53,0.3,15.72,September,Monsoon,Ganesh Chaturthi & Navratri,167.94448275862067,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-26,35.85,71.13,9.98,33.7,2.42,0.28,13.59,September,Monsoon,Ganesh Chaturthi & Navratri,71.13,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-27,31.91,61.91,9.07,32.0,4.11,0.18,14.53,September,Monsoon,Ganesh Chaturthi & Navratri,61.91,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-28,28.8,56.94,7.38,30.06,4.86,0.24,20.01,September,Monsoon,Ganesh Chaturthi & Navratri,56.94,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-29,34.9,69.61,10.76,29.14,18.87,0.22,24.39,September,Monsoon,Ganesh Chaturthi & Navratri,69.61,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-09-30,72.43,125.45,12.08,30.78,9.58,0.27,33.17,September,Monsoon,Ganesh Chaturthi & Navratri,140.01965517241382,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-01,77.01,146.72,12.31,31.92,11.11,0.36,33.73,October,Post-Monsoon,Diwali Festival Season,155.65482758620692,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-02,85.81,169.03,12.17,33.32,9.53,0.36,31.5,October,Post-Monsoon,Diwali Festival Season,185.69620689655173,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-03,93.95,196.88,20.2,33.35,13.95,0.42,35.71,October,Post-Monsoon,Diwali Festival Season,211.07068965517243,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-04,116.45,244.33,22.42,34.92,14.57,0.4,29.72,October,Post-Monsoon,Diwali Festival Season,287.88103448275865,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-05,127.82,254.69,35.03,49.1,11.8,0.41,22.37,October,Post-Monsoon,Diwali Festival Season,306.2339534883721,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-06,80.82,175.92,33.43,56.74,8.09,0.22,18.91,October,Post-Monsoon,Diwali Festival Season,168.66137931034478,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-07,81.79,154.39,29.62,57.62,5.92,0.21,24.5,October,Post-Monsoon,Diwali Festival Season,171.97275862068966,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-08,90.18,171.67,30.91,57.44,7.24,0.23,21.28,October,Post-Monsoon,Diwali Festival Season,147.95523489932884,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-09,88.74,167.77,34.53,55.57,9.68,0.28,28.27,October,Post-Monsoon,Diwali Festival Season,195.69862068965517,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-10,81.4,151.07,32.95,53.35,8.63,0.28,34.43,October,Post-Monsoon,Diwali Festival Season,170.64137931034486,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-11,88.88,165.42,29.7,51.18,20.7,0.51,56.17,October,Post-Monsoon,Diwali Festival Season,196.1765517241379,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-12,115.85,185.44,24.5,43.28,20.01,1.1,59.99,October,Post-Monsoon,Diwali Festival Season,285.8327586206896,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-13,187.62,152.17,21.46,49.44,21.41,1.15,62.21,October,Post-Monsoon,Diwali Festival Season,352.12697674418604,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-14,82.94,171.25,23.58,51.93,23.82,1.07,56.41,October,Post-Monsoon,Diwali Festival Season,175.89862068965516,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-15,126.11,202.74,24.49,52.03,25.03,1.25,55.27,October,Post-Monsoon,Diwali Festival Season,304.92162790697677,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-16,199.35,323.06,34.07,57.79,22.98,1.52,46.61,October,Post-Monsoon,Diwali Festival Season,361.1290697674419,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-17,149.35,253.44,28.11,51.56,11.87,1.01,52.57,October,Post-Monsoon,Diwali Festival Season,322.75697674418603,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-18,124.05,262.27,30.3,52.14,14.57,1.26,43.18,October,Post-Monsoon,Diwali Festival Season,303.3406976744186,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-19,118.56,253.3,32.7,54.52,13.77,1.14,40.09,October,Post-Monsoon,Diwali Festival Season,295.0841379310345,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-20,78.75,148.2,23.94,50.88,10.71,0.98,45.8,October,Post-Monsoon,Diwali Festival Season,161.5948275862069,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-21,61.05,138.53,30.65,47.22,10.32,0.94,43.31,October,Post-Monsoon,Diwali Festival Season,125.93604026845638,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-22,68.39,142.93,32.69,50.54,8.04,1.17,39.86,October,Post-Monsoon,Diwali Festival Season,128.8595302013423,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-23,87.53,155.63,31.53,56.39,7.72,1.35,39.54,October,Post-Monsoon,Diwali Festival Season,191.56793103448274,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-24,122.52,201.09,34.27,59.52,10.38,1.69,34.73,October,Post-Monsoon,Diwali Festival Season,302.16651162790697,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-25,117.73,204.49,35.78,59.91,11.91,1.59,42.79,October,Post-Monsoon,Diwali Festival Season,292.25068965517244,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-26,88.55,155.88,46.3,62.05,17.12,1.64,33.39,October,Post-Monsoon,Diwali Festival Season,195.04999999999998,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-27,63.86,98.35,32.21,56.25,7.0,1.15,30.91,October,Post-Monsoon,Diwali Festival Season,110.76344827586206,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-28,97.67,178.29,33.49,53.32,9.7,1.08,44.5,October,Post-Monsoon,Diwali Festival Season,223.77,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-29,81.33,175.11,32.41,49.8,15.05,1.05,47.33,October,Post-Monsoon,Diwali Festival Season,170.40241379310345,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-30,82.01,145.76,32.93,50.69,18.56,1.43,52.51,October,Post-Monsoon,Diwali Festival Season,172.7237931034483,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-10-31,119.95,218.78,29.2,59.48,19.07,1.65,53.31,October,Post-Monsoon,Diwali Festival Season,299.8293103448276,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-01,157.67,271.6,37.88,62.88,28.72,1.9,43.07,November,Post-Monsoon,Diwali Festival Season,329.1420930232558,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-02,158.49,300.6,46.23,59.7,29.44,1.91,29.12,November,Post-Monsoon,Diwali Festival Season,329.77139534883725,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-03,102.59,210.82,31.59,55.59,15.86,1.41,22.5,November,Post-Monsoon,Diwali Festival Season,240.56586206896554,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-04,99.96,223.45,34.6,58.51,10.41,1.44,24.18,November,Post-Monsoon,Diwali Festival Season,231.58758620689653,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-05,121.36,254.91,26.62,58.36,5.18,1.21,17.54,November,Post-Monsoon,Diwali Festival Season,301.27627906976744,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-06,95.7,210.4,33.27,59.91,8.06,1.46,18.92,November,Post-Monsoon,Diwali Festival Season,217.0448275862069,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-07,125.6,276.96,38.41,59.76,10.98,1.46,18.05,November,Post-Monsoon,Diwali Festival Season,304.5302325581395,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-08,153.7,325.6,33.11,66.29,8.1,1.17,17.8,November,Post-Monsoon,Diwali Festival Season,326.0953488372093,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-09,94.72,217.08,31.47,59.48,8.76,1.35,13.1,November,Post-Monsoon,Diwali Festival Season,213.69931034482758,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-10,105.48,217.81,38.94,54.59,14.34,1.18,11.22,November,Post-Monsoon,Diwali Festival Season,250.43172413793104,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-11,109.48,224.85,30.76,62.48,17.16,1.43,11.24,November,Post-Monsoon,Diwali Festival Season,264.0868965517242,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-12,110.47,245.56,38.15,69.77,20.62,1.69,11.01,November,Post-Monsoon,Diwali Festival Season,267.46655172413796,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-13,156.11,318.55,33.57,75.47,16.07,2.18,12.61,November,Post-Monsoon,Diwali Festival Season,327.94488372093025,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-14,102.72,374.3,36.14,61.44,16.55,2.16,9.74,November,Post-Monsoon,Diwali Festival Season,330.1987341772152,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-15,123.81,425.96,37.52,62.43,12.99,2.07,10.81,November,Post-Monsoon,Diwali Festival Season,394.9372151898734,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-16,136.28,386.79,44.71,66.15,18.41,2.37,10.92,November,Post-Monsoon,Diwali Festival Season,345.8507594936709,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-17,103.15,251.25,38.32,61.38,11.18,1.93,8.05,November,Post-Monsoon,Diwali Festival Season,242.47758620689658,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-18,139.32,366.17,41.62,61.78,10.58,2.5,9.26,November,Post-Monsoon,Diwali Festival Season,320.0105063291139,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-19,144.26,331.11,46.08,53.34,11.51,2.28,7.45,November,Post-Monsoon,Diwali Festival Season,318.8506976744186,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-20,80.31,214.49,42.01,48.81,18.97,1.46,6.53,November,Post-Monsoon,Diwali Festival Season,176.40610738255035,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-21,98.95,218.34,39.29,49.42,19.89,1.19,6.18,November,Post-Monsoon,Diwali Festival Season,228.1396551724138,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-22,117.26,226.16,48.62,51.15,27.32,1.65,5.26,November,Post-Monsoon,Diwali Festival Season,290.64620689655175,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-23,127.03,250.26,55.61,63.81,19.44,1.93,13.7,November,Post-Monsoon,Diwali Festival Season,305.62767441860467,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-24,88.93,282.14,58.5,66.62,9.79,1.78,51.36,November,Post-Monsoon,Diwali Festival Season,232.14,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-25,120.49,283.53,49.43,71.95,17.22,0.66,31.77,November,Post-Monsoon,Diwali Festival Season,233.52999999999997,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-26,102.64,220.17,43.27,64.23,18.67,0.51,8.3,November,Post-Monsoon,Diwali Festival Season,240.73655172413794,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-27,89.75,203.09,48.81,63.24,21.11,0.52,12.37,November,Post-Monsoon,Diwali Festival Season,199.14655172413794,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-28,99.34,232.86,58.95,64.12,23.7,0.77,16.47,November,Post-Monsoon,Diwali Festival Season,229.47103448275863,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-29,77.74,163.44,48.68,58.18,18.91,0.6,16.38,November,Post-Monsoon,Diwali Festival Season,158.14689655172413,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-11-30,84.35,185.48,47.53,58.5,20.49,0.53,11.75,November,Post-Monsoon,Diwali Festival Season,180.71206896551723,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-01,93.02,203.12,44.31,61.53,26.93,0.49,11.84,December,Winter,Christmas & New Year,207.8958620689655,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-02,78.29,167.9,51.99,61.46,20.49,0.63,15.32,December,Winter,Christmas & New Year,160.0244827586207,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-03,59.04,132.07,32.65,54.59,18.15,0.4,18.53,December,Winter,Christmas & New Year,121.6438255033557,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-04,42.85,98.64,27.21,47.34,16.4,0.31,15.84,December,Winter,Christmas & New Year,98.64,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-05,45.15,93.88,30.86,48.87,13.09,0.31,13.55,December,Winter,Christmas & New Year,93.88,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-06,49.55,90.93,31.76,50.68,20.98,0.35,15.71,December,Winter,Christmas & New Year,90.93,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-07,89.79,175.34,67.32,59.49,28.75,0.65,16.56,December,Winter,Christmas & New Year,199.28310344827588,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-08,73.71,141.96,27.82,52.54,17.53,0.41,9.98,December,Winter,Christmas & New Year,144.38931034482755,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-09,35.28,69.5,24.42,43.36,15.77,0.31,9.71,December,Winter,Christmas & New Year,69.5,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-10,46.33,91.46,29.19,48.27,17.9,0.26,9.12,December,Winter,Christmas & New Year,91.46,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-11,53.62,102.15,34.7,58.33,17.11,0.21,8.58,December,Winter,Christmas & New Year,101.76409395973155,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-12,66.24,124.73,39.26,64.42,17.01,0.26,30.07,December,Winter,Christmas & New Year,118.88827586206895,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-13,52.17,107.71,30.09,55.27,13.35,0.28,67.71,December,Winter,Christmas & New Year,105.458322147651,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-14,62.24,125.53,43.0,64.3,15.55,0.31,47.75,December,Winter,Christmas & New Year,117.29845637583892,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-15,102.39,214.45,53.91,79.29,23.92,0.57,35.94,December,Winter,Christmas & New Year,239.88310344827585,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-16,86.18,221.55,54.23,70.69,26.19,0.67,81.07,December,Winter,Christmas & New Year,186.9593103448276,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-17,81.75,209.69,49.18,65.35,20.05,0.84,46.66,December,Winter,Christmas & New Year,173.2168456375839,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-18,69.85,187.52,42.87,63.63,23.02,0.89,41.07,December,Winter,Christmas & New Year,158.48644295302014,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-19,136.21,309.41,39.29,54.72,13.14,1.59,39.61,December,Winter,Christmas & New Year,312.67279069767443,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-20,76.96,189.03,30.97,39.13,18.04,0.93,43.95,December,Winter,Christmas & New Year,159.48973154362417,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-21,88.04,205.66,30.21,39.53,17.81,0.87,60.59,December,Winter,Christmas & New Year,193.3089655172414,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-22,98.78,207.24,29.58,42.95,17.56,0.93,69.57,December,Winter,Christmas & New Year,227.5593103448276,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-23,105.93,242.91,35.06,42.23,13.54,1.41,12.73,December,Winter,Christmas & New Year,251.96793103448277,Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-24,73.12,167.32,29.33,40.84,17.33,1.22,22.74,December,Winter,Christmas & New Year,145.06496644295302,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-25,58.18,134.12,24.18,36.35,8.66,0.89,29.82,December,Winter,Christmas & New Year,123.00590604026846,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-26,143.93,333.12,39.51,57.26,17.55,2.07,27.94,December,Winter,Christmas & New Year,318.5974418604651,Very Poor,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-27,73.84,160.52,24.91,42.44,4.53,0.66,9.53,December,Winter,Christmas & New Year,144.83310344827586,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-28,29.02,63.22,17.37,27.14,4.82,0.69,11.85,December,Winter,Christmas & New Year,63.22,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-29,34.73,83.41,9.19,25.5,4.21,0.56,17.43,December,Winter,Christmas & New Year,83.41,Satisfactory,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-30,43.8,115.47,10.38,27.9,8.89,0.59,24.77,December,Winter,Christmas & New Year,110.61429530201342,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
+2024-12-31,59.32,143.35,11.21,28.75,7.8,0.62,24.36,December,Winter,Christmas & New Year,129.13859060402683,Moderate,Muzaffarnagar,Uttar Pradesh,29.4496978,77.7429333
